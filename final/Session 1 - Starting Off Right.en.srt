@@ -1,0 +1,4520 @@
+1
+00:00:16,340 --> 00:00:17,240
+Hi, I'm Steve krenz
+
+2
+00:00:17,240 --> 00:00:19,790
+and I'd like to welcome you to learn and master guitar,
+
+3
+00:00:20,300 --> 00:00:21,680
+I am a professional guitarist,
+
+4
+00:00:21,680 --> 00:00:23,090
+I live here in Nashville Tennessee
+
+5
+00:00:23,360 --> 00:00:25,910
+and I teach and play and record every day,
+
+6
+00:00:25,940 --> 00:00:28,640
+in this session, we're going to cover the parts of the guitar,
+
+7
+00:00:28,820 --> 00:00:30,020
+how to tune the instrument,
+
+8
+00:00:30,630 --> 00:00:32,130
+what are the names of the strings,
+
+9
+00:00:32,490 --> 00:00:35,280
+correct right and left hand technique,
+
+10
+00:00:35,980 --> 00:00:38,140
+how to read guitar tablature,
+
+11
+00:00:38,320 --> 00:00:39,970
+how to read guitar chords
+
+12
+00:00:40,120 --> 00:00:41,710
+and we're going to learn first two chords.
+
+13
+00:00:42,100 --> 00:00:43,690
+So in our guitar tips section,
+
+14
+00:00:43,690 --> 00:00:46,420
+you're also going to be talking about getting your instrument ready to play,
+
+15
+00:00:46,420 --> 00:00:49,870
+setting up the action, changing the strings, those sorts of issues.
+
+16
+00:00:50,450 --> 00:00:53,720
+In every session, there will be an assignment page at the end,
+
+17
+00:00:53,780 --> 00:00:57,500
+that shows you clearly exactly what you need to cover for the next coming session.
+
+18
+00:00:58,290 --> 00:00:59,460
+And in our workshop time,
+
+19
+00:00:59,670 --> 00:01:00,750
+I'll practice with you
+
+20
+00:01:00,750 --> 00:01:03,000
+over the material that you need to learn in order to move on,
+
+21
+00:01:03,270 --> 00:01:04,440
+are you ready to learn guitar,
+
+22
+00:01:04,500 --> 00:01:13,290
+let's go ahead and get started.
+
+23
+00:01:16,840 --> 00:01:19,660
+Okay, the first thing we want to talk about is the parts of the guitar,
+
+24
+00:01:20,840 --> 00:01:23,330
+most guitars are pretty similar in their design,
+
+25
+00:01:23,510 --> 00:01:25,010
+this in acoustic guitar,
+
+26
+00:01:25,460 --> 00:01:27,440
+we have the body of the guitar right here,
+
+27
+00:01:28,600 --> 00:01:30,490
+you've got the neck right here,
+
+28
+00:01:31,220 --> 00:01:33,560
+the head stock here with the tuning pegs,
+
+29
+00:01:34,160 --> 00:01:35,840
+your guitar has six strings,
+
+30
+00:01:36,710 --> 00:01:38,870
+they're attached on this end by the tuning keys,
+
+31
+00:01:39,230 --> 00:01:40,760
+down on this end by the bridge,
+
+32
+00:01:40,760 --> 00:01:42,530
+there's a lot of tension on this bridge,
+
+33
+00:01:43,460 --> 00:01:44,240
+you always want to make sure,
+
+34
+00:01:44,240 --> 00:01:47,780
+that's attach nice and tight to your sound board of your guitar,
+
+35
+00:01:48,530 --> 00:01:51,140
+sometimes your guitar will have a pick guard here,
+
+36
+00:01:51,260 --> 00:01:53,150
+so it doesn't scratch up your guitar when you play,
+
+37
+00:01:53,270 --> 00:01:57,180
+these silver bars and the gold bars are frets,
+
+38
+00:01:58,170 --> 00:02:00,000
+we will learn an awful lot about frets
+
+39
+00:02:00,000 --> 00:02:03,150
+and where to where to put your fingers on them
+
+40
+00:02:03,180 --> 00:02:04,380
+as well as on the fret board.
+
+41
+00:02:05,030 --> 00:02:06,560
+So that's the parts of the guitar,
+
+42
+00:02:06,770 --> 00:02:09,920
+the next thing we need to learn is the names of our strings.
+
+43
+00:02:10,660 --> 00:02:12,160
+You have six strings on a guitar,
+
+44
+00:02:12,680 --> 00:02:13,910
+of course it's first through six,
+
+45
+00:02:13,910 --> 00:02:16,340
+but they're numbered from the thinnest string,
+
+46
+00:02:16,790 --> 00:02:18,140
+which is actually the bottom one,
+
+47
+00:02:18,980 --> 00:02:21,290
+up through the thickest, which is the top one,
+
+48
+00:02:21,290 --> 00:02:22,640
+so this would be the first,
+
+49
+00:02:25,180 --> 00:02:26,260
+this should be the second,
+
+50
+00:02:28,050 --> 00:02:28,860
+third,
+
+51
+00:02:30,520 --> 00:02:31,240
+and so on.
+
+52
+00:02:32,040 --> 00:02:34,380
+Now, they also have letter names that go along with them,
+
+53
+00:02:35,480 --> 00:02:38,420
+the musical alphabet goes from A to G,
+
+54
+00:02:39,060 --> 00:02:42,000
+so there's different letter names that correspond with each one of these strings
+
+55
+00:02:42,000 --> 00:02:44,340
+and that's one of the first things we need to learn,
+
+56
+00:02:44,520 --> 00:02:45,780
+so let's learn that first.
+
+57
+00:02:46,950 --> 00:02:48,750
+We're going to do three strings at a time,
+
+58
+00:02:49,440 --> 00:02:51,810
+when I when we do more than three strings,
+
+59
+00:02:51,810 --> 00:02:52,830
+everybody gets confused,
+
+60
+00:02:52,830 --> 00:02:54,450
+so we're just gonna do three strings at a time.
+
+61
+00:02:55,130 --> 00:02:58,590
+The first string is an E,
+
+62
+00:03:01,110 --> 00:03:02,850
+so go ahead and try and play E.
+
+63
+00:03:04,400 --> 00:03:07,170
+Your second string is a B,
+
+64
+00:03:10,060 --> 00:03:12,940
+your third string is a G,
+
+65
+00:03:13,360 --> 00:03:21,220
+goes to those three, that's E B and G.
+
+66
+00:03:23,440 --> 00:03:24,580
+So if I asked you,
+
+67
+00:03:24,880 --> 00:03:26,290
+what is the second string,
+
+68
+00:03:27,560 --> 00:03:28,580
+what would you think.
+
+69
+00:03:29,760 --> 00:03:31,680
+And if I said what is the first string.
+
+70
+00:03:34,200 --> 00:03:37,970
+And if I said G is on what string or which string,
+
+71
+00:03:38,270 --> 00:03:39,170
+what would you say.
+
+72
+00:03:40,350 --> 00:03:42,540
+Good, let's do the next three,
+
+73
+00:03:42,870 --> 00:03:47,310
+so we have E B and G,
+
+74
+00:03:47,550 --> 00:03:48,570
+we're going to the next three,
+
+75
+00:03:48,570 --> 00:03:51,240
+the fourth string is D,
+
+76
+00:03:52,700 --> 00:03:54,410
+the fifth string is an A,
+
+77
+00:03:56,250 --> 00:03:58,800
+and the sixth string is another E,
+
+78
+00:03:59,340 --> 00:04:02,790
+two outside ones, first string and six string are both E.
+
+79
+00:04:03,990 --> 00:04:05,100
+So let's put them all together,
+
+80
+00:04:05,100 --> 00:04:05,730
+are you ready?
+
+81
+00:04:06,370 --> 00:04:15,240
+E B G D A and E,
+
+82
+00:04:15,900 --> 00:04:16,890
+did you get all those,
+
+83
+00:04:17,310 --> 00:04:18,300
+alright, let's try,
+
+84
+00:04:18,750 --> 00:04:21,000
+if I said to you which string,
+
+85
+00:04:21,180 --> 00:04:23,400
+what is the note of the fifth string,
+
+86
+00:04:24,420 --> 00:04:25,230
+what would you say.
+
+87
+00:04:27,040 --> 00:04:28,270
+What about the second string.
+
+88
+00:04:30,140 --> 00:04:31,940
+What string is a D on?
+
+89
+00:04:34,090 --> 00:04:35,740
+What string is an A on?
+
+90
+00:04:38,120 --> 00:04:38,750
+Pretty good.
+
+91
+00:04:39,850 --> 00:04:43,540
+Alright, now let's talk about right-hand technique,
+
+92
+00:04:43,810 --> 00:04:46,060
+the first thing we need to talk about is our pick,
+
+93
+00:04:46,540 --> 00:04:48,940
+there's all different kinds of picks that you can use,
+
+94
+00:04:49,000 --> 00:04:51,670
+there's heavies mediums and lights,
+
+95
+00:04:51,790 --> 00:04:53,170
+different shapes and sizes,
+
+96
+00:04:53,350 --> 00:04:56,860
+I'd say the best thing to start out with is a medium pick
+
+97
+00:04:57,280 --> 00:04:58,720
+one of these teardrop shape ones.
+
+98
+00:05:00,120 --> 00:05:01,020
+And how do you hold it,
+
+99
+00:05:01,410 --> 00:05:07,600
+well, you put your pick in between your first finger and your thumb,
+
+100
+00:05:08,760 --> 00:05:12,060
+you want to kind of make a ninety degree angle right there,
+
+101
+00:05:12,730 --> 00:05:16,240
+between your thumb and the and the downward point of the pick,
+
+102
+00:05:16,660 --> 00:05:19,900
+now your first finger is kind of pointing out a little bit,
+
+103
+00:05:19,900 --> 00:05:23,470
+almost at a 45 degree angle out underneath that pick,
+
+104
+00:05:23,950 --> 00:05:26,680
+you've got oh what is that about a half an inch showing
+
+105
+00:05:27,070 --> 00:05:28,780
+and that's about how much you need to have
+
+106
+00:05:29,170 --> 00:05:31,480
+as far as your pick, you don't want to be up too high,
+
+107
+00:05:32,320 --> 00:05:34,420
+or out too wide on it,
+
+108
+00:05:34,630 --> 00:05:35,590
+about half an inch
+
+109
+00:05:35,590 --> 00:05:37,630
+and you hold it with a good strong grip,
+
+110
+00:05:37,900 --> 00:05:38,290
+one more thing,
+
+111
+00:05:38,290 --> 00:05:40,870
+we need to talk about with our right hand is bracing,
+
+112
+00:05:41,140 --> 00:05:42,190
+what that is,
+
+113
+00:05:42,190 --> 00:05:44,680
+is as we're playing the different strings,
+
+114
+00:05:45,100 --> 00:05:47,440
+you're going to need your hand is going to need some place,
+
+115
+00:05:47,500 --> 00:05:49,240
+that it can reference itself from,
+
+116
+00:05:49,660 --> 00:05:51,520
+whether it's, whether it's playing the second string,
+
+117
+00:05:51,520 --> 00:05:53,170
+or the fourth string, or the third string,
+
+118
+00:05:53,290 --> 00:05:55,180
+it's gonna get confused pretty quickly,
+
+119
+00:05:55,270 --> 00:05:55,960
+you'll find,
+
+120
+00:05:56,050 --> 00:05:57,670
+unless it's anchored somewhere,
+
+121
+00:05:58,120 --> 00:05:59,470
+so a good place to start,
+
+122
+00:05:59,500 --> 00:06:01,360
+different guitar players do it different ways,
+
+123
+00:06:01,360 --> 00:06:02,320
+but a good place to start is
+
+124
+00:06:02,320 --> 00:06:05,290
+to just put your pinky and let it touch the sound board,
+
+125
+00:06:06,000 --> 00:06:07,710
+I don't really particularly care where
+
+126
+00:06:07,710 --> 00:06:08,820
+and it doesn't have to touch hard,
+
+127
+00:06:08,850 --> 00:06:09,870
+just needs to touch it,
+
+128
+00:06:09,870 --> 00:06:12,090
+just helps your hand know where it's at
+
+129
+00:06:12,210 --> 00:06:13,560
+and what it needs to do.
+
+130
+00:06:13,830 --> 00:06:17,520
+All right, let's try and pick a couple of these different strings
+
+131
+00:06:17,520 --> 00:06:19,500
+and get some practice picking the strings.
+
+132
+00:06:20,570 --> 00:06:22,520
+Let's do the first string,
+
+133
+00:06:22,850 --> 00:06:23,510
+you ready?
+
+134
+00:06:24,530 --> 00:06:27,260
+Let's go.
+
+135
+00:06:30,790 --> 00:06:32,860
+Okay, what about the third string,
+
+136
+00:06:32,980 --> 00:06:35,500
+what's the name of that third string, do you remember?
+
+137
+00:06:36,330 --> 00:06:39,360
+Here we go, the third string.
+
+138
+00:06:41,660 --> 00:06:44,120
+Very good, the fifth string,
+
+139
+00:06:45,090 --> 00:06:48,690
+do you remember name that one?
+
+140
+00:06:51,680 --> 00:06:56,000
+Very good, now that's the right hand let's talk about the left hand as well.
+
+141
+00:06:56,690 --> 00:07:00,260
+Left hand, this is going to be the hand that you're going to be using to fret the different notes with.
+
+142
+00:07:01,350 --> 00:07:02,190
+How this works,
+
+143
+00:07:02,190 --> 00:07:03,600
+as far as the guitar is concerned,
+
+144
+00:07:03,600 --> 00:07:05,670
+you've got four fingers on this hand,
+
+145
+00:07:06,000 --> 00:07:07,260
+you don't really use your thumb,
+
+146
+00:07:07,260 --> 00:07:11,850
+some players, some country players do use their thumb
+
+147
+00:07:11,850 --> 00:07:15,060
+to kind of reach over and catch some of the lower bass notes,
+
+148
+00:07:15,180 --> 00:07:17,430
+but it's pretty tricky to do that
+
+149
+00:07:17,430 --> 00:07:19,110
+and not really all that effective,
+
+150
+00:07:19,230 --> 00:07:21,810
+so we're gonna go ahead and bring that wrist down,
+
+151
+00:07:22,540 --> 00:07:23,830
+and put this hand out,
+
+152
+00:07:24,580 --> 00:07:25,450
+like such,
+
+153
+00:07:25,450 --> 00:07:27,380
+you want make sure,
+
+154
+00:07:27,380 --> 00:07:29,600
+you want to make sure that there's air space right here,
+
+155
+00:07:29,810 --> 00:07:32,030
+you don't want your wrist to be way up like this,
+
+156
+00:07:34,090 --> 00:07:36,160
+or gripping the guitar very hard like that,
+
+157
+00:07:36,550 --> 00:07:37,930
+needs to be down a little bit,
+
+158
+00:07:38,020 --> 00:07:40,030
+got a little bit of air space in between there.
+
+159
+00:07:41,060 --> 00:07:44,240
+Now let's put our first finger on the first fret,
+
+160
+00:07:45,120 --> 00:07:46,980
+okay, where do we put our finger,
+
+161
+00:07:46,980 --> 00:07:51,830
+well, anywhere between here and here is fair game,
+
+162
+00:07:52,960 --> 00:07:54,430
+but having said that,
+
+163
+00:07:55,090 --> 00:07:57,280
+right up behind the fret,
+
+164
+00:07:57,900 --> 00:08:00,060
+is the easiest place to press it down with
+
+165
+00:08:00,060 --> 00:08:02,660
+and you get them best sound from it,
+
+166
+00:08:02,660 --> 00:08:03,800
+not on the fret,
+
+167
+00:08:04,250 --> 00:08:06,800
+a lot of folks think you might put your finger on the fret,
+
+168
+00:08:06,950 --> 00:08:08,000
+not at all,
+
+169
+00:08:08,000 --> 00:08:11,900
+that gets this kind of funky muted sound is not quite what you're going for,
+
+170
+00:08:12,170 --> 00:08:14,510
+you want to be hugging up right behind that fret.
+
+171
+00:08:14,780 --> 00:08:16,760
+Okay, ready, we're on the first string,
+
+172
+00:08:17,340 --> 00:08:18,720
+with our first finger,
+
+173
+00:08:19,020 --> 00:08:20,190
+we're gonna pick over here,
+
+174
+00:08:20,220 --> 00:08:21,540
+we're [] our hand,
+
+175
+00:08:22,380 --> 00:08:23,730
+and we do this first thing,
+
+176
+00:08:23,760 --> 00:08:24,450
+you ready,
+
+177
+00:08:24,810 --> 00:08:25,920
+let's play it together.
+
+178
+00:08:28,560 --> 00:08:29,370
+Do it again.
+
+179
+00:08:31,530 --> 00:08:32,820
+And one more time.
+
+180
+00:08:34,830 --> 00:08:36,060
+That's with our first finger,
+
+181
+00:08:36,240 --> 00:08:41,130
+now your first finger is going to cover anything that happens on any of the strings,
+
+182
+00:08:41,740 --> 00:08:43,000
+in this first fret.
+
+183
+00:08:44,030 --> 00:08:50,940
+Your second finger is going to cover anything that happens on any of the strings on the second fret,
+
+184
+00:08:51,650 --> 00:08:52,910
+let's try second finger,
+
+185
+00:08:53,270 --> 00:08:57,110
+so we released the first finger and put our second finger down here.
+
+186
+00:09:03,400 --> 00:09:04,930
+Okay, now let's try the third,
+
+187
+00:09:05,350 --> 00:09:07,570
+so we put third down nice and strong,
+
+188
+00:09:08,270 --> 00:09:09,500
+release the others up,
+
+189
+00:09:13,920 --> 00:09:18,750
+now some of you may be getting a buzzing sort of a sound,
+
+190
+00:09:18,750 --> 00:09:19,500
+kind of like this,
+
+191
+00:09:20,790 --> 00:09:22,890
+if your fingers aren't strong enough
+
+192
+00:09:23,160 --> 00:09:26,430
+to get good contact with that string to that fret board
+
+193
+00:09:26,460 --> 00:09:28,110
+you kind of end up with this buzzy sound,
+
+194
+00:09:29,670 --> 00:09:30,570
+all that's telling you is,
+
+195
+00:09:30,570 --> 00:09:32,490
+you're not making a good enough contact,
+
+196
+00:09:32,880 --> 00:09:36,270
+to make sure that fingers hung up right close back behind that fret,
+
+197
+00:09:36,540 --> 00:09:38,430
+that's the easiest place to put it down,
+
+198
+00:09:39,830 --> 00:09:43,070
+and there you wanna make sure you get a nice good clear sound.
+
+199
+00:09:45,740 --> 00:09:46,880
+Okay, now let's do pinky,
+
+200
+00:09:46,910 --> 00:09:49,250
+pinky is going to be the weakest of all of your fingers,
+
+201
+00:09:49,460 --> 00:09:51,860
+so you're gonna really have to put it down strong.
+
+202
+00:09:52,580 --> 00:09:53,690
+Let's try the pinky,
+
+203
+00:10:00,060 --> 00:10:00,900
+very good,
+
+204
+00:10:01,050 --> 00:10:01,950
+you want to make sure that,
+
+205
+00:10:01,950 --> 00:10:04,500
+your hand is not way up here like this,
+
+206
+00:10:04,800 --> 00:10:07,770
+all off centered with your fingers kind of aimed up this way,
+
+207
+00:10:07,890 --> 00:10:11,280
+you want that wrist down open up those fingers,
+
+208
+00:10:12,280 --> 00:10:15,100
+I bring it out like that where each finger is covering a fret,
+
+209
+00:10:16,140 --> 00:10:17,880
+a lot of players will come at it like this,
+
+210
+00:10:17,880 --> 00:10:20,610
+and then when they have to use something in that third or fourth fret,
+
+211
+00:10:20,700 --> 00:10:22,200
+they have to open up their fingers,
+
+212
+00:10:22,410 --> 00:10:26,400
+now your hand may not be used to staying out in apart like that,
+
+213
+00:10:26,880 --> 00:10:28,440
+and unfortunately with guitar playing,
+
+214
+00:10:28,440 --> 00:10:30,270
+you're gonna be doing this position an awful lot,
+
+215
+00:10:30,390 --> 00:10:32,670
+so eventually it will get more and more comfortable to you,
+
+216
+00:10:32,760 --> 00:10:33,660
+it may even be,
+
+217
+00:10:34,330 --> 00:10:37,510
+you know physically impossible for you to move your fingers very apart right now,
+
+218
+00:10:37,960 --> 00:10:40,360
+your fingers will limber up
+
+219
+00:10:40,750 --> 00:10:45,040
+as you do it just like if you would be stretching and doing stretching exercises,
+
+220
+00:10:45,160 --> 00:10:47,740
+they get more and more flexible, the more that you do it.
+
+221
+00:10:48,770 --> 00:10:50,180
+Let's try this one more time,
+
+222
+00:10:50,390 --> 00:10:53,210
+we're gonna be on that first string first fret,
+
+223
+00:10:53,900 --> 00:10:55,550
+here we go, let's play this note.
+
+224
+00:10:57,820 --> 00:10:59,950
+Second finger, second fret,
+
+225
+00:11:00,370 --> 00:11:03,580
+you want to make sure using your fingertips
+
+226
+00:11:03,670 --> 00:11:05,470
+not the flat of your fingers like that,
+
+227
+00:11:05,470 --> 00:11:06,430
+you don't want to be doing this,
+
+228
+00:11:08,410 --> 00:11:10,030
+that works real good on the first string,
+
+229
+00:11:10,030 --> 00:11:12,190
+but unfortunately doesn't work very good on the other strings,
+
+230
+00:11:12,340 --> 00:11:16,270
+so you always want to make sure that your fingers are using the tips.
+
+231
+00:11:16,540 --> 00:11:17,950
+So we did first, we did second,
+
+232
+00:11:17,950 --> 00:11:18,970
+here comes third,
+
+233
+00:11:20,520 --> 00:11:21,840
+and now we do fourth.
+
+234
+00:11:23,760 --> 00:11:25,200
+Let's do that one more time.
+
+235
+00:11:26,180 --> 00:11:33,310
+First, second, third, fourth.
+
+236
+00:11:33,820 --> 00:11:36,820
+Now what should your thumb be doing back here,
+
+237
+00:11:36,970 --> 00:11:39,970
+well I don't really care what your thumb is doing back there,
+
+238
+00:11:40,210 --> 00:11:42,580
+the only problem is your thumb is attached to your wrist,
+
+239
+00:11:42,790 --> 00:11:44,740
+and I do care about where your wrist is at,
+
+240
+00:11:44,950 --> 00:11:46,360
+if your wrist gets too high,
+
+241
+00:11:46,570 --> 00:11:48,610
+you end up using the wrong kind of muscles
+
+242
+00:11:48,700 --> 00:11:50,980
+and it doesn't work very well for playing guitar,
+
+243
+00:11:51,250 --> 00:11:52,780
+you want to make sure that wrist is low,
+
+244
+00:11:52,990 --> 00:11:54,670
+you want to use your fine motor skills,
+
+245
+00:11:54,670 --> 00:11:56,050
+your little muscles in your fingers,
+
+246
+00:11:56,570 --> 00:11:57,500
+and bring that down
+
+247
+00:11:57,710 --> 00:12:00,410
+and so you don't want your thumb way up here like that,
+
+248
+00:12:00,530 --> 00:12:01,340
+it's not a hook,
+
+249
+00:12:01,340 --> 00:12:03,260
+you're not hanging your hand on your guitar,
+
+250
+00:12:03,320 --> 00:12:04,760
+you're gonna bring it back a little bit,
+
+251
+00:12:05,000 --> 00:12:05,810
+seem to like that.
+
+252
+00:12:06,540 --> 00:12:07,920
+Okay, let's talk about tablature,
+
+253
+00:12:08,100 --> 00:12:10,650
+tablature is a notations that guitars use
+
+254
+00:12:10,680 --> 00:12:14,820
+to show which fret and which finger needs to be played
+
+255
+00:12:14,820 --> 00:12:15,930
+at any particular time,
+
+256
+00:12:16,050 --> 00:12:17,310
+it's not really music notation,
+
+257
+00:12:17,310 --> 00:12:18,900
+we'll talk about music notation in a minute,
+
+258
+00:12:19,050 --> 00:12:20,640
+this is called tablature,
+
+259
+00:12:21,000 --> 00:12:23,460
+and it's something strictly for guitarists to use it,
+
+260
+00:12:23,460 --> 00:12:26,760
+it really helps you visualize what fingers you need to place where.
+
+261
+00:12:27,190 --> 00:12:30,340
+So if you can look at your book's figure one,
+
+262
+00:12:31,710 --> 00:12:33,300
+is a line of tablature
+
+263
+00:12:33,390 --> 00:12:35,040
+and let me just explain how that is,
+
+264
+00:12:35,400 --> 00:12:40,380
+those six lines represented there correspond to the six strings on your instrument,
+
+265
+00:12:41,500 --> 00:12:42,940
+going in reverse order,
+
+266
+00:12:43,060 --> 00:12:46,840
+so the top string is actually, the top line is actually your first string,
+
+267
+00:12:47,200 --> 00:12:48,730
+then it goes down to the six string.
+
+268
+00:12:49,360 --> 00:12:52,870
+In figure 2, where they put some numbers on it,
+
+269
+00:12:52,900 --> 00:12:54,130
+and this is they're telling you,
+
+270
+00:12:54,490 --> 00:12:56,170
+what they're trying to tell you there is
+
+271
+00:12:56,170 --> 00:12:57,190
+where to put your fingers,
+
+272
+00:12:57,190 --> 00:12:59,140
+what fret do you need to put your fingers on.
+
+273
+00:12:59,750 --> 00:13:03,740
+Okay, so the first notation there you see a little one right up at the top,
+
+274
+00:13:03,830 --> 00:13:06,020
+that's telling you on that first string,
+
+275
+00:13:06,410 --> 00:13:08,390
+they want you to put your first finger,
+
+276
+00:13:08,920 --> 00:13:10,000
+and play that note.
+
+277
+00:13:12,370 --> 00:13:15,640
+Okay, the next one after that is a 3,
+
+278
+00:13:16,180 --> 00:13:17,530
+but it's still on the first string,
+
+279
+00:13:17,650 --> 00:13:19,780
+so that means you put your third finger,
+
+280
+00:13:19,900 --> 00:13:22,870
+still on that first string right after that the next note,
+
+281
+00:13:25,060 --> 00:13:28,570
+after that it skips down you'll notice to the second string,
+
+282
+00:13:28,810 --> 00:13:30,100
+still the third finger though,
+
+283
+00:13:30,100 --> 00:13:31,510
+that's what that 3 is telling you.
+
+284
+00:13:33,880 --> 00:13:36,010
+So if I play just those three notes,
+
+285
+00:13:36,520 --> 00:13:37,840
+it would be like this,
+
+286
+00:13:38,560 --> 00:13:40,420
+first finger first fret,
+
+287
+00:13:42,100 --> 00:13:44,350
+third finger on that first string,
+
+288
+00:13:46,000 --> 00:13:48,190
+third finger on that second string,
+
+289
+00:13:48,910 --> 00:13:51,970
+you'll notice a little bit further on in that figure 2 exercise,
+
+290
+00:13:52,000 --> 00:13:53,170
+there's a 0,
+
+291
+00:13:53,320 --> 00:13:56,560
+what 0 is telling you is they want you to play that string,
+
+292
+00:13:56,560 --> 00:13:59,230
+the second string is the one that it's on open.
+
+293
+00:14:00,480 --> 00:14:02,970
+So I'm not fretting any fret at all,
+
+294
+00:14:03,000 --> 00:14:04,140
+I'm just playing it open.
+
+295
+00:14:05,350 --> 00:14:08,890
+Now, it's pretty easy when you get the hang of it to read this,
+
+296
+00:14:08,890 --> 00:14:10,570
+even though it looks a little confusing right now,
+
+297
+00:14:10,720 --> 00:14:11,590
+after you do it a little bit,
+
+298
+00:14:11,590 --> 00:14:12,730
+you kind of see how it goes,
+
+299
+00:14:12,880 --> 00:14:14,800
+so if I was to play figure 2,
+
+300
+00:14:15,310 --> 00:14:16,000
+it would be,
+
+301
+00:14:17,100 --> 00:14:19,950
+like this first finger, first string,
+
+302
+00:14:20,250 --> 00:14:22,740
+third finger first string.
+
+303
+00:14:23,660 --> 00:14:25,970
+third finger, second string,
+
+304
+00:14:27,230 --> 00:14:29,840
+second finger on the third string,
+
+305
+00:14:31,830 --> 00:14:34,200
+first finger, second string,
+
+306
+00:14:34,380 --> 00:14:35,760
+now here comes the open strings
+
+307
+00:14:35,760 --> 00:14:39,240
+and open second string and an open first string.
+
+308
+00:14:40,730 --> 00:14:42,320
+Now, if you look down to figure 3,
+
+309
+00:14:42,890 --> 00:14:45,170
+figure 3 represents how a chord would look,
+
+310
+00:14:45,350 --> 00:14:47,360
+all of these numbers stacked upon each other
+
+311
+00:14:47,720 --> 00:14:50,930
+are telling you to play all the strings at the same time.
+
+312
+00:14:51,380 --> 00:14:54,020
+Okay, so let's look on what's happening on each of these strings,
+
+313
+00:14:54,080 --> 00:14:56,780
+on the first and second string, you have 0s,
+
+314
+00:14:56,810 --> 00:14:58,190
+so that means those are both open,
+
+315
+00:15:00,310 --> 00:15:02,800
+on the third string, it has a 1 there,
+
+316
+00:15:02,830 --> 00:15:05,650
+that means you put your first finger down on that first fret,
+
+317
+00:15:06,930 --> 00:15:10,410
+on the fourth string and the fifth string, there are 2s,
+
+318
+00:15:10,410 --> 00:15:15,720
+which means that both the second, on the second fret, on both of those strings are being played
+
+319
+00:15:15,720 --> 00:15:18,060
+and the last one at the bottom is 0,
+
+320
+00:15:18,060 --> 00:15:19,440
+so that means that's open as well,
+
+321
+00:15:19,560 --> 00:15:21,570
+so if I play all of those together,
+
+322
+00:15:24,280 --> 00:15:25,300
+comes out to be a chord,
+
+323
+00:15:25,510 --> 00:15:27,070
+an E chord, you'll learn about that later.
+
+324
+00:15:28,200 --> 00:15:30,090
+That's how a chord would look in tablature.
+
+325
+00:15:30,300 --> 00:15:32,370
+Now we're going to talk about some finger exercises,
+
+326
+00:15:32,970 --> 00:15:33,750
+let's review,
+
+327
+00:15:33,780 --> 00:15:36,120
+on our right hand we used our pick
+
+328
+00:15:36,120 --> 00:15:39,630
+and we're going to start doing a picking pattern now.
+
+329
+00:15:39,900 --> 00:15:42,030
+Okay, so I want you just on that first string,
+
+330
+00:15:42,210 --> 00:15:44,370
+I want you to go a down stroke with your pick,
+
+331
+00:15:46,540 --> 00:15:48,490
+and then I want you to do an up stroke with your pick.
+
+332
+00:15:50,800 --> 00:15:54,730
+Then, let's do it down again, and up again.
+
+333
+00:15:54,760 --> 00:16:00,790
+Let's try that again, we're gonna go down up down up.
+
+334
+00:16:01,770 --> 00:16:03,120
+Are you ready on the first string?
+
+335
+00:16:03,620 --> 00:16:10,070
+Let's go, down up down up.
+
+336
+00:16:10,370 --> 00:16:11,030
+Very good
+
+337
+00:16:11,390 --> 00:16:12,260
+and that's the first string,
+
+338
+00:16:12,260 --> 00:16:13,400
+what's the name of that first string,
+
+339
+00:16:13,640 --> 00:16:15,590
+remember that that a E string,
+
+340
+00:16:16,400 --> 00:16:19,340
+let's do it, now we're going to do it on the B string, the second string,
+
+341
+00:16:19,640 --> 00:16:21,650
+we're going to do the same thing.
+
+342
+00:16:22,600 --> 00:16:23,230
+Are you ready?
+
+343
+00:16:23,960 --> 00:16:27,900
+Down up, down up,
+
+344
+00:16:29,210 --> 00:16:32,450
+remember be bracing your pinky on your sound board.
+
+345
+00:16:33,240 --> 00:16:36,380
+Let's try the third string, the G,
+
+346
+00:16:37,060 --> 00:16:41,500
+here we go, down up, down up,
+
+347
+00:16:42,170 --> 00:16:45,980
+you wanna go for a good steady rhythm,
+
+348
+00:16:47,030 --> 00:16:50,210
+go as slow as you need to go to get a good steady,
+
+349
+00:16:50,210 --> 00:16:53,510
+the idea is control, not speed,
+
+350
+00:16:53,780 --> 00:16:55,370
+if I can get you control,
+
+351
+00:16:55,370 --> 00:17:00,360
+then we can get faster but don't try and be speedy right here,
+
+352
+00:17:00,360 --> 00:17:01,500
+now it's not the time for it,
+
+353
+00:17:02,170 --> 00:17:03,790
+you want to get your hands in control,
+
+354
+00:17:03,880 --> 00:17:07,810
+you want your hands to be able do what your brain is telling them to do,
+
+355
+00:17:08,360 --> 00:17:10,760
+we are laying a good foundation with all this.
+
+356
+00:17:11,450 --> 00:17:14,330
+Okay, in the first finger exercise, you see,
+
+357
+00:17:14,810 --> 00:17:17,390
+we have the tablature line there
+
+358
+00:17:17,960 --> 00:17:20,780
+and we're gonna do down up down up with our right hand,
+
+359
+00:17:20,780 --> 00:17:25,580
+but we're going to put our first finger on this first fret, on the first string,
+
+360
+00:17:26,030 --> 00:17:30,860
+so it'll actually end up we'll be playing that four times down up down up,
+
+361
+00:17:32,030 --> 00:17:33,800
+and then we move to the second finger,
+
+362
+00:17:34,560 --> 00:17:35,820
+and we do the same thing,
+
+363
+00:17:36,270 --> 00:17:39,330
+then we do the third finger and the fourth
+
+364
+00:17:39,600 --> 00:17:40,380
+and back down,
+
+365
+00:17:40,530 --> 00:17:41,760
+so if I play that,
+
+366
+00:17:41,820 --> 00:17:42,840
+I'll play it nice and slow,
+
+367
+00:17:42,840 --> 00:17:43,920
+you try and play with me,
+
+368
+00:17:44,190 --> 00:17:47,870
+first finger first fret on the first string
+
+369
+00:17:48,200 --> 00:17:51,680
+and we're gonna go down up down up nice and evenly,
+
+370
+00:17:52,100 --> 00:17:53,960
+you're ready, let's play.
+
+371
+00:17:54,670 --> 00:17:59,530
+Down up down up,
+
+372
+00:17:59,530 --> 00:18:01,990
+now your second finger put him on the second fret,
+
+373
+00:18:02,020 --> 00:18:07,690
+here we go, down up down up,
+
+374
+00:18:08,110 --> 00:18:10,180
+now your third finger on the third fret,
+
+375
+00:18:10,770 --> 00:18:15,600
+down up down up,
+
+376
+00:18:15,810 --> 00:18:19,500
+your fourth finger, now your pinky stretching way out there,
+
+377
+00:18:20,730 --> 00:18:23,790
+up down up,
+
+378
+00:18:23,790 --> 00:18:30,360
+now back to the third down up down up
+
+379
+00:18:30,420 --> 00:18:37,230
+second, there you go and first.
+
+380
+00:18:42,300 --> 00:18:45,060
+Now this may be a little tricky at first to do,
+
+381
+00:18:45,270 --> 00:18:47,190
+everybody thinks they know how to control their fingers
+
+382
+00:18:47,190 --> 00:18:48,450
+until you start playing guitar,
+
+383
+00:18:48,660 --> 00:18:54,180
+then you realize that you don't know your brain really doesn't tell your pinky to move independently of the others very often,
+
+384
+00:18:54,360 --> 00:18:57,600
+so we have to kind of train our fingers to do what we need them to do.
+
+385
+00:18:57,750 --> 00:19:00,360
+Let's do the exercise one more time a little bit faster,
+
+386
+00:19:01,230 --> 00:19:02,190
+try and be steady,
+
+387
+00:19:02,190 --> 00:19:04,500
+you ready, here we go, let's play,
+
+388
+00:19:06,300 --> 00:19:09,210
+up down up,
+
+389
+00:19:09,210 --> 00:19:14,040
+second finger with no breaks in between right from one to the other,
+
+390
+00:19:14,820 --> 00:19:20,850
+third finger, fourth finger,
+
+391
+00:19:20,850 --> 00:19:24,990
+now down up down,
+
+392
+00:19:25,410 --> 00:19:26,580
+back to third,
+
+393
+00:19:26,580 --> 00:19:27,630
+you're doing great,
+
+394
+00:19:30,450 --> 00:19:35,880
+here comes second nice and steady,
+
+395
+00:19:37,350 --> 00:19:38,850
+back to first.
+
+396
+00:19:43,830 --> 00:19:44,850
+There you go,
+
+397
+00:19:45,090 --> 00:19:47,370
+now, we did that on the first string, the E string,
+
+398
+00:19:47,490 --> 00:19:50,670
+now we're going to go to the second string, the B string
+
+399
+00:19:50,670 --> 00:19:52,500
+and let's try that one more time,
+
+400
+00:19:52,590 --> 00:19:54,330
+this is still exercise number one,
+
+401
+00:19:54,360 --> 00:19:56,280
+we're just gonna do it on the second string now.
+
+402
+00:19:57,170 --> 00:19:59,200
+Ready, play.
+
+403
+00:20:03,510 --> 00:20:04,950
+Second finger now,
+
+404
+00:20:05,670 --> 00:20:07,290
+make sure you're not getting any buzzes,
+
+405
+00:20:07,290 --> 00:20:12,270
+puts a lot of pressure on those fingers,
+
+406
+00:20:12,270 --> 00:20:15,600
+here comes fourth pinky,
+
+407
+00:20:16,170 --> 00:20:20,520
+back to third now,
+
+408
+00:20:20,640 --> 00:20:25,920
+second finger,
+
+409
+00:20:30,620 --> 00:20:35,090
+and first finger,
+
+410
+00:20:35,150 --> 00:20:37,190
+very good, very good,
+
+411
+00:20:37,430 --> 00:20:39,200
+now probably right about now,
+
+412
+00:20:39,200 --> 00:20:41,000
+your fingers are getting a little sore,
+
+413
+00:20:41,360 --> 00:20:43,460
+which is what happens right about now,
+
+414
+00:20:43,550 --> 00:20:45,710
+because your fingers aren't used to doing that,
+
+415
+00:20:46,760 --> 00:20:48,440
+make sure using your fingertips,
+
+416
+00:20:48,650 --> 00:20:54,200
+and your finger, the flesh running your fingertips will tough enough,
+
+417
+00:20:54,530 --> 00:20:55,790
+at this stage of the game,
+
+418
+00:20:55,790 --> 00:20:57,020
+when you're practicing,
+
+419
+00:20:57,560 --> 00:21:00,170
+just play until your fingers start hurting,
+
+420
+00:21:00,230 --> 00:21:02,480
+once they start hurting, just back off from it for a while,
+
+421
+00:21:02,480 --> 00:21:05,000
+there's no advantage to playing through the pain or anything like that,
+
+422
+00:21:05,210 --> 00:21:08,450
+just just back off from it come back on a few hours later,
+
+423
+00:21:08,450 --> 00:21:09,470
+a little bit later on the night,
+
+424
+00:21:10,350 --> 00:21:11,520
+give your fingers a chance
+
+425
+00:21:11,670 --> 00:21:14,460
+to heal up a little bit and toughen up a little bit,
+
+426
+00:21:14,460 --> 00:21:15,780
+you'll find within about a week,
+
+427
+00:21:15,810 --> 00:21:17,940
+they'll be nice and strong
+
+428
+00:21:17,940 --> 00:21:19,170
+to be able to do what you need to do.
+
+429
+00:21:19,200 --> 00:21:21,090
+Let's go down to exercise number two,
+
+430
+00:21:21,330 --> 00:21:23,760
+now instead of going down up down up,
+
+431
+00:21:23,850 --> 00:21:25,500
+we're just going to go down up,
+
+432
+00:21:25,860 --> 00:21:28,470
+so instead of four beats, we've reduced it down to two.
+
+433
+00:21:30,190 --> 00:21:31,870
+Let's go to the third string now,
+
+434
+00:21:32,110 --> 00:21:35,050
+remember the name of that third string, G, here we go.
+
+435
+00:21:35,560 --> 00:21:39,190
+First finger, third string, good bracing,
+
+436
+00:21:39,460 --> 00:21:40,180
+here we go,
+
+437
+00:21:40,180 --> 00:21:43,600
+a little bit faster, down up,
+
+438
+00:21:43,600 --> 00:21:48,040
+now the second string, second finger, excuse me, down up,
+
+439
+00:21:48,610 --> 00:21:53,410
+third finger, fourth finger,
+
+440
+00:21:54,460 --> 00:21:56,890
+back to third,
+
+441
+00:21:59,200 --> 00:22:00,520
+back to second,
+
+442
+00:22:00,550 --> 00:22:03,850
+back to first,
+
+443
+00:22:05,410 --> 00:22:07,630
+now let's try to put them all together
+
+444
+00:22:07,630 --> 00:22:09,310
+instead of hesitating in between each one.
+
+445
+00:22:09,880 --> 00:22:11,020
+Ready, let's try it again,
+
+446
+00:22:11,020 --> 00:22:11,710
+let's play,
+
+447
+00:22:12,010 --> 00:22:16,000
+oops, sometimes you'll hit the wrong string, just like I did there,
+
+448
+00:22:16,360 --> 00:22:17,260
+try one more time,
+
+449
+00:22:17,440 --> 00:22:20,560
+this will be the third third string, the G string,
+
+450
+00:22:21,480 --> 00:22:23,040
+two beats on each, ready go,
+
+451
+00:22:24,400 --> 00:22:25,840
+next one,
+
+452
+00:22:27,090 --> 00:22:31,740
+third, fourth,
+
+453
+00:22:32,540 --> 00:22:40,880
+back to third, second, first.
+
+454
+00:22:42,960 --> 00:22:45,150
+Alright, let's go out to exercise number three,
+
+455
+00:22:45,690 --> 00:22:47,760
+now instead of just doing two beats,
+
+456
+00:22:47,760 --> 00:22:49,440
+we were doing four initially,
+
+457
+00:22:49,470 --> 00:22:50,460
+then we are doing two,
+
+458
+00:22:50,520 --> 00:22:52,140
+now we're just going to be down to one.
+
+459
+00:22:52,740 --> 00:22:54,600
+Okay, let's go back to the first string.
+
+460
+00:22:56,550 --> 00:22:57,210
+Brace now,
+
+461
+00:22:57,210 --> 00:22:58,800
+we're just doing down strokes on all these,
+
+462
+00:22:58,830 --> 00:23:02,460
+so just be down down down down is tried.
+
+463
+00:23:03,140 --> 00:23:05,150
+Ready, first string, go,
+
+464
+00:23:05,660 --> 00:23:11,750
+down, second finger, third finger, fourth finger,
+
+465
+00:23:12,380 --> 00:23:17,050
+back to third, second and first.
+
+466
+00:23:18,010 --> 00:23:20,830
+You should really do each of these exercises on all the strings,
+
+467
+00:23:21,070 --> 00:23:22,330
+it'll take a little bit of time
+
+468
+00:23:22,420 --> 00:23:23,890
+and it's pretty tricky at first,
+
+469
+00:23:24,010 --> 00:23:25,510
+but as you do it more and more,
+
+470
+00:23:25,540 --> 00:23:27,010
+your fingers will get better,
+
+471
+00:23:27,160 --> 00:23:31,210
+very quickly in being accurate on where they need to go,
+
+472
+00:23:31,270 --> 00:23:34,300
+it may seem difficult and a little hesitancy right now,
+
+473
+00:23:34,450 --> 00:23:36,550
+you may be trying to move your third finger
+
+474
+00:23:36,610 --> 00:23:39,790
+and it just takes you a second before you can actually move that third finger,
+
+475
+00:23:39,850 --> 00:23:42,190
+that's what, that's what these exercises are for,
+
+476
+00:23:42,430 --> 00:23:44,470
+they're not meant to be great music at this point,
+
+477
+00:23:44,650 --> 00:23:46,300
+before we can get to making great music,
+
+478
+00:23:46,300 --> 00:23:48,610
+I gotta get this hand, this hand fire in together,
+
+479
+00:23:48,790 --> 00:23:50,380
+so that's what these exercises are for.
+
+480
+00:23:51,420 --> 00:23:54,720
+Last two very quickly, exercise number four,
+
+481
+00:23:55,640 --> 00:23:58,010
+we're going to work out finger independence,
+
+482
+00:23:58,010 --> 00:24:01,700
+we're gonna go one two first second finger
+
+483
+00:24:02,030 --> 00:24:04,490
+and then first finger to third finger,
+
+484
+00:24:04,880 --> 00:24:06,890
+first finger to fourth finger,
+
+485
+00:24:07,550 --> 00:24:08,750
+first to third,
+
+486
+00:24:08,990 --> 00:24:10,010
+first to second,
+
+487
+00:24:10,250 --> 00:24:15,140
+so be like one two, one three, one four,
+
+488
+00:24:15,470 --> 00:24:19,070
+one three, one two and one,
+
+489
+00:24:19,100 --> 00:24:21,380
+let's go back to that first string one more time.
+
+490
+00:24:21,930 --> 00:24:23,490
+We'll do this one nice and slow.
+
+491
+00:24:24,330 --> 00:24:26,100
+Ready, play,
+
+492
+00:24:26,460 --> 00:24:29,610
+one, now two, okay,
+
+493
+00:24:29,610 --> 00:24:30,300
+then back to one,
+
+494
+00:24:30,300 --> 00:24:31,530
+we're going to go one three,
+
+495
+00:24:31,680 --> 00:24:34,080
+one three
+
+496
+00:24:34,860 --> 00:24:35,520
+and back to one,
+
+497
+00:24:35,520 --> 00:24:36,840
+we're going to go one four,
+
+498
+00:24:37,200 --> 00:24:39,300
+one four,
+
+499
+00:24:40,320 --> 00:24:42,090
+now we're going to do one three again,
+
+500
+00:24:42,270 --> 00:24:44,460
+one three,
+
+501
+00:24:45,340 --> 00:24:46,390
+one two,
+
+502
+00:24:46,840 --> 00:24:48,880
+one two
+
+503
+00:24:49,450 --> 00:24:50,530
+and then back to one.
+
+504
+00:24:50,590 --> 00:24:52,690
+Let's do that one a little bit faster now,
+
+505
+00:24:53,290 --> 00:24:55,160
+ready, play,
+
+506
+00:24:55,520 --> 00:25:09,320
+one two, one three, one four, one three, one two, one,
+
+507
+00:25:09,320 --> 00:25:09,920
+very good,
+
+508
+00:25:09,920 --> 00:25:12,590
+I know that maybe a little bit quick for you right now,
+
+509
+00:25:12,590 --> 00:25:14,420
+but do it a couple more days
+
+510
+00:25:14,420 --> 00:25:16,280
+and then you'll be you'll be [] on it.
+
+511
+00:25:16,860 --> 00:25:18,960
+Okay, the last one exercise,
+
+512
+00:25:18,960 --> 00:25:21,540
+for the last one I want to touch touch on,
+
+513
+00:25:21,690 --> 00:25:23,130
+this works out our pinky,
+
+514
+00:25:23,250 --> 00:25:28,260
+we're gonna go four three, four two, four one,
+
+515
+00:25:28,650 --> 00:25:29,550
+then it just does it again,
+
+516
+00:25:29,790 --> 00:25:32,880
+four three, four two, four one,
+
+517
+00:25:32,880 --> 00:25:34,050
+let's do it on a low string,
+
+518
+00:25:34,080 --> 00:25:36,600
+let's do it like on the fifth string, that A string,
+
+519
+00:25:37,170 --> 00:25:39,240
+you ready, nice and slow,
+
+520
+00:25:39,450 --> 00:25:41,250
+ready play,
+
+521
+00:25:41,760 --> 00:25:49,530
+four three, four two, four one,
+
+522
+00:25:49,530 --> 00:25:51,510
+make sure that wrist is down nice and low,
+
+523
+00:25:51,690 --> 00:25:55,770
+you're bracing you've got your pick fingering alright,
+
+524
+00:25:56,220 --> 00:25:56,820
+ready, go,
+
+525
+00:25:56,820 --> 00:25:57,720
+try one more time,
+
+526
+00:25:57,720 --> 00:26:06,090
+four three, four two, four one,
+
+527
+00:26:06,270 --> 00:26:06,870
+very good.
+
+528
+00:26:07,200 --> 00:26:08,880
+Okay, we're gonna talk about chords now,
+
+529
+00:26:08,910 --> 00:26:11,310
+I know you've been waiting for chords this whole lesson,
+
+530
+00:26:11,340 --> 00:26:13,800
+waiting through all of these finger exercises
+
+531
+00:26:13,800 --> 00:26:16,770
+and now we're finally last where we start to talk about chords,
+
+532
+00:26:16,770 --> 00:26:18,300
+which is the stuff you wanted to learn,
+
+533
+00:26:18,690 --> 00:26:20,100
+when you want to learn guitar anyway.
+
+534
+00:26:20,860 --> 00:26:24,040
+Chords are written in chord blocks,
+
+535
+00:26:24,100 --> 00:26:28,630
+it's again, it's a notation that chord that guitarists used to notate chords,
+
+536
+00:26:28,960 --> 00:26:32,980
+basically what you see in your book is a blank chord block,
+
+537
+00:26:33,220 --> 00:26:37,000
+basically it's a diagram of a picture of the end of your guitar,
+
+538
+00:26:37,000 --> 00:26:39,970
+if you can imagine the end of your guitar being like this,
+
+539
+00:26:40,540 --> 00:26:43,930
+the dark line at the top of the diagram is the nut right here
+
+540
+00:26:44,350 --> 00:26:47,270
+and then it goes down with each fret,
+
+541
+00:26:47,390 --> 00:26:49,100
+as you come down the chord diagram,
+
+542
+00:26:49,130 --> 00:26:53,030
+as you go across from top from side to side horizontally,
+
+543
+00:26:53,150 --> 00:26:54,710
+you goes across the strings,
+
+544
+00:26:55,040 --> 00:26:57,230
+just imagine like it would be a picture of the top of your guitar
+
+545
+00:26:57,230 --> 00:26:58,790
+going from the strings across like that.
+
+546
+00:27:00,250 --> 00:27:04,000
+Now the different lines and different circles mean different things,
+
+547
+00:27:04,000 --> 00:27:06,520
+so let me just explain those real quick before we get into that,
+
+548
+00:27:06,940 --> 00:27:08,530
+an open circle,
+
+549
+00:27:09,380 --> 00:27:11,060
+on them, you'll notice on the bottom diagram,
+
+550
+00:27:11,060 --> 00:27:12,200
+an open circle,
+
+551
+00:27:12,590 --> 00:27:15,050
+it has an open circle over that first string,
+
+552
+00:27:15,110 --> 00:27:16,850
+what that is telling you is
+
+553
+00:27:16,850 --> 00:27:19,100
+to play that string, but it's going to be open,
+
+554
+00:27:19,100 --> 00:27:20,660
+you're not going to be fingering any note with it,
+
+555
+00:27:21,260 --> 00:27:22,250
+let me just like that,
+
+556
+00:27:22,820 --> 00:27:24,590
+and let's see what's happening on the second string,
+
+557
+00:27:24,740 --> 00:27:28,160
+you've got a filled in circle on that first fret,
+
+558
+00:27:28,370 --> 00:27:33,390
+that's telling you they want you to put your first finger on that first fret,
+
+559
+00:27:33,960 --> 00:27:36,120
+okay and play that note,
+
+560
+00:27:36,480 --> 00:27:38,190
+so we've got an open one on the first,
+
+561
+00:27:38,580 --> 00:27:40,560
+first finger on that second string,
+
+562
+00:27:41,220 --> 00:27:44,250
+the third string, we've got another open,
+
+563
+00:27:44,400 --> 00:27:47,700
+then look what's happening on that fourth string,
+
+564
+00:27:47,910 --> 00:27:50,880
+we've got a filled in circle over the second fret,
+
+565
+00:27:51,360 --> 00:27:52,890
+that means put your finger there,
+
+566
+00:27:53,010 --> 00:27:54,660
+now which finger do you use,
+
+567
+00:27:54,660 --> 00:28:00,330
+well, the number underneath that filled in circle, that 2 is telling you,
+
+568
+00:28:00,330 --> 00:28:03,090
+that they want you to use your second finger to do that,
+
+569
+00:28:03,540 --> 00:28:05,460
+the numbers will not always be there,
+
+570
+00:28:05,580 --> 00:28:07,080
+but sometimes they're there,
+
+571
+00:28:07,930 --> 00:28:09,400
+so that 2 is telling you,
+
+572
+00:28:09,400 --> 00:28:11,140
+they want you to use your second finger for that.
+
+573
+00:28:11,780 --> 00:28:17,860
+On the fifth string, we've got our third finger there, on that third fret,
+
+574
+00:28:18,010 --> 00:28:20,740
+so let's see if we can play all of these together.
+
+575
+00:28:21,480 --> 00:28:22,110
+Okay.
+
+576
+00:28:28,490 --> 00:28:29,090
+Very good,
+
+577
+00:28:29,090 --> 00:28:29,600
+now, you'll notice,
+
+578
+00:28:29,600 --> 00:28:31,730
+on the fifth string, we've got an x,
+
+579
+00:28:31,880 --> 00:28:35,060
+excuse me, on the sixth string, the bottom string, we've got an x,
+
+580
+00:28:35,060 --> 00:28:35,960
+what is that telling you,
+
+581
+00:28:36,080 --> 00:28:38,810
+well, that's telling you not to play that string,
+
+582
+00:28:38,930 --> 00:28:40,790
+some chords are six string chords,
+
+583
+00:28:40,790 --> 00:28:42,350
+some chords are five string chords,
+
+584
+00:28:42,500 --> 00:28:44,000
+some chords are four string chords,
+
+585
+00:28:44,420 --> 00:28:46,160
+this one is a five string cord,
+
+586
+00:28:46,160 --> 00:28:47,630
+the C chord that we're learning now.
+
+587
+00:28:48,530 --> 00:28:50,060
+So we don't play that six string at all,
+
+588
+00:28:50,300 --> 00:28:53,810
+so make sure don't get sloppy and play that six string anyway,
+
+589
+00:28:53,810 --> 00:28:54,740
+that wouldn't be right,
+
+590
+00:28:55,190 --> 00:28:57,950
+you're just playing from the fifth string down.
+
+591
+00:29:02,600 --> 00:29:03,350
+Now you try.
+
+592
+00:29:08,550 --> 00:29:10,290
+You really got to press those fingers down
+
+593
+00:29:10,530 --> 00:29:11,820
+in order to get it to sound out right,
+
+594
+00:29:12,270 --> 00:29:14,130
+okay, you're ready to learn your first two chords.
+
+595
+00:29:14,750 --> 00:29:17,210
+The first chord is a C chord,
+
+596
+00:29:17,630 --> 00:29:18,590
+now you notice,
+
+597
+00:29:18,680 --> 00:29:20,030
+on this diagram,
+
+598
+00:29:20,060 --> 00:29:22,400
+it doesn't have anything over that six string,
+
+599
+00:29:22,640 --> 00:29:24,320
+sometimes an x will be there
+
+600
+00:29:24,320 --> 00:29:25,790
+to tell you not to play that string,
+
+601
+00:29:25,880 --> 00:29:28,160
+sometimes if it doesn't have anything on that string,
+
+602
+00:29:28,620 --> 00:29:31,200
+a filled in circle or an open circle,
+
+603
+00:29:31,440 --> 00:29:33,000
+it's telling you not to play that string as well,
+
+604
+00:29:33,000 --> 00:29:35,070
+they just give you the ones that you're actually supposed to be playing.
+
+605
+00:29:35,860 --> 00:29:38,560
+Let's try that C chord one more time,
+
+606
+00:29:38,590 --> 00:29:40,240
+starting at that fifth string,
+
+607
+00:29:40,360 --> 00:29:41,350
+we're gonna go through it,
+
+608
+00:29:42,020 --> 00:29:44,810
+each string, one string at a time.
+
+609
+00:29:45,390 --> 00:29:46,830
+Ready, starting on the fifth string,
+
+610
+00:29:47,600 --> 00:29:58,120
+third finger, second finger, open, first finger and open.
+
+611
+00:29:59,190 --> 00:30:00,780
+Now we're going to play all of them together,
+
+612
+00:30:01,110 --> 00:30:03,930
+ready to get back up to fifth, fifth string,
+
+613
+00:30:03,930 --> 00:30:06,060
+let loose, we're gonna play them all together,
+
+614
+00:30:06,180 --> 00:30:07,470
+ready go,
+
+615
+00:30:10,430 --> 00:30:11,300
+one more time.
+
+616
+00:30:14,100 --> 00:30:15,870
+Now, sometimes your chord may sound,
+
+617
+00:30:15,870 --> 00:30:17,280
+if you don't have your fingers in the right spot,
+
+618
+00:30:18,000 --> 00:30:21,870
+you kind of get a couple notes that aren't sounding particularly right
+
+619
+00:30:21,870 --> 00:30:23,910
+or they're buzzing in some in some respect,
+
+620
+00:30:24,060 --> 00:30:25,410
+check your hand position,
+
+621
+00:30:25,980 --> 00:30:28,590
+well, this is that C that I was trying to play,
+
+622
+00:30:28,710 --> 00:30:30,720
+on that fifth string and it's too far back,
+
+623
+00:30:30,960 --> 00:30:32,430
+I've got to move that finger,
+
+624
+00:30:33,160 --> 00:30:34,960
+where it's just hugging up behind that fret,
+
+625
+00:30:35,320 --> 00:30:37,480
+and then it comes out nice and clear.
+
+626
+00:30:37,950 --> 00:30:40,770
+Now, if you don't have good hand strength
+
+627
+00:30:40,770 --> 00:30:42,210
+and that's what we're building up right now,
+
+628
+00:30:42,510 --> 00:30:45,360
+it may kind of even though you have your finger right spot,
+
+629
+00:30:45,360 --> 00:30:47,370
+it may come out as kind of a dead note like that,
+
+630
+00:30:49,110 --> 00:30:52,710
+the only difference between this and this,
+
+631
+00:30:54,010 --> 00:30:56,620
+is putting my fingers down a little bit stronger,
+
+632
+00:30:56,620 --> 00:30:58,900
+if you notice I didn't move my fingers at all,
+
+633
+00:30:59,500 --> 00:31:03,250
+it's basically how hard I'm pressing it down,
+
+634
+00:31:03,670 --> 00:31:05,050
+if you press it down hard enough,
+
+635
+00:31:05,200 --> 00:31:07,180
+eventually that chord will open up and [] up,
+
+636
+00:31:07,180 --> 00:31:08,800
+that's a C chord.
+
+637
+00:31:09,750 --> 00:31:12,810
+Now the second chord, we're going to learn is a G7 chord,
+
+638
+00:31:13,080 --> 00:31:15,570
+C is probably the most common chord you're ever gonna find,
+
+639
+00:31:15,660 --> 00:31:18,930
+G7 is probably the next common most common chord you're going to play.
+
+640
+00:31:19,460 --> 00:31:22,310
+Here, let's go through a string by string,
+
+641
+00:31:22,760 --> 00:31:27,450
+that first string I've got my first finger, on that first fret,
+
+642
+00:31:27,930 --> 00:31:32,880
+then the second string, third string and the fourth string are all open,
+
+643
+00:31:33,450 --> 00:31:34,710
+that's easy,
+
+644
+00:31:35,540 --> 00:31:38,360
+now on the fifth string, I've got my second finger
+
+645
+00:31:38,630 --> 00:31:43,100
+and on the sixth string the lowest string, that E string remember,
+
+646
+00:31:43,520 --> 00:31:44,870
+I've got my third finger.
+
+647
+00:31:45,640 --> 00:31:48,250
+Let's play them all together,
+
+648
+00:31:53,750 --> 00:31:54,770
+now all together.
+
+649
+00:31:58,580 --> 00:31:59,120
+Very good,
+
+650
+00:31:59,480 --> 00:32:02,090
+okay, if you look at exercise number one,
+
+651
+00:32:02,270 --> 00:32:03,770
+if you look at exercise number one,
+
+652
+00:32:04,600 --> 00:32:07,480
+it goes through the C and the G7 chord,
+
+653
+00:32:07,540 --> 00:32:08,920
+alternating between the two,
+
+654
+00:32:09,130 --> 00:32:10,240
+so let's start with that,
+
+655
+00:32:10,360 --> 00:32:11,830
+here's the C chord,
+
+656
+00:32:12,100 --> 00:32:15,820
+take a second, get all of your fingers in the right spots,
+
+657
+00:32:16,640 --> 00:32:18,890
+and that diamond right there is just telling you that,
+
+658
+00:32:18,890 --> 00:32:20,720
+you play that C chord and just hold it,
+
+659
+00:32:21,320 --> 00:32:22,850
+until it's time for the next G7,
+
+660
+00:32:22,850 --> 00:32:24,590
+so let's play that C chord first.
+
+661
+00:32:25,190 --> 00:32:27,180
+Ready, go.
+
+662
+00:32:29,200 --> 00:32:31,240
+Now let's switch over to that G7,
+
+663
+00:32:31,840 --> 00:32:34,750
+I can move my third and second finger just up a string,
+
+664
+00:32:35,170 --> 00:32:37,030
+and I move my first finger down a string
+
+665
+00:32:37,330 --> 00:32:38,140
+and I'm there.
+
+666
+00:32:41,210 --> 00:32:42,860
+Now I go back to the C chord,
+
+667
+00:32:43,310 --> 00:32:45,200
+I move those back into place there,
+
+668
+00:32:45,470 --> 00:32:47,360
+this one up and I'm at a C chord.
+
+669
+00:32:49,980 --> 00:32:51,510
+Back to the G7.
+
+670
+00:32:56,420 --> 00:32:57,740
+And now to the C chord.
+
+671
+00:33:01,260 --> 00:33:02,850
+We better try that one one more time,
+
+672
+00:33:03,270 --> 00:33:07,380
+somehow getting all those chords and the fingers together
+
+673
+00:33:07,380 --> 00:33:09,120
+and all that takes a little bit of time and effort
+
+674
+00:33:09,390 --> 00:33:10,470
+to do that one more time,
+
+675
+00:33:10,560 --> 00:33:11,730
+start on that C chord.
+
+676
+00:33:15,380 --> 00:33:16,940
+Now switch that G7.
+
+677
+00:33:18,460 --> 00:33:20,260
+You may have to do it finger by finger
+
+678
+00:33:20,650 --> 00:33:22,510
+or if you can do it all together, that's even better,
+
+679
+00:33:22,510 --> 00:33:23,560
+let's do a G7.
+
+680
+00:33:26,630 --> 00:33:28,370
+Back to the C chord now,
+
+681
+00:33:28,370 --> 00:33:29,870
+five string chord remember,
+
+682
+00:33:29,930 --> 00:33:31,700
+don't play that lowest six string.
+
+683
+00:33:34,360 --> 00:33:37,870
+Back to G7, all the strings are used on the G7.
+
+684
+00:33:41,150 --> 00:33:42,410
+And then back to the C.
+
+685
+00:33:45,180 --> 00:33:46,680
+Take a look at exercise number two.
+
+686
+00:33:47,380 --> 00:33:49,240
+This is called slash notation,
+
+687
+00:33:49,240 --> 00:33:50,950
+you'll see this quite a bit as a guitar player,
+
+688
+00:33:50,950 --> 00:33:52,390
+there's something we play in quite a bit,
+
+689
+00:33:52,630 --> 00:33:53,710
+the different slashes,
+
+690
+00:33:53,710 --> 00:33:54,490
+all that's telling you,
+
+691
+00:33:54,490 --> 00:33:56,050
+at this stage of the game is
+
+692
+00:33:56,050 --> 00:33:59,620
+you're gonna be strumming one strum for each slash that you see,
+
+693
+00:33:59,890 --> 00:34:02,050
+okay, so let's get our C chord back up again.
+
+694
+00:34:04,180 --> 00:34:06,130
+And let's do exercise number two.
+
+695
+00:34:07,110 --> 00:34:09,100
+Ready, play.
+
+696
+00:34:12,510 --> 00:34:15,810
+Three four, the next measure,
+
+697
+00:34:15,810 --> 00:34:20,490
+one two three four,
+
+698
+00:34:20,490 --> 00:34:23,850
+now G7, switch over to G7,
+
+699
+00:34:24,610 --> 00:34:29,590
+one two three four,
+
+700
+00:34:29,620 --> 00:34:35,420
+next measure, one two three four,
+
+701
+00:34:36,120 --> 00:34:42,300
+and back to that C, one two three four.
+
+702
+00:34:43,390 --> 00:34:46,780
+Very good, now take a look at exercise number three,
+
+703
+00:34:47,020 --> 00:34:49,870
+now we're gonna alternate those chords a little bit quicker,
+
+704
+00:34:50,430 --> 00:34:52,770
+which, as I know it's probably going a little fast for you,
+
+705
+00:34:53,010 --> 00:34:54,150
+but let's try it,
+
+706
+00:34:54,510 --> 00:34:56,340
+you're ready start on that c.
+
+707
+00:34:57,370 --> 00:34:58,210
+Let's go.
+
+708
+00:34:58,870 --> 00:35:04,520
+One two three four,
+
+709
+00:35:04,520 --> 00:35:05,930
+now to the G7,
+
+710
+00:35:07,810 --> 00:35:11,080
+try not hesitate between each chord.
+
+711
+00:35:12,090 --> 00:35:13,470
+Back to C.
+
+712
+00:35:17,820 --> 00:35:20,400
+G7, here you go.
+
+713
+00:35:24,040 --> 00:35:25,300
+Back to C.
+
+714
+00:35:30,680 --> 00:35:31,400
+Very good,
+
+715
+00:35:31,610 --> 00:35:34,190
+that's the C and that's the G7 chord,
+
+716
+00:35:34,490 --> 00:35:36,260
+now may have moved a little fast for you,
+
+717
+00:35:36,260 --> 00:35:37,850
+may have trouble keeping up at this point,
+
+718
+00:35:37,970 --> 00:35:39,110
+but after we do it
+
+719
+00:35:39,410 --> 00:35:41,450
+and we go through our workshop time here in a minute,
+
+720
+00:35:41,690 --> 00:35:44,240
+then you'll be able to knock these out pretty quickly.
+
+721
+00:35:46,880 --> 00:35:48,320
+Okay, welcome to get our tips,
+
+722
+00:35:48,560 --> 00:35:52,460
+on this segment, we're going to talk about specific things that have to do with guitar playing,
+
+723
+00:35:52,520 --> 00:35:55,520
+that aren't necessarily the technique stuff that we've been governed in the other section.
+
+724
+00:35:56,240 --> 00:35:58,220
+These are some things these are some items,
+
+725
+00:35:58,310 --> 00:36:01,010
+that I would suggest you get from the very beginning,
+
+726
+00:36:01,010 --> 00:36:02,780
+if you're interested in starting to play guitar,
+
+727
+00:36:02,810 --> 00:36:04,370
+you can pick these up on our website,
+
+728
+00:36:04,890 --> 00:36:06,900
+or you can also check your local music store.
+
+729
+00:36:07,500 --> 00:36:08,610
+First thing we're gonna talk about is
+
+730
+00:36:08,610 --> 00:36:12,960
+one of the most useful things is an electric guitar tuner,
+
+731
+00:36:13,380 --> 00:36:15,000
+they come in different shapes and sizes,
+
+732
+00:36:15,000 --> 00:36:16,200
+this is a pretty standard one,
+
+733
+00:36:16,680 --> 00:36:18,360
+you would plug your guitar
+
+734
+00:36:18,360 --> 00:36:19,890
+and your guitar would have to have a pickup,
+
+735
+00:36:20,490 --> 00:36:23,010
+in either an electric guitar or an acoustic guitar like this one,
+
+736
+00:36:23,010 --> 00:36:24,300
+that does have a pickup in it
+
+737
+00:36:24,690 --> 00:36:27,120
+and you plug it in and it helps your guitar tune.
+
+738
+00:36:27,620 --> 00:36:29,270
+And as you can see,
+
+739
+00:36:29,390 --> 00:36:32,600
+the tuning is a little bit of a tricky subject,
+
+740
+00:36:32,600 --> 00:36:33,710
+if you try and do it manually,
+
+741
+00:36:33,800 --> 00:36:35,150
+so electric tuner like this,
+
+742
+00:36:35,180 --> 00:36:36,560
+sometimes you don't even need to pick up,
+
+743
+00:36:36,710 --> 00:36:38,120
+they have microphones in them
+
+744
+00:36:38,270 --> 00:36:39,410
+and you just play the note
+
+745
+00:36:39,440 --> 00:36:43,670
+and it tells you whether you need to loosen the string or whether you need to tighten the string
+
+746
+00:36:44,030 --> 00:36:46,280
+and when you get in, when you get the dot in the middle,
+
+747
+00:36:46,580 --> 00:36:48,050
+then you've you're in tune.
+
+748
+00:36:49,110 --> 00:36:51,540
+Another thing I would suggest you get right from the very beginning,
+
+749
+00:36:52,580 --> 00:36:53,720
+is a string winder,
+
+750
+00:36:54,200 --> 00:36:56,780
+a little thing like this probably just cost a buck or two,
+
+751
+00:36:57,200 --> 00:36:59,240
+when you're changing strings,
+
+752
+00:36:59,360 --> 00:37:00,680
+this is a lifesaver,
+
+753
+00:37:00,710 --> 00:37:04,010
+because you'll be winding and winding these strings all day long,
+
+754
+00:37:04,040 --> 00:37:05,480
+if you don't have a string winder,
+
+755
+00:37:05,540 --> 00:37:08,630
+so it's well worth the buck and a half to get one of these.
+
+756
+00:37:10,050 --> 00:37:12,690
+Next thing I would suggest is a case,
+
+757
+00:37:13,140 --> 00:37:16,830
+some of you may have cases that had come with your guitar,
+
+758
+00:37:16,950 --> 00:37:18,600
+a lot of guitars don't come with cases,
+
+759
+00:37:18,600 --> 00:37:22,140
+they just come in a box shipping container,
+
+760
+00:37:22,680 --> 00:37:24,330
+so you don't want to use that as your case,
+
+761
+00:37:24,330 --> 00:37:25,800
+it's good for you to go ahead and get a case,
+
+762
+00:37:25,800 --> 00:37:26,790
+now there's three different types,
+
+763
+00:37:26,790 --> 00:37:28,170
+you can get a hardwood case,
+
+764
+00:37:28,320 --> 00:37:30,240
+which that's as strong as you can get,
+
+765
+00:37:30,650 --> 00:37:34,370
+and that's maybe a little bit more than you're you're wanting to spend,
+
+766
+00:37:34,430 --> 00:37:35,300
+they're pretty pricey,
+
+767
+00:37:35,300 --> 00:37:36,710
+but they do protect your instrument,
+
+768
+00:37:36,830 --> 00:37:38,000
+the best it can be,
+
+769
+00:37:38,420 --> 00:37:41,840
+that kind of step down from that is called a chipboard case,
+
+770
+00:37:42,080 --> 00:37:43,220
+it's a solid case,
+
+771
+00:37:43,220 --> 00:37:45,350
+but it's almost made out of a cardboard,
+
+772
+00:37:45,350 --> 00:37:46,760
+a strong cardboard material,
+
+773
+00:37:47,030 --> 00:37:48,020
+that's a chipboard case,
+
+774
+00:37:48,020 --> 00:37:52,490
+that's good for a plugging your guitar around getting in and out of the car that sort of thing,
+
+775
+00:37:52,990 --> 00:37:54,460
+the third type of cases,
+
+776
+00:37:54,460 --> 00:37:56,440
+a soft case, a padded case,
+
+777
+00:37:56,500 --> 00:37:59,470
+you put your guitar in this kind of zip it all up,
+
+778
+00:37:59,470 --> 00:38:00,460
+carried on your back
+
+779
+00:38:00,760 --> 00:38:02,320
+and carry it out of the car,
+
+780
+00:38:02,830 --> 00:38:07,090
+it isn't as protective as the hard cases,
+
+781
+00:38:07,120 --> 00:38:09,880
+but it does offer some great advantages in portability.
+
+782
+00:38:10,990 --> 00:38:15,430
+Some of the little things that I would suggest you get a metronome,
+
+783
+00:38:16,900 --> 00:38:18,640
+here's a pretty standard metronome,
+
+784
+00:38:18,640 --> 00:38:20,200
+they also come in different kinds too,
+
+785
+00:38:23,550 --> 00:38:26,610
+only thing a metronome does is click off a tempo,
+
+786
+00:38:26,670 --> 00:38:27,900
+a good steady tempo,
+
+787
+00:38:27,960 --> 00:38:32,690
+I can speed it up, and slow it down,
+
+788
+00:38:32,990 --> 00:38:36,230
+they have electronic ones as well.
+
+789
+00:38:39,820 --> 00:38:42,070
+Now I encourage you to get there's all kinds of metronomes,
+
+790
+00:38:42,130 --> 00:38:45,190
+some of them offer a beep, where it just beeps at you,
+
+791
+00:38:45,310 --> 00:38:46,930
+other ones you have a click
+
+792
+00:38:46,960 --> 00:38:49,630
+and I would definitely recommend you get the ones that have a click,
+
+793
+00:38:49,750 --> 00:38:52,330
+not that has a little beep that goes past,
+
+794
+00:38:52,540 --> 00:38:54,640
+it sounds good, when you're listening to it,
+
+795
+00:38:54,640 --> 00:38:56,620
+but when you actually start playing with one that has a beep,
+
+796
+00:38:56,800 --> 00:38:59,560
+you'll realize it's much better to have one that has a click.
+
+797
+00:39:00,130 --> 00:39:02,350
+Also I would encourage you to get a music stand,
+
+798
+00:39:02,560 --> 00:39:04,030
+you can get the little wire ones,
+
+799
+00:39:04,240 --> 00:39:07,990
+or you can get a little more sturdy metal music stands,
+
+800
+00:39:07,990 --> 00:39:09,250
+place for you to put your music,
+
+801
+00:39:09,340 --> 00:39:11,770
+put your resources that you're going off of,
+
+802
+00:39:11,770 --> 00:39:13,180
+so you're not just sitting on the couch,
+
+803
+00:39:13,210 --> 00:39:16,150
+looking at it far away at a coffee table or something like that.
+
+804
+00:39:17,070 --> 00:39:20,040
+Now, some other things I would suggest you have done with your guitar.
+
+805
+00:39:20,550 --> 00:39:23,430
+Because you want to make sure that your guitar is easy to play,
+
+806
+00:39:23,430 --> 00:39:28,350
+there's nothing worse than playing a guitar that is just difficult to play,
+
+807
+00:39:28,410 --> 00:39:30,840
+it gets you frustrated hurt your fingers
+
+808
+00:39:30,840 --> 00:39:32,790
+and you end up wanting to chuck the whole thing,
+
+809
+00:39:33,120 --> 00:39:38,010
+so it's a very good idea to have your guitar setup is what they call it,
+
+810
+00:39:38,010 --> 00:39:39,510
+have a setup done on your guitar,
+
+811
+00:39:39,720 --> 00:39:41,280
+what they what they do is,
+
+812
+00:39:41,280 --> 00:39:42,360
+they look at your guitar
+
+813
+00:39:42,720 --> 00:39:45,810
+and they look and make sure that your whether your neck is straight,
+
+814
+00:39:46,110 --> 00:39:48,270
+you can do a visual check of that yourself at home
+
+815
+00:39:48,330 --> 00:39:50,760
+by just kind of looking down the neck of your guitar,
+
+816
+00:39:51,740 --> 00:39:53,270
+and making sure it's pretty straight,
+
+817
+00:39:53,270 --> 00:39:56,450
+you don't want it bowing in or bowing back out again.
+
+818
+00:39:57,520 --> 00:40:00,220
+And they can adjust your guitar through a metal raw,
+
+819
+00:40:00,220 --> 00:40:02,050
+that's actually inside of your sound hole here,
+
+820
+00:40:02,230 --> 00:40:03,280
+it's called a truss rod,
+
+821
+00:40:03,280 --> 00:40:04,210
+so it can be adjusted,
+
+822
+00:40:04,210 --> 00:40:05,500
+its not that big of a deal at all.
+
+823
+00:40:06,160 --> 00:40:09,640
+The other thing that you want to check on your guitar is the bridge,
+
+824
+00:40:10,780 --> 00:40:12,040
+your bridge is this right here,
+
+825
+00:40:12,040 --> 00:40:12,850
+remember we talked about,
+
+826
+00:40:12,850 --> 00:40:15,730
+that you want to make sure there's no gaps between it and the sound board,
+
+827
+00:40:16,390 --> 00:40:18,100
+there should be no gaps,
+
+828
+00:40:18,100 --> 00:40:18,940
+if there is gaps,
+
+829
+00:40:18,970 --> 00:40:20,350
+that means it's pulling up
+
+830
+00:40:20,470 --> 00:40:21,610
+and that's not good news.
+
+831
+00:40:23,450 --> 00:40:25,430
+You also want to have adjusted
+
+832
+00:40:25,640 --> 00:40:29,390
+and this is part of a set up job, is your action,
+
+833
+00:40:29,420 --> 00:40:34,120
+what action is the distance of the strings from the fret board,
+
+834
+00:40:34,240 --> 00:40:37,360
+the higher this is, the wider that action is,
+
+835
+00:40:37,390 --> 00:40:40,960
+the more difficult that guitar is going to be able to play,
+
+836
+00:40:41,260 --> 00:40:43,180
+the closer that is to these frets,
+
+837
+00:40:43,180 --> 00:40:44,680
+the easier it's going to be able to play,
+
+838
+00:40:44,740 --> 00:40:47,710
+if your guitar is hard and difficult to finger
+
+839
+00:40:47,710 --> 00:40:49,330
+and get those notes down without buzzing,
+
+840
+00:40:49,570 --> 00:40:50,800
+have your action checked,
+
+841
+00:40:50,890 --> 00:40:52,510
+that's probably one of the best things you could do.
+
+842
+00:40:53,410 --> 00:40:55,270
+How do you how should you take care of your guitar,
+
+843
+00:40:55,390 --> 00:40:57,820
+well, just for just for a second, let's talk about that,
+
+844
+00:40:57,910 --> 00:40:59,710
+you don't want to get your guitar too hot,
+
+845
+00:41:00,320 --> 00:41:02,720
+you don't want you to get your guitar too cold,
+
+846
+00:41:03,200 --> 00:41:05,570
+your guitar really is just wood and glue
+
+847
+00:41:05,840 --> 00:41:07,490
+and so if you get this thing too hot,
+
+848
+00:41:07,880 --> 00:41:10,640
+it starts warping and coming undone,
+
+849
+00:41:10,700 --> 00:41:13,280
+I can put a heat lamp on this bridge
+
+850
+00:41:13,310 --> 00:41:15,230
+and in about five minutes, it peels right up,
+
+851
+00:41:15,870 --> 00:41:17,430
+so it really is just wooden glue,
+
+852
+00:41:17,430 --> 00:41:19,140
+so you want to make sure you don't do stupid things,
+
+853
+00:41:19,140 --> 00:41:23,520
+like take your guitar in the car in the mall in the middle of summertime,
+
+854
+00:41:24,210 --> 00:41:28,140
+that temperature inside your car is probably going to get about 150 degrees at least,
+
+855
+00:41:28,440 --> 00:41:30,990
+that's well enough to do pretty serious damage to your guitar,
+
+856
+00:41:31,200 --> 00:41:33,630
+so you just want to be real careful with that,
+
+857
+00:41:33,720 --> 00:41:35,550
+it can be hot, but not really hot,
+
+858
+00:41:36,190 --> 00:41:38,410
+also, you don't want to get your guitar super cold
+
+859
+00:41:38,410 --> 00:41:40,210
+or change temperature really fast,
+
+860
+00:41:40,450 --> 00:41:41,500
+it's in the middle of winter,
+
+861
+00:41:41,500 --> 00:41:42,820
+your guitar has been out in the car,
+
+862
+00:41:42,910 --> 00:41:43,960
+it's well below freezing,
+
+863
+00:41:43,960 --> 00:41:45,670
+you bring it in whip it out,
+
+864
+00:41:46,060 --> 00:41:48,460
+you're going to practice like like I said you should,
+
+865
+00:41:48,460 --> 00:41:49,210
+that's great,
+
+866
+00:41:49,210 --> 00:41:50,950
+but you set your guitar next to a heater vent,
+
+867
+00:41:51,280 --> 00:41:52,390
+that would be bad,
+
+868
+00:41:52,840 --> 00:41:56,110
+your guitar ever so slightly expands and contracts,
+
+869
+00:41:56,170 --> 00:41:58,450
+and it would crack the finish on top of your guitar,
+
+870
+00:41:58,690 --> 00:42:00,010
+it won't affect how it's going to sound,
+
+871
+00:42:00,010 --> 00:42:01,720
+but it's not going to look very pretty, from then on,
+
+872
+00:42:01,720 --> 00:42:03,190
+and there's once you crack your finish,
+
+873
+00:42:03,820 --> 00:42:04,630
+there's no going back,
+
+874
+00:42:04,630 --> 00:42:06,190
+it's like cracking a windshield on a car.
+
+875
+00:42:07,390 --> 00:42:08,200
+Last thing,
+
+876
+00:42:08,290 --> 00:42:11,920
+you want to be careful not to set anything on top of your guitar,
+
+877
+00:42:12,280 --> 00:42:13,390
+even when you put it in the case,
+
+878
+00:42:13,390 --> 00:42:15,160
+you don't want to put your [] on top of your guitar
+
+879
+00:42:15,190 --> 00:42:16,840
+or put any weight on it down this way,
+
+880
+00:42:16,900 --> 00:42:18,340
+there's just not any bracing that way,
+
+881
+00:42:18,340 --> 00:42:19,210
+and it could crack,
+
+882
+00:42:19,360 --> 00:42:21,790
+those are just some tips on caring for your instrument
+
+883
+00:42:21,880 --> 00:42:23,110
+and knowing what to look for
+
+884
+00:42:23,140 --> 00:42:25,420
+and some things you should buy at the very beginning.
+
+885
+00:42:28,180 --> 00:42:30,430
+Alright, here's your assignment for this session,
+
+886
+00:42:30,550 --> 00:42:32,350
+we've done what we've covered a lot of ground,
+
+887
+00:42:32,470 --> 00:42:33,670
+but here's what you need to do
+
+888
+00:42:33,700 --> 00:42:35,350
+in order to move on for the next session.
+
+889
+00:42:35,830 --> 00:42:40,000
+Do all of the finger exercises in your book on all of the strings
+
+890
+00:42:40,000 --> 00:42:41,350
+to toughen up your fingers
+
+891
+00:42:41,350 --> 00:42:44,680
+and also to build motor skill development and control.
+
+892
+00:42:45,070 --> 00:42:48,520
+Second thing you need to do memorize the names of your strings.
+
+893
+00:42:49,220 --> 00:42:52,850
+Third thing you need to do practice that C and G7 chord
+
+894
+00:42:53,150 --> 00:42:55,220
+and the exercises that are within,
+
+895
+00:42:55,610 --> 00:42:57,380
+each note should sound out clearly
+
+896
+00:42:57,590 --> 00:42:59,900
+and try not to hesitate when you're changing chords,
+
+897
+00:43:00,020 --> 00:43:01,550
+if you do all of these things,
+
+898
+00:43:02,500 --> 00:43:04,720
+and practice them faithfully over the next coming days,
+
+899
+00:43:04,720 --> 00:43:06,310
+you will be ready for the next level
+
+900
+00:43:06,730 --> 00:43:07,900
+and I'm going to help you practice,
+
+901
+00:43:07,900 --> 00:43:09,130
+when we get to the workshop time,
+
+902
+00:43:09,220 --> 00:43:09,910
+I'll see you there.
+
+903
+00:43:12,550 --> 00:43:14,590
+Okay, welcome to the guitar workshop time,
+
+904
+00:43:14,800 --> 00:43:17,680
+this is this is the portion where we get to practice together,
+
+905
+00:43:17,920 --> 00:43:19,630
+first thing we do before we practice,
+
+906
+00:43:19,660 --> 00:43:22,060
+wheedle hand stretching exercise,
+
+907
+00:43:22,180 --> 00:43:23,350
+so I want you to get your hands,
+
+908
+00:43:24,240 --> 00:43:25,920
+put a fingertip to fingertip,
+
+909
+00:43:27,030 --> 00:43:28,470
+start pressing down,
+
+910
+00:43:28,950 --> 00:43:30,330
+we're stretching out these muscles,
+
+911
+00:43:30,330 --> 00:43:31,740
+you're not trying to break your fingers,
+
+912
+00:43:31,740 --> 00:43:33,750
+now, you're just trying to stretch them down,
+
+913
+00:43:33,750 --> 00:43:35,400
+last thing to come down as your palm,
+
+914
+00:43:35,760 --> 00:43:37,050
+then your palm comes up,
+
+915
+00:43:37,520 --> 00:43:39,110
+stretch these out here.
+
+916
+00:43:41,010 --> 00:43:41,970
+Can you feel the difference,
+
+917
+00:43:41,970 --> 00:43:43,800
+can you feel those muscles stretching out in there,
+
+918
+00:43:43,890 --> 00:43:45,390
+that's a good way to get your hands warm
+
+919
+00:43:45,390 --> 00:43:46,500
+before we get ready to play.
+
+920
+00:43:46,740 --> 00:43:48,480
+Now, let's do these finger exercises,
+
+921
+00:43:48,480 --> 00:43:49,920
+that we talked about on your page,
+
+922
+00:43:50,010 --> 00:43:52,110
+we start out with the first finger exercise,
+
+923
+00:43:52,140 --> 00:43:57,390
+number one, remember we're going down up down up with our hand, right hand
+
+924
+00:43:57,540 --> 00:44:05,630
+and we're going to go one two three four, three two one with our left hand,
+
+925
+00:44:06,030 --> 00:44:08,580
+we will do it slowly at first
+
+926
+00:44:08,640 --> 00:44:11,400
+and then we'll play one time a little bit faster.
+
+927
+00:44:11,880 --> 00:44:14,310
+Here we go, down up down up with our pick,
+
+928
+00:44:14,550 --> 00:44:16,050
+ready, go,
+
+929
+00:44:16,050 --> 00:44:17,040
+first finger,
+
+930
+00:44:21,300 --> 00:44:22,890
+second finger,
+
+931
+00:44:25,920 --> 00:44:28,170
+third finger,
+
+932
+00:44:31,770 --> 00:44:32,610
+fourth finger,
+
+933
+00:44:36,480 --> 00:44:39,600
+back third,
+
+934
+00:44:42,490 --> 00:44:43,330
+second,
+
+935
+00:44:45,970 --> 00:44:48,700
+first,
+
+936
+00:44:48,700 --> 00:44:51,730
+let's do that again,
+
+937
+00:44:51,730 --> 00:44:52,630
+go back up to second,
+
+938
+00:44:53,470 --> 00:44:54,130
+second,
+
+939
+00:44:55,110 --> 00:44:55,920
+there you go,
+
+940
+00:44:58,320 --> 00:45:00,870
+third,
+
+941
+00:45:03,420 --> 00:45:04,800
+fourth,
+
+942
+00:45:08,640 --> 00:45:10,830
+third,
+
+943
+00:45:12,060 --> 00:45:15,570
+bracing your hand slow and steady,
+
+944
+00:45:16,740 --> 00:45:19,860
+make sure your fingers are doing exactly what they need to be doing.
+
+945
+00:45:24,760 --> 00:45:25,270
+Very good,
+
+946
+00:45:25,630 --> 00:45:28,270
+now we're gonna do that one just a little bit slightly faster,
+
+947
+00:45:28,570 --> 00:45:29,680
+see if you can keep up.
+
+948
+00:45:30,290 --> 00:45:31,880
+Ready, go.
+
+949
+00:45:35,680 --> 00:45:43,120
+Your fingers should be moving just like a machine,
+
+950
+00:45:45,040 --> 00:45:46,390
+back to third,
+
+951
+00:45:47,620 --> 00:45:49,030
+fingers that aren't being used
+
+952
+00:45:49,030 --> 00:45:52,600
+should be just hovering right above the fret board where they need to go,
+
+953
+00:45:56,670 --> 00:45:58,410
+slow even strokes,
+
+954
+00:45:58,680 --> 00:46:00,570
+try one more time, a little bit faster,
+
+955
+00:46:00,810 --> 00:46:01,860
+ready, go.
+
+956
+00:46:13,750 --> 00:46:21,070
+Very good, let's go to the second string,
+
+957
+00:46:22,090 --> 00:46:24,790
+what's the name of that second string, that's your B string,
+
+958
+00:46:25,030 --> 00:46:25,960
+try here we go,
+
+959
+00:46:26,260 --> 00:46:39,010
+ready, go.
+
+960
+00:46:45,730 --> 00:46:48,340
+Very good, now stood on the third string.
+
+961
+00:46:49,190 --> 00:46:50,840
+Ready, play.
+
+962
+00:47:10,560 --> 00:47:17,640
+Fourth string,
+
+963
+00:47:19,890 --> 00:47:21,840
+nice and even and steady
+
+964
+00:47:22,290 --> 00:47:24,360
+you're doing great,
+
+965
+00:47:25,860 --> 00:47:28,170
+keep those fingers down.
+
+966
+00:47:30,720 --> 00:47:34,020
+Fifth string, try it,
+
+967
+00:47:34,170 --> 00:47:38,670
+ready go,
+
+968
+00:47:46,650 --> 00:47:53,220
+back first.
+
+969
+00:47:54,570 --> 00:47:57,000
+Last string, low E string
+
+970
+00:47:57,060 --> 00:47:59,310
+and ready play,
+
+971
+00:47:59,460 --> 00:48:01,710
+keep that wrist down,
+
+972
+00:48:01,710 --> 00:48:03,780
+make sure you're bracing on that right hand,
+
+973
+00:48:04,470 --> 00:48:06,300
+good pick position,
+
+974
+00:48:07,980 --> 00:48:10,350
+a little bit tough to push down,
+
+975
+00:48:11,610 --> 00:48:13,470
+you may be buzzing on a couple of these,
+
+976
+00:48:13,860 --> 00:48:15,990
+maybe hugging up right behind that fret,
+
+977
+00:48:18,840 --> 00:48:19,680
+here we go.
+
+978
+00:48:22,860 --> 00:48:25,980
+very good, that's exercise number one,
+
+979
+00:48:26,010 --> 00:48:27,300
+let's do exercise number two.
+
+980
+00:48:27,910 --> 00:48:29,740
+Now instead of going down up down up,
+
+981
+00:48:29,740 --> 00:48:31,300
+we're just gonna go down up,
+
+982
+00:48:31,690 --> 00:48:34,120
+okay, let's go back to our first string again.
+
+983
+00:48:34,930 --> 00:48:36,490
+Ready, go,
+
+984
+00:48:36,730 --> 00:48:40,090
+down up down up,
+
+985
+00:48:40,090 --> 00:48:41,590
+third finger,
+
+986
+00:48:49,870 --> 00:48:51,700
+second string, go,
+
+987
+00:49:02,910 --> 00:49:06,390
+third string, a bit faster now,
+
+988
+00:49:15,510 --> 00:49:20,340
+fourth string, a little bit faster, even still,
+
+989
+00:49:21,810 --> 00:49:29,160
+here you go, try keep up, fifth string,
+
+990
+00:49:37,760 --> 00:49:45,290
+last one six string, go.
+
+991
+00:49:51,140 --> 00:49:53,210
+Very good, exercise three,
+
+992
+00:49:53,300 --> 00:49:55,760
+now we're just doing down just one on each,
+
+993
+00:49:56,060 --> 00:49:57,770
+okay let's start a little bit slower back on that,
+
+994
+00:49:57,890 --> 00:49:59,420
+well let's go back to that six string,
+
+995
+00:49:59,540 --> 00:50:00,350
+let's start there,
+
+996
+00:50:00,350 --> 00:50:01,250
+change it up a little bit.
+
+997
+00:50:01,880 --> 00:50:03,290
+Ready, go,
+
+998
+00:50:03,590 --> 00:50:10,520
+one two three four three two one,
+
+999
+00:50:10,520 --> 00:50:20,480
+good, next string go,
+
+1000
+00:50:24,760 --> 00:50:27,430
+third string go,
+
+1001
+00:50:33,240 --> 00:50:34,830
+second string, faster,
+
+1002
+00:50:36,000 --> 00:50:40,590
+there you go, fingers work
+
+1003
+00:50:40,590 --> 00:50:41,700
+and first string.
+
+1004
+00:50:47,950 --> 00:50:49,300
+Good, exercise four,
+
+1005
+00:50:49,300 --> 00:50:52,870
+remember goes one two, one three, one four,
+
+1006
+00:50:53,440 --> 00:50:55,870
+first string, ready, go,
+
+1007
+00:50:56,260 --> 00:51:07,120
+one two, one three, one four, one three, one two one,
+
+1008
+00:51:07,360 --> 00:51:08,500
+let's go to third string,
+
+1009
+00:51:09,350 --> 00:51:10,670
+ready, go,
+
+1010
+00:51:10,850 --> 00:51:21,260
+one two, one three, one four, one three, one two one.
+
+1011
+00:51:21,320 --> 00:51:22,790
+Skip over the fifth string,
+
+1012
+00:51:23,440 --> 00:51:33,880
+one two, one three, one four, one three, one two one.
+
+1013
+00:51:33,880 --> 00:51:37,300
+Last exercise there believe it's your fifth exercise there,
+
+1014
+00:51:37,420 --> 00:51:39,970
+four three, four two, four one,
+
+1015
+00:51:40,240 --> 00:51:41,920
+let's touch on that first string,
+
+1016
+00:51:42,400 --> 00:51:43,930
+ready, go,
+
+1017
+00:51:44,230 --> 00:51:49,990
+four three, four two, four one,
+
+1018
+00:51:50,140 --> 00:51:57,070
+second string, four three, four two, four one,
+
+1019
+00:51:57,130 --> 00:51:58,150
+third string.
+
+1020
+00:52:02,340 --> 00:52:04,440
+Very good little bit faster,
+
+1021
+00:52:04,440 --> 00:52:05,700
+fourth string,
+
+1022
+00:52:08,730 --> 00:52:11,070
+fifth string, faster,
+
+1023
+00:52:14,400 --> 00:52:17,250
+six string, faster still.
+
+1024
+00:52:19,860 --> 00:52:21,600
+Okay, now let's work on our chords,
+
+1025
+00:52:21,840 --> 00:52:23,340
+remember our two chords that we did,
+
+1026
+00:52:23,580 --> 00:52:25,050
+the C one is the first one,
+
+1027
+00:52:25,360 --> 00:52:26,860
+let's make sure we form it right,
+
+1028
+00:52:27,160 --> 00:52:28,630
+it's a five string chord,
+
+1029
+00:52:28,990 --> 00:52:32,170
+third finger on that fifth string, third fret,
+
+1030
+00:52:32,200 --> 00:52:34,990
+second finger, fourth string, second fret,
+
+1031
+00:52:36,260 --> 00:52:38,030
+the G on the third string is open,
+
+1032
+00:52:38,270 --> 00:52:42,140
+first finger on that second string first fret C,
+
+1033
+00:52:42,560 --> 00:52:43,610
+the last one is open,
+
+1034
+00:52:43,790 --> 00:52:44,870
+play altogether.
+
+1035
+00:52:49,000 --> 00:52:50,380
+Now, all at the same time,
+
+1036
+00:52:50,530 --> 00:52:53,260
+that's our C chord.
+
+1037
+00:52:53,650 --> 00:52:55,570
+Let's form our G7 chord,
+
+1038
+00:52:57,440 --> 00:52:58,730
+switch our fingers over,
+
+1039
+00:52:58,730 --> 00:53:02,480
+remember your third and your second finger just need to go up one string set
+
+1040
+00:53:02,600 --> 00:53:04,070
+and they're already where they need to be,
+
+1041
+00:53:04,610 --> 00:53:07,430
+move that first finger down one string set
+
+1042
+00:53:07,580 --> 00:53:08,930
+and he's where he needs to be,
+
+1043
+00:53:09,760 --> 00:53:13,870
+G7 [] go through, each one note at a time,
+
+1044
+00:53:18,480 --> 00:53:19,350
+all together.
+
+1045
+00:53:22,120 --> 00:53:23,950
+Alright, now we're gonna jump between those chords,
+
+1046
+00:53:24,070 --> 00:53:27,820
+okay, starting an exercise one on the chord examples,
+
+1047
+00:53:28,000 --> 00:53:29,350
+starts on the C chord,
+
+1048
+00:53:30,450 --> 00:53:31,740
+let's do four counts
+
+1049
+00:53:31,740 --> 00:53:34,680
+for each one of those notes that you're holding it for.
+
+1050
+00:53:35,640 --> 00:53:37,530
+So let's go, ready play,
+
+1051
+00:53:37,530 --> 00:53:41,040
+C chord, one two three,
+
+1052
+00:53:41,040 --> 00:53:46,470
+now change that G7 go, two, three,
+
+1053
+00:53:46,500 --> 00:53:51,480
+back to the C now, two three,
+
+1054
+00:53:51,510 --> 00:53:57,140
+G7, two three four
+
+1055
+00:53:57,140 --> 00:53:57,980
+and back to C.
+
+1056
+00:53:59,420 --> 00:54:00,050
+Pretty good,
+
+1057
+00:54:00,140 --> 00:54:00,530
+let's try it,
+
+1058
+00:54:00,530 --> 00:54:01,580
+let's speed it up just a little bit,
+
+1059
+00:54:02,240 --> 00:54:03,770
+ready, play,
+
+1060
+00:54:03,770 --> 00:54:06,800
+C, one two three,
+
+1061
+00:54:06,920 --> 00:54:10,690
+G7, two three,
+
+1062
+00:54:10,720 --> 00:54:14,830
+back to C, two, three,
+
+1063
+00:54:14,890 --> 00:54:18,720
+G7, two, three,
+
+1064
+00:54:18,750 --> 00:54:19,620
+back to C.
+
+1065
+00:54:21,470 --> 00:54:23,570
+Great, let's move on to exercise number two,
+
+1066
+00:54:24,020 --> 00:54:28,160
+remember we do a strum for each slash that's on the page,
+
+1067
+00:54:28,250 --> 00:54:31,760
+remember for a C chord, don't be hitting that low sixth string,
+
+1068
+00:54:31,910 --> 00:54:33,680
+just five strings on the C chord,
+
+1069
+00:54:33,890 --> 00:54:36,440
+ready, let's start nice and slow exercise two,
+
+1070
+00:54:36,800 --> 00:54:38,810
+ready go.
+
+1071
+00:54:42,530 --> 00:54:47,870
+Slow even strums, one two three,
+
+1072
+00:54:48,140 --> 00:54:51,260
+G7 now, switch your fingers over go,
+
+1073
+00:54:56,140 --> 00:54:59,320
+one two three,
+
+1074
+00:55:00,020 --> 00:55:01,400
+back to C.
+
+1075
+00:55:06,190 --> 00:55:08,050
+Pretty good, let's try one more time,
+
+1076
+00:55:08,500 --> 00:55:09,760
+ready, a little bit faster,
+
+1077
+00:55:09,760 --> 00:55:11,050
+this time starting on the C,
+
+1078
+00:55:11,170 --> 00:55:11,800
+ready,
+
+1079
+00:55:13,940 --> 00:55:21,770
+here you go here comes out G7, go,
+
+1080
+00:55:27,610 --> 00:55:28,900
+get ready for that C chord,
+
+1081
+00:55:28,900 --> 00:55:31,000
+be thinking where you put your fingers go.
+
+1082
+00:55:33,060 --> 00:55:35,880
+Very good, one more time,
+
+1083
+00:55:35,880 --> 00:55:37,140
+a little bit faster,
+
+1084
+00:55:37,500 --> 00:55:38,790
+ready, go.
+
+1085
+00:55:42,750 --> 00:55:43,980
+Even strums,
+
+1086
+00:55:48,650 --> 00:55:51,320
+push down those fingers nice and hard.
+
+1087
+00:55:55,190 --> 00:55:55,970
+Very good,
+
+1088
+00:55:56,300 --> 00:55:57,770
+let's move on exercise number three,
+
+1089
+00:55:57,890 --> 00:56:00,020
+now we're gonna switch those chords a little bit faster,
+
+1090
+00:56:00,570 --> 00:56:02,220
+we're going to go between the C and the G7,
+
+1091
+00:56:02,220 --> 00:56:04,260
+but only four beats in between each,
+
+1092
+00:56:05,260 --> 00:56:06,910
+ready play,
+
+1093
+00:56:07,000 --> 00:56:07,750
+C,
+
+1094
+00:56:07,750 --> 00:56:11,260
+now G7,
+
+1095
+00:56:13,980 --> 00:56:15,870
+back to C,
+
+1096
+00:56:18,660 --> 00:56:19,980
+G7,
+
+1097
+00:56:22,760 --> 00:56:23,750
+back to C,
+
+1098
+00:56:23,750 --> 00:56:24,530
+how are you doing,
+
+1099
+00:56:24,980 --> 00:56:27,950
+you're hanging in there still one more time,
+
+1100
+00:56:27,950 --> 00:56:29,060
+a little bit faster, this time,
+
+1101
+00:56:29,090 --> 00:56:30,680
+ready, go,
+
+1102
+00:56:30,800 --> 00:56:34,220
+G7,
+
+1103
+00:56:36,360 --> 00:56:37,800
+back to C,
+
+1104
+00:56:38,040 --> 00:56:41,760
+pretty good, G7,
+
+1105
+00:56:44,420 --> 00:56:45,140
+C.
+
+1106
+00:56:48,180 --> 00:56:49,890
+Okay, this will be the last time we do it,
+
+1107
+00:56:49,890 --> 00:56:51,780
+so really going to kick it up a notch on the speed,
+
+1108
+00:56:51,900 --> 00:56:52,950
+see if you can keep up,
+
+1109
+00:56:53,370 --> 00:56:55,680
+ready, go,
+
+1110
+00:56:55,710 --> 00:56:57,150
+G7,
+
+1111
+00:56:58,900 --> 00:57:01,930
+back to C,
+
+1112
+00:57:02,290 --> 00:57:03,010
+G7,
+
+1113
+00:57:03,040 --> 00:57:07,990
+back to C.
+
+1114
+00:57:08,080 --> 00:57:10,720
+Very good, I hope you've learned something this first session,
+
+1115
+00:57:10,990 --> 00:57:13,360
+a couple things I want you to think about as you're practicing,
+
+1116
+00:57:13,480 --> 00:57:17,980
+remember about fifteen minutes or more five out of seven days a week
+
+1117
+00:57:17,980 --> 00:57:20,800
+is a good place to start on practicing,
+
+1118
+00:57:20,800 --> 00:57:24,580
+you will only improve by the methods effort that you put in it,
+
+1119
+00:57:24,790 --> 00:57:27,400
+man, I wish I could just tell you the information
+
+1120
+00:57:27,490 --> 00:57:28,510
+and you would get it,
+
+1121
+00:57:28,750 --> 00:57:31,750
+but unfortunately, there's a lot of stuff that you got to do on your end,
+
+1122
+00:57:31,990 --> 00:57:32,860
+which is practicing,
+
+1123
+00:57:32,860 --> 00:57:36,010
+so I encourage you to do that five out of seven days a week,
+
+1124
+00:57:36,350 --> 00:57:37,970
+fifteen minutes or more,
+
+1125
+00:57:37,970 --> 00:57:40,460
+if you can pull up to thirty minutes five out of seven days a week,
+
+1126
+00:57:40,460 --> 00:57:41,060
+that's great,
+
+1127
+00:57:41,120 --> 00:57:42,770
+doesn't have to be at the same block either,
+
+1128
+00:57:42,920 --> 00:57:44,540
+you can just do a few minutes in the morning,
+
+1129
+00:57:44,570 --> 00:57:45,920
+maybe a few minutes at nine,
+
+1130
+00:57:46,070 --> 00:57:48,710
+keep working hard at it and I'll see you next time.
+
