@@ -4,6 +4,10 @@ Session 节课
 first finger 食指
 tablature 吉他谱
 
+# Session 10
+finger picking 指弹
+fingerstyle 指弹
+
 # Session 15
 power chord 强力和弦
 single coil 单线圈
