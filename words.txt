@@ -4,6 +4,13 @@ Session 节课
 first finger 食指
 tablature 吉他谱
 
+# Session 2
+music staff 乐谱（五线谱）
+line 线
+space 间
+measure 小节
+bar line 小节线
+
 # Session 15
 power chord 强力和弦
 single coil 单线圈
