@@ -4,6 +4,13 @@ Session 节课
 first finger 食指
 tablature 吉他谱
 
+# Session 3
+tie 延音线
+dot 附点
+slur 圆滑线
+flag 符尾
+beam 符杠
+
 # Session 15
 power chord 强力和弦
 single coil 单线圈
