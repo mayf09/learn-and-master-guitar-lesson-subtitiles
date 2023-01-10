@@ -18,6 +18,13 @@ quarter note 四分音符
 silence 静音
 time signature 拍号
 
+# Session 3
+tie 延音线
+dot 附点
+slur 圆滑线
+flag 符尾
+beam 符杠
+
 # Session 10
 finger picking 指弹
 fingerstyle 指弹
