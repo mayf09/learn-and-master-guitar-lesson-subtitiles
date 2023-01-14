@@ -4,6 +4,12 @@ Session 节课
 first finger 食指
 tablature 吉他谱
 
+# Session 4
+sharp 升调
+flat 降调
+ledger line 加线
+first position 第一把位
+
 # Session 15
 power chord 强力和弦
 single coil 单线圈
