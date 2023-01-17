@@ -25,6 +25,14 @@ slur 圆滑线
 flag 符尾
 beam 符杠
 
+# Session 4
+sharp 升调
+flat 降调
+ledger line 加线
+first position 第一把位
+pickup note 拾音音符
+key signature 调号
+
 # Session 10
 finger picking 指弹
 fingerstyle 指弹
