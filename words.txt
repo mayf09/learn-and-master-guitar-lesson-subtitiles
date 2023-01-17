@@ -9,6 +9,8 @@ sharp 升调
 flat 降调
 ledger line 加线
 first position 第一把位
+pickup note 拾音音符
+key signature 调号
 
 # Session 15
 power chord 强力和弦
