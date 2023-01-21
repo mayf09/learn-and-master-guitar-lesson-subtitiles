@@ -33,6 +33,10 @@ first position 第一把位
 pickup note 拾音音符
 key signature 调号
 
+# Session 6
+minor seventh chord 小七和弦
+suspended chord 挂留和弦
+
 # Session 10
 finger picking 指弹
 fingerstyle 指弹
