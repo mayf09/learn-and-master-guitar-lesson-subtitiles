@@ -38,6 +38,10 @@ strumming 扫弦
 open chord 开放和弦
 bar chord 横按和弦
 
+# Session 6
+minor seventh chord 小七和弦
+suspended chord 挂留和弦
+
 # Session 10
 finger picking 指弹
 fingerstyle 指弹

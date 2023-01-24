@@ -1,0 +1,2656 @@
+1
+00:00:38,540 --> 00:00:40,130
+Hi, welcome to session six,
+
+2
+00:00:40,460 --> 00:00:45,470
+in this session, we're going to talk about minor seventh chords and suspended chords,
+
+3
+00:00:45,560 --> 00:00:47,210
+if we have a little bit more color in them
+
+4
+00:00:47,210 --> 00:00:49,490
+than the basic chords that we've been talking about so far,
+
+5
+00:00:49,730 --> 00:00:52,550
+but they still are open chords, that involve open strings.
+
+6
+00:00:53,300 --> 00:00:54,740
+We're also going to talk about strumming
+
+7
+00:00:54,950 --> 00:00:58,370
+and strumming with ties which gets a little bit more complicated,
+
+8
+00:00:58,370 --> 00:01:01,040
+but sure makes it sound a little bit more musically interesting,
+
+9
+00:01:01,040 --> 00:01:01,580
+when we do it,
+
+10
+00:01:01,970 --> 00:01:03,350
+in the guitar tips section,
+
+11
+00:01:03,380 --> 00:01:06,800
+we're going to talk about practicing strumming patterns without music,
+
+12
+00:01:06,980 --> 00:01:08,570
+we'll work with music here,
+
+13
+00:01:08,660 --> 00:01:10,580
+but I also want to talk about doing it without music,
+
+14
+00:01:10,580 --> 00:01:12,680
+because that's the kind of situations, that you're going to be in,
+
+15
+00:01:12,770 --> 00:01:16,160
+when you're trying to play with friends or in a group situation like that.
+
+16
+00:01:16,410 --> 00:01:17,640
+So let's go ahead and get started.
+
+17
+00:01:18,110 --> 00:01:20,270
+Okay, now let's talk about the minor seventh chords,
+
+18
+00:01:20,270 --> 00:01:23,240
+three minor seventh chords, we're gonna cover in this, this section,
+
+19
+00:01:23,600 --> 00:01:27,650
+Am7, Dm7 and Em7,
+
+20
+00:01:28,190 --> 00:01:30,650
+abbreviated A little m 7,
+
+21
+00:01:30,800 --> 00:01:34,190
+the little m and the 7 is telling you it's a minor seventh chord,
+
+22
+00:01:34,220 --> 00:01:36,470
+so let's look at that Am7 chord first,
+
+23
+00:01:36,680 --> 00:01:38,150
+okay five string chord,
+
+24
+00:01:38,180 --> 00:01:41,900
+everything in the family is going to be a five string chord,
+
+25
+00:01:41,900 --> 00:01:43,700
+so there's nothing happening on that six string.
+
+26
+00:01:44,470 --> 00:01:46,480
+We have open A,
+
+27
+00:01:46,510 --> 00:01:48,250
+second finger on E,
+
+28
+00:01:49,630 --> 00:01:50,710
+open G,
+
+29
+00:01:51,620 --> 00:01:53,090
+first fingers C
+
+30
+00:01:53,120 --> 00:01:55,070
+and open E,
+
+31
+00:02:03,460 --> 00:02:06,160
+just play it altogether.
+
+32
+00:02:06,780 --> 00:02:07,890
+It's kind of like a C chord,
+
+33
+00:02:07,890 --> 00:02:09,210
+if you take your third finger off,
+
+34
+00:02:09,390 --> 00:02:10,320
+pretty much the same thing.
+
+35
+00:02:11,100 --> 00:02:13,020
+Now let's talk about Dm7,
+
+36
+00:02:13,020 --> 00:02:15,120
+this one is a little bit different from the others,
+
+37
+00:02:15,210 --> 00:02:16,500
+it's a four string chord,
+
+38
+00:02:16,530 --> 00:02:18,240
+all the D's are four string chord,
+
+39
+00:02:18,480 --> 00:02:20,010
+so let's look what's happening here,
+
+40
+00:02:20,250 --> 00:02:21,960
+we've got open D,
+
+41
+00:02:21,990 --> 00:02:23,850
+I've got my second finger on this A
+
+42
+00:02:24,420 --> 00:02:26,610
+and here's the problem right here,
+
+43
+00:02:26,940 --> 00:02:28,710
+I need to put my first finger,
+
+44
+00:02:28,740 --> 00:02:31,140
+he needs to cover two strings at once,
+
+45
+00:02:31,200 --> 00:02:32,490
+needs to pull double duty,
+
+46
+00:02:32,880 --> 00:02:36,180
+I've got an F and I've also got a C,
+
+47
+00:02:36,810 --> 00:02:37,830
+that I need to cover,
+
+48
+00:02:38,520 --> 00:02:40,140
+now I guess I could really do that,
+
+49
+00:02:40,140 --> 00:02:42,630
+that's not the right way to do it,
+
+50
+00:02:43,080 --> 00:02:44,700
+put your second finger on that A
+
+51
+00:02:44,820 --> 00:02:48,510
+and then I want you to put your first finger down over both of those strings,
+
+52
+00:02:48,970 --> 00:02:57,910
+now, this that's the we're in the baby pool of barre chords,
+
+53
+00:02:58,000 --> 00:02:59,950
+this is the introduction to barre chords,
+
+54
+00:03:00,010 --> 00:03:00,940
+let me show you,
+
+55
+00:03:01,500 --> 00:03:03,150
+so let me talk about this for saying,
+
+56
+00:03:03,150 --> 00:03:04,260
+it's a pretty big concept.
+
+57
+00:03:05,190 --> 00:03:07,230
+What you don't want to do is raise this wrist up,
+
+58
+00:03:07,230 --> 00:03:09,000
+because it's hard to push down those two strings,
+
+59
+00:03:09,060 --> 00:03:10,170
+you raise that wrist up,
+
+60
+00:03:10,350 --> 00:03:11,610
+you crank this up here
+
+61
+00:03:11,970 --> 00:03:13,590
+and you end up doing something like this,
+
+62
+00:03:13,800 --> 00:03:15,330
+now it may work a little bit,
+
+63
+00:03:15,330 --> 00:03:17,340
+but when we get to more complex barre chords,
+
+64
+00:03:17,340 --> 00:03:19,620
+you'll see that that is not going to work very very well at all,
+
+65
+00:03:19,830 --> 00:03:21,450
+so here's what you need to do,
+
+66
+00:03:21,540 --> 00:03:22,890
+lower that wrist,
+
+67
+00:03:23,540 --> 00:03:25,490
+put your finger out,
+
+68
+00:03:26,150 --> 00:03:28,490
+your joint will go in,
+
+69
+00:03:29,340 --> 00:03:32,880
+but it will also go a little bit inverted, not very much,
+
+70
+00:03:32,970 --> 00:03:34,260
+but I'll go a little bit inverted,
+
+71
+00:03:34,440 --> 00:03:35,820
+it's the inverted,
+
+72
+00:03:38,140 --> 00:03:39,400
+how the muscles are there is,
+
+73
+00:03:39,400 --> 00:03:41,140
+how you do these bar chords,
+
+74
+00:03:41,140 --> 00:03:42,550
+especially these little ones like that,
+
+75
+00:03:42,850 --> 00:03:47,560
+get your two, get your finger over those two strings, kind of invert that,
+
+76
+00:03:50,380 --> 00:03:53,710
+that's a good way to get a lot of pressure focused into one spot,
+
+77
+00:03:53,980 --> 00:03:54,820
+if you try and do it
+
+78
+00:03:54,820 --> 00:03:58,880
+by just putting your, raising your wrist and pulling your finger back
+
+79
+00:03:58,880 --> 00:04:01,250
+is not a very efficient way to do it,
+
+80
+00:04:01,400 --> 00:04:05,150
+put that wrist down, put that finger in front, pressing down,
+
+81
+00:04:05,240 --> 00:04:09,290
+inverting that first finger, catching that,
+
+82
+00:04:09,380 --> 00:04:11,060
+now trying to add that A to it,
+
+83
+00:04:11,960 --> 00:04:13,070
+so now look what I've got going,
+
+84
+00:04:13,070 --> 00:04:16,580
+I've got one joint that's going normal,
+
+85
+00:04:16,760 --> 00:04:18,080
+one that's going inverted,
+
+86
+00:04:18,080 --> 00:04:21,290
+I'm doing two different things with two different joint, joints,
+
+87
+00:04:21,320 --> 00:04:23,180
+it's a little bit tricky to do it first,
+
+88
+00:04:23,180 --> 00:04:27,260
+but that's the Dm7,
+
+89
+00:04:27,260 --> 00:04:28,160
+once you do it a couple times,
+
+90
+00:04:28,160 --> 00:04:30,800
+you'll get, you'll get the hang of.
+
+91
+00:04:32,140 --> 00:04:35,080
+Okay, the last one is an Em7,
+
+92
+00:04:35,080 --> 00:04:39,370
+we're going to talk about E's family chords six strings,
+
+93
+00:04:39,730 --> 00:04:41,920
+okay, it's two different fingerings we can use,
+
+94
+00:04:41,920 --> 00:04:43,450
+two different alternate fingerings on this,
+
+95
+00:04:43,510 --> 00:04:44,740
+let me teach you the first one,
+
+96
+00:04:44,740 --> 00:04:45,610
+this one I like,
+
+97
+00:04:45,700 --> 00:04:47,200
+don't necessarily have to do it like I do,
+
+98
+00:04:47,200 --> 00:04:48,760
+there's different guys do it different ways.
+
+99
+00:04:49,310 --> 00:04:50,390
+Open E,
+
+100
+00:04:50,480 --> 00:04:52,760
+now I put my first finger on this B,
+
+101
+00:04:53,810 --> 00:04:56,480
+then I have two open strings and D and G,
+
+102
+00:04:57,140 --> 00:04:59,990
+then I have my third finger on this high D,
+
+103
+00:05:00,530 --> 00:05:02,480
+my pinky on this high G,
+
+104
+00:05:06,280 --> 00:05:07,450
+Em7.
+
+105
+00:05:08,150 --> 00:05:10,190
+Now another way to do that,
+
+106
+00:05:12,560 --> 00:05:14,270
+which I think is a little bit more awkward,
+
+107
+00:05:14,360 --> 00:05:15,620
+so it's been a bit more awkward to me,
+
+108
+00:05:15,620 --> 00:05:16,700
+but a lot of guys use it,
+
+109
+00:05:17,300 --> 00:05:18,260
+is an open E,
+
+110
+00:05:18,290 --> 00:05:20,090
+second finger up here on this B,
+
+111
+00:05:21,430 --> 00:05:23,170
+third finger on this E,
+
+112
+00:05:24,040 --> 00:05:24,970
+G,
+
+113
+00:05:25,450 --> 00:05:27,940
+pinky covering D,
+
+114
+00:05:28,360 --> 00:05:29,230
+the last string open,
+
+115
+00:05:29,230 --> 00:05:31,300
+now you'll notice the finger is completely different for this one,
+
+116
+00:05:31,300 --> 00:05:32,470
+how can it be the same chord,
+
+117
+00:05:32,770 --> 00:05:35,020
+well chord is just a combination of tones,
+
+118
+00:05:35,170 --> 00:05:37,510
+no matter how many ways I slice them,
+
+119
+00:05:37,690 --> 00:05:38,800
+there's still chords,
+
+120
+00:05:39,760 --> 00:05:41,020
+there's still the same chord,
+
+121
+00:05:41,050 --> 00:05:43,540
+so it doesn't matter really what order I have the notes in,
+
+122
+00:05:44,410 --> 00:05:46,870
+so here's version one,
+
+123
+00:05:47,560 --> 00:05:50,320
+here's version two,
+
+124
+00:05:50,590 --> 00:05:51,940
+either way you can use fun
+
+125
+00:05:53,140 --> 00:05:55,270
+and whatever lanes better with your hand,
+
+126
+00:05:55,270 --> 00:05:58,030
+let's do some of the minor chord exercises.
+
+127
+00:05:58,270 --> 00:06:02,740
+Okay, basic open chord exercises using minor sevenths,
+
+128
+00:06:02,770 --> 00:06:05,050
+look at number one there, we have Am,
+
+129
+00:06:05,710 --> 00:06:08,050
+and then we're gonna go to Am7,
+
+130
+00:06:08,380 --> 00:06:11,080
+the rhythms you'll notice you're getting a little more complex as well,
+
+131
+00:06:11,590 --> 00:06:12,790
+let's do it real slowly.
+
+132
+00:06:12,820 --> 00:06:15,120
+Ready, go,
+
+133
+00:06:15,480 --> 00:06:21,450
+Am7, now take that third finger off,
+
+134
+00:06:21,450 --> 00:06:26,880
+D7, now,
+
+135
+00:06:27,090 --> 00:06:32,280
+three Gs in a row,
+
+136
+00:06:37,750 --> 00:06:39,100
+How did you do, let's try one more time.
+
+137
+00:06:40,120 --> 00:06:42,190
+Ready, play,
+
+138
+00:06:42,640 --> 00:06:47,350
+third finger off,
+
+139
+00:06:50,350 --> 00:06:52,480
+D7
+
+140
+00:06:54,430 --> 00:06:59,260
+three G in a row.
+
+141
+00:07:04,480 --> 00:07:06,190
+Okay, now let's do exercise number two,
+
+142
+00:07:06,830 --> 00:07:07,880
+this one starts on a D
+
+143
+00:07:07,880 --> 00:07:10,550
+and this gives us a good workout on that Em7 chord.
+
+144
+00:07:11,080 --> 00:07:13,540
+Okay, starts on a D, nice and slow,
+
+145
+00:07:13,690 --> 00:07:19,550
+ready, play,
+
+146
+00:07:20,030 --> 00:07:22,940
+Em7, take a second to get to it,
+
+147
+00:07:24,410 --> 00:07:27,440
+either form you want to use is fine,
+
+148
+00:07:28,010 --> 00:07:32,840
+Am7, D,
+
+149
+00:07:32,960 --> 00:07:35,480
+G.
+
+150
+00:07:39,260 --> 00:07:40,760
+Very good, let's try one more time,
+
+151
+00:07:41,330 --> 00:07:58,700
+D, Em7, D 1 2, G.
+
+152
+00:08:02,580 --> 00:08:11,120
+Great okay, now let's scoot down the page a little bit to number three,
+
+153
+00:08:11,210 --> 00:08:12,140
+I was going to go down farther,
+
+154
+00:08:12,140 --> 00:08:13,010
+but let's do number three,
+
+155
+00:08:13,010 --> 00:08:15,080
+that gives us a good workout on the Dm7,
+
+156
+00:08:15,440 --> 00:08:16,760
+okay, pretty simple rhythm,
+
+157
+00:08:16,760 --> 00:08:19,040
+it's the same rhythm for all the four measures,
+
+158
+00:08:19,130 --> 00:08:20,420
+let's start on that C,
+
+159
+00:08:21,230 --> 00:08:23,190
+ready, go,
+
+160
+00:08:26,060 --> 00:08:28,520
+one two, same thing,
+
+161
+00:08:31,040 --> 00:08:32,750
+now here's that Dm7,
+
+162
+00:08:32,750 --> 00:08:34,370
+make sure you form it correctly,
+
+163
+00:08:35,300 --> 00:08:36,920
+inverting that first finger,
+
+164
+00:08:37,010 --> 00:08:38,360
+here we go,
+
+165
+00:08:38,360 --> 00:08:38,930
+four string chord,
+
+166
+00:08:42,200 --> 00:08:51,080
+back to C repeat,
+
+167
+00:08:51,780 --> 00:09:00,030
+Dm7, go,
+
+168
+00:09:00,650 --> 00:09:04,970
+very good.
+
+169
+00:09:07,380 --> 00:09:09,930
+Okay before we talk about suspended chords,
+
+170
+00:09:09,930 --> 00:09:11,700
+when you talk about strumming for a second,
+
+171
+00:09:11,910 --> 00:09:14,820
+because we're getting more complex with our rhythms,
+
+172
+00:09:14,970 --> 00:09:17,640
+there strumming is going to have to change a little bit as well,
+
+173
+00:09:17,850 --> 00:09:21,220
+let's talk about good technique for strumming,
+
+174
+00:09:21,670 --> 00:09:26,590
+now at this point, we've pretty much just been going down down down down,
+
+175
+00:09:26,590 --> 00:09:27,610
+we need to do an up,
+
+176
+00:09:27,640 --> 00:09:28,870
+there'll be a bunch of [] row
+
+177
+00:09:28,870 --> 00:09:33,340
+and we'll go down up, down up, down up, down up,
+
+178
+00:09:33,430 --> 00:09:35,470
+even when you are doing just downs,
+
+179
+00:09:35,590 --> 00:09:39,250
+your hand is still doing a silent up,
+
+180
+00:09:39,610 --> 00:09:40,510
+if you think about it,
+
+181
+00:09:40,810 --> 00:09:43,120
+okay, so your hand is always doing this cycle,
+
+182
+00:09:43,720 --> 00:09:47,830
+down up, down up, down up, down,
+
+183
+00:09:47,830 --> 00:09:49,360
+it's kind of a piston in a car,
+
+184
+00:09:49,870 --> 00:09:55,690
+it's always going down up, down up, down up, down up,
+
+185
+00:09:56,170 --> 00:09:59,680
+okay, so when I'm practicing this strumming,
+
+186
+00:09:59,770 --> 00:10:01,450
+now we're going to get a little more complex,
+
+187
+00:10:01,450 --> 00:10:02,170
+be thinking of that,
+
+188
+00:10:02,170 --> 00:10:06,100
+so you don't want to go down down down down down,
+
+189
+00:10:06,520 --> 00:10:07,240
+that would be wrong,
+
+190
+00:10:07,360 --> 00:10:11,200
+down, down up, down, down,
+
+191
+00:10:11,200 --> 00:10:12,940
+if you want good smooth strumming,
+
+192
+00:10:14,800 --> 00:10:21,160
+see how if I do all downs, it sounds a little bit different
+
+193
+00:10:21,400 --> 00:10:22,690
+and as we get more complex,
+
+194
+00:10:22,690 --> 00:10:24,130
+it's going to really start throwing you off,
+
+195
+00:10:24,280 --> 00:10:25,930
+it's going to make sure you understand what we're doing,
+
+196
+00:10:26,110 --> 00:10:28,090
+I'm never going to tell you to be up,
+
+197
+00:10:28,300 --> 00:10:30,790
+when you're in the cycle to be down or the opposite,
+
+198
+00:10:31,260 --> 00:10:32,640
+it may be a little confusing at first,
+
+199
+00:10:32,640 --> 00:10:33,750
+but pretty soon you'll realize that,
+
+200
+00:10:33,750 --> 00:10:34,980
+that's really the only way you could do it,
+
+201
+00:10:35,040 --> 00:10:36,750
+if you keep that cycle consistent,
+
+202
+00:10:37,080 --> 00:10:38,880
+okay, that's about strumming.
+
+203
+00:10:38,940 --> 00:10:43,700
+Now, let's talk about adding ties into the, inside of our strumming chords,
+
+204
+00:10:43,730 --> 00:10:45,770
+okay, so just on a G chord,
+
+205
+00:10:47,490 --> 00:10:49,350
+let's do exercise number one.
+
+206
+00:10:50,710 --> 00:10:54,490
+Okay, the first part of exercise number one is without the tie
+
+207
+00:10:54,910 --> 00:10:56,830
+and the second part I through in the tie,
+
+208
+00:10:57,220 --> 00:11:00,610
+your strumming pattern is going to change just slightly,
+
+209
+00:11:00,640 --> 00:11:03,730
+but the up and down cycle of your hand is the same,
+
+210
+00:11:03,790 --> 00:11:05,860
+whether I'm hitting the strings or not hitting the strings.
+
+211
+00:11:06,580 --> 00:11:09,970
+Number one, A, on a G chord,
+
+212
+00:11:10,000 --> 00:11:13,600
+down, down up, down,
+
+213
+00:11:14,090 --> 00:11:19,610
+okay, one more time, down up, down,
+
+214
+00:11:19,610 --> 00:11:21,530
+now even though it's just a half note,
+
+215
+00:11:21,530 --> 00:11:23,180
+I want you to keep your hand going,
+
+216
+00:11:23,480 --> 00:11:24,740
+very important concept,
+
+217
+00:11:24,830 --> 00:11:26,420
+keep your hand going
+
+218
+00:11:26,510 --> 00:11:30,290
+or you're going to forever get turned around on where you need to be playing,
+
+219
+00:11:30,530 --> 00:11:31,460
+the secret is,
+
+220
+00:11:31,460 --> 00:11:32,300
+let me tell you the secret,
+
+221
+00:11:32,300 --> 00:11:33,590
+for somebody's done it for years,
+
+222
+00:11:34,090 --> 00:11:39,700
+keep your hand going, okay, down, down up, down,
+
+223
+00:11:40,160 --> 00:11:41,510
+now I know you're saying yourself,
+
+224
+00:11:41,510 --> 00:11:43,850
+why should I keep my hand going on just a half note,
+
+225
+00:11:43,850 --> 00:11:44,750
+I'm going to get worn out,
+
+226
+00:11:44,750 --> 00:11:47,360
+I'm going to die early, die young in my life,
+
+227
+00:11:47,360 --> 00:11:49,280
+because I'm wasting all my energy doing this,
+
+228
+00:11:49,490 --> 00:11:51,550
+no, you need to keep that,
+
+229
+00:11:51,550 --> 00:11:53,770
+because as we get more and more complex with our rhythms,
+
+230
+00:11:53,920 --> 00:11:55,420
+if you don't keep that hand going,
+
+231
+00:11:55,420 --> 00:11:57,070
+to sound [], you're going to be able to keep up.
+
+232
+00:11:57,400 --> 00:12:00,940
+Okay, now, 1b, I'm going to throw that tie in,
+
+233
+00:12:00,970 --> 00:12:04,420
+we had been going down, down up, down,
+
+234
+00:12:04,450 --> 00:12:06,280
+now, I'm just going to take away one of those downs,
+
+235
+00:12:07,110 --> 00:12:08,280
+and see what happens,
+
+236
+00:12:08,520 --> 00:12:11,040
+down, down up,
+
+237
+00:12:13,000 --> 00:12:17,410
+down, down up, down up, down up,
+
+238
+00:12:17,560 --> 00:12:22,090
+down, down up, down up, down up,
+
+239
+00:12:22,090 --> 00:12:24,730
+you're ending your strum on up beat,
+
+240
+00:12:24,940 --> 00:12:26,020
+feels kind of funny.
+
+241
+00:12:26,540 --> 00:12:27,920
+Okay, let's try one more time,
+
+242
+00:12:28,250 --> 00:12:30,380
+down, down up,
+
+243
+00:12:30,380 --> 00:12:32,210
+a little bit faster,
+
+244
+00:12:32,270 --> 00:12:38,240
+there you go,
+
+245
+00:12:38,240 --> 00:12:40,370
+take a while for you to kind of get the concept of this,
+
+246
+00:12:41,120 --> 00:12:43,040
+down up, down up.
+
+247
+00:12:43,100 --> 00:12:43,970
+Let's do number two,
+
+248
+00:12:45,710 --> 00:12:48,080
+the first part is a, without the tie,
+
+249
+00:12:49,060 --> 00:12:53,530
+down, down up, down up, down,
+
+250
+00:12:53,560 --> 00:12:54,220
+again,
+
+251
+00:12:58,480 --> 00:13:00,100
+when I have the tie in,
+
+252
+00:13:00,520 --> 00:13:06,160
+it then becomes down, down up, up, down,
+
+253
+00:13:06,420 --> 00:13:11,100
+down, down up, up, down,
+
+254
+00:13:11,130 --> 00:13:13,770
+okay, again, don't get confused,
+
+255
+00:13:13,830 --> 00:13:16,680
+what's the rule, keep your hand going,
+
+256
+00:13:16,800 --> 00:13:18,090
+if your hand is always going,
+
+257
+00:13:18,090 --> 00:13:21,600
+you'll end up being in the right part of the cycle to land on it,
+
+258
+00:13:21,840 --> 00:13:23,340
+one more time, 2b,
+
+259
+00:13:23,960 --> 00:13:29,240
+down, down up, up, down,
+
+260
+00:13:29,240 --> 00:13:30,620
+I'll slow it down even a little more,
+
+261
+00:13:30,650 --> 00:13:33,800
+down, down up,
+
+262
+00:13:33,800 --> 00:13:35,450
+there's a silent down there,
+
+263
+00:13:35,540 --> 00:13:37,910
+then we come back into it.
+
+264
+00:13:37,910 --> 00:13:41,210
+Great, let's do number three, without the tie first,
+
+265
+00:13:42,110 --> 00:13:43,700
+ready, go,
+
+266
+00:13:46,480 --> 00:13:48,430
+keep your hand going,
+
+267
+00:13:48,430 --> 00:13:49,180
+again.
+
+268
+00:13:53,480 --> 00:13:55,610
+Okay, now the b section,
+
+269
+00:13:55,760 --> 00:13:56,990
+I'm gonna throw that tie in,
+
+270
+00:13:57,560 --> 00:14:02,240
+down up, keep your hand going,
+
+271
+00:14:02,480 --> 00:14:06,590
+down up, down up, keep your hands going,
+
+272
+00:14:06,590 --> 00:14:07,340
+a little bit faster,
+
+273
+00:14:07,340 --> 00:14:11,540
+a little bit faster, go,
+
+274
+00:14:13,460 --> 00:14:14,270
+one more go,
+
+275
+00:14:17,390 --> 00:14:24,560
+very good, here you go, great, okay.
+
+276
+00:14:24,770 --> 00:14:26,960
+Now, I think we're ready for suspended chords,
+
+277
+00:14:27,170 --> 00:14:28,940
+okay, we're just going to cover three of them,
+
+278
+00:14:28,940 --> 00:14:31,520
+this will be the last of our basic chords,
+
+279
+00:14:31,520 --> 00:14:35,810
+you have covered probably close to twenty chords in the last,
+
+280
+00:14:36,130 --> 00:14:37,990
+this session and past sessions,
+
+281
+00:14:38,320 --> 00:14:41,740
+so we have crammed a lot of chords into you, in a very short amount of time,
+
+282
+00:14:41,860 --> 00:14:44,590
+may take a while to process all of those,
+
+283
+00:14:44,710 --> 00:14:47,440
+the last three we're going to cover are suspended chords,
+
+284
+00:14:47,620 --> 00:14:51,280
+suspended chords is just a way of referring to,
+
+285
+00:14:51,280 --> 00:14:55,570
+they're going to take the third note of the scale and suspend it up to the fourth.
+
+286
+00:14:55,900 --> 00:14:58,810
+We'll learn a little bit more about the mechanics of that a little bit,
+
+287
+00:14:58,810 --> 00:15:02,320
+but just realize it's related to the major chord.
+
+288
+00:15:03,280 --> 00:15:05,980
+A, our major chord is like this,
+
+289
+00:15:09,180 --> 00:15:11,250
+now for suspended chords,
+
+290
+00:15:11,250 --> 00:15:13,860
+suspended chords almost always involve your pinky,
+
+291
+00:15:14,340 --> 00:15:16,860
+slide that pinky out just one fret,
+
+292
+00:15:20,360 --> 00:15:21,920
+that's an Asus.
+
+293
+00:15:23,040 --> 00:15:24,420
+Now, you may be saying yourself,
+
+294
+00:15:24,420 --> 00:15:25,770
+well why don't I just play it like this,
+
+295
+00:15:27,200 --> 00:15:29,630
+well, that's a possibility,
+
+296
+00:15:30,860 --> 00:15:33,110
+but let's talk about why that's not a good idea,
+
+297
+00:15:33,380 --> 00:15:37,790
+suspended chords almost always come right next to a major chord,
+
+298
+00:15:38,030 --> 00:15:39,440
+it's kind of like a [] and a you,
+
+299
+00:15:39,470 --> 00:15:40,580
+you always seen together,
+
+300
+00:15:40,730 --> 00:15:43,070
+like if I'm playing A,
+
+301
+00:15:47,330 --> 00:15:49,520
+see I'm just putting my pinky out,
+
+302
+00:15:50,090 --> 00:15:51,770
+if I did it the other way, it wouldn't work,
+
+303
+00:15:53,960 --> 00:15:57,380
+I have to really whack out my hand in order to get to work,
+
+304
+00:15:57,740 --> 00:15:59,300
+so it's much easier to do with your pinky,
+
+305
+00:15:59,600 --> 00:16:00,890
+that's why I encourage you to learn that way.
+
+306
+00:16:03,500 --> 00:16:05,570
+Okay, Dsus as the next one,
+
+307
+00:16:06,240 --> 00:16:09,750
+okay, now look carefully at the numbers on that chord block,
+
+308
+00:16:09,780 --> 00:16:13,140
+tells you where those where to put your fingers,
+
+309
+00:16:13,320 --> 00:16:14,700
+it may seem odd at first,
+
+310
+00:16:14,700 --> 00:16:17,280
+but remember we're relating it to the major chord,
+
+311
+00:16:17,610 --> 00:16:18,630
+here's a D,
+
+312
+00:16:19,050 --> 00:16:20,460
+I just put my pinky down,
+
+313
+00:16:20,970 --> 00:16:22,650
+that's a Dsus,
+
+314
+00:16:22,650 --> 00:16:25,980
+don't play like that, that's not a good way to play it,
+
+315
+00:16:26,550 --> 00:16:30,040
+play it with a D, Dsus,
+
+316
+00:16:30,070 --> 00:16:33,130
+D, Dsus,
+
+317
+00:16:33,160 --> 00:16:34,420
+on all the suspended chords,
+
+318
+00:16:34,420 --> 00:16:35,890
+I'm just moving my pinky,
+
+319
+00:16:39,880 --> 00:16:44,020
+see how that works.
+
+320
+00:16:44,710 --> 00:16:48,860
+Now, the next one, the last one is an E, and Esus,
+
+321
+00:16:48,860 --> 00:16:50,570
+we start with the E,
+
+322
+00:16:52,640 --> 00:16:55,730
+Esus, sneak that pinky right underneath there,
+
+323
+00:16:55,790 --> 00:16:56,930
+it's kind of like an A chord,
+
+324
+00:16:56,930 --> 00:16:58,580
+just you moved everything up the string set,
+
+325
+00:16:58,790 --> 00:17:01,580
+okay back to E.
+
+326
+00:17:02,930 --> 00:17:05,570
+Now, if you want to take your first finger off,
+
+327
+00:17:05,990 --> 00:17:06,950
+it really doesn't matter,
+
+328
+00:17:06,950 --> 00:17:09,170
+because it's being covered by the pinky anyway,
+
+329
+00:17:09,590 --> 00:17:13,070
+I don't know, I might just go and leave it on.
+
+330
+00:17:17,480 --> 00:17:24,530
+Okay, alright now move on to your suspended chord exercises,
+
+331
+00:17:24,530 --> 00:17:25,790
+let's go through a couple of those,
+
+332
+00:17:25,910 --> 00:17:28,370
+starting with number one, starts on an A,
+
+333
+00:17:28,950 --> 00:17:29,850
+look at the rhythm,
+
+334
+00:17:30,450 --> 00:17:34,470
+ready, go,
+
+335
+00:17:34,500 --> 00:17:36,660
+Asus, slide pinky out,
+
+336
+00:17:36,660 --> 00:17:40,230
+keep that hand going,
+
+337
+00:17:41,850 --> 00:17:44,400
+Asus go,
+
+338
+00:17:44,790 --> 00:17:48,510
+that's a little quick,
+
+339
+00:17:48,510 --> 00:17:50,760
+let's try, that let's slow that down just a little bit,
+
+340
+00:17:51,180 --> 00:17:51,900
+same thing,
+
+341
+00:17:52,170 --> 00:17:55,590
+play,
+
+342
+00:17:55,620 --> 00:17:57,510
+keep your hand going
+
+343
+00:17:57,540 --> 00:17:58,350
+Asus,
+
+344
+00:18:00,750 --> 00:18:03,330
+D go,
+
+345
+00:18:04,740 --> 00:18:08,580
+Asus,
+
+346
+00:18:08,730 --> 00:18:13,350
+there you go, much better.
+
+347
+00:18:13,590 --> 00:18:17,010
+Okay, now, number two we're going to start throwing those ties in,
+
+348
+00:18:17,340 --> 00:18:18,720
+okay, look at that rhythm,
+
+349
+00:18:20,020 --> 00:18:21,160
+starts on a D,
+
+350
+00:18:21,430 --> 00:18:25,060
+quarter to eight going into that half note with a tie,
+
+351
+00:18:25,360 --> 00:18:26,980
+keep your hand going, that's the rule,
+
+352
+00:18:27,040 --> 00:18:28,610
+ready, go,
+
+353
+00:18:28,610 --> 00:18:30,830
+listen to it first,
+
+354
+00:18:30,830 --> 00:18:33,680
+down up, keep your hand going,
+
+355
+00:18:33,680 --> 00:18:33,920
+Dsus,
+
+356
+00:18:33,920 --> 00:18:38,720
+now to a G,
+
+357
+00:18:40,200 --> 00:18:43,410
+Dsus.
+
+358
+00:18:44,100 --> 00:18:49,050
+Good, it all works out,
+
+359
+00:18:49,350 --> 00:18:50,670
+if you remember to keep that hand going,
+
+360
+00:18:50,790 --> 00:18:51,840
+try it one more time,
+
+361
+00:18:52,460 --> 00:19:07,340
+now a G go, Dsus,
+
+362
+00:19:07,340 --> 00:19:07,910
+here you go.
+
+363
+00:19:07,910 --> 00:19:11,390
+Very good, let's do, let's see number three,
+
+364
+00:19:11,450 --> 00:19:13,580
+give us a little workout on that Esus.
+
+365
+00:19:13,890 --> 00:19:15,720
+Okay, look at this rhythm,
+
+366
+00:19:15,930 --> 00:19:23,210
+down, down up, down, down, down up, down,
+
+367
+00:19:23,210 --> 00:19:24,890
+here we go, number three,
+
+368
+00:19:25,360 --> 00:19:26,530
+we will start slow,
+
+369
+00:19:26,800 --> 00:19:28,610
+ready, go,
+
+370
+00:19:28,830 --> 00:19:36,750
+down, down up, down, Esus,
+
+371
+00:19:42,090 --> 00:19:46,080
+a little bit faster,
+
+372
+00:19:56,610 --> 00:20:05,940
+my hand always going down up, down up, down up, down up, down up, down,
+
+373
+00:20:06,090 --> 00:20:07,950
+my hand is always going in that cycle,
+
+374
+00:20:08,160 --> 00:20:10,320
+as soon as you start getting a tempo
+
+375
+00:20:10,320 --> 00:20:11,760
+and even when we're just counting things off,
+
+376
+00:20:11,790 --> 00:20:14,610
+get that hand started down up, down up,
+
+377
+00:20:15,000 --> 00:20:16,230
+and things will work out better.
+
+378
+00:20:18,450 --> 00:20:20,280
+Okay, welcome to the guitar tips section,
+
+379
+00:20:20,550 --> 00:20:24,570
+in this section, we're going to give you three main strumming patterns,
+
+380
+00:20:25,040 --> 00:20:28,580
+now I don't want to get so lost in the downs and downs up,
+
+381
+00:20:28,610 --> 00:20:29,840
+am I am down on my up,
+
+382
+00:20:30,430 --> 00:20:31,750
+don't get too worried about that,
+
+383
+00:20:31,780 --> 00:20:32,920
+let me play the rhythm,
+
+384
+00:20:33,160 --> 00:20:34,300
+you play it back,
+
+385
+00:20:35,330 --> 00:20:36,680
+and then we'll kind of do it together
+
+386
+00:20:36,680 --> 00:20:38,540
+and I want you want you kind of got the flow of it,
+
+387
+00:20:38,630 --> 00:20:40,130
+not to look at the page anymore
+
+388
+00:20:40,130 --> 00:20:42,620
+and just to listen and see if you can get the flow of it,
+
+389
+00:20:42,620 --> 00:20:44,510
+once you kind of get the flow of it,
+
+390
+00:20:44,600 --> 00:20:46,190
+it starts working a whole lot better.
+
+391
+00:20:47,710 --> 00:20:49,990
+We're just gonna go on a G chord,
+
+392
+00:20:50,140 --> 00:20:52,780
+example number one, look at that,
+
+393
+00:20:52,780 --> 00:21:01,230
+it would be down, down up, up, down, down, down up, up, down,
+
+394
+00:21:01,230 --> 00:21:08,130
+on a G, one two, ready go,
+
+395
+00:21:09,570 --> 00:21:20,040
+just keep doing that for a while,
+
+396
+00:21:20,040 --> 00:21:23,220
+let's switch to a C chord,
+
+397
+00:21:24,090 --> 00:21:38,280
+down, down up, up, down, down, down up, up, down, down, down up,
+
+398
+00:21:38,280 --> 00:21:40,350
+let's go back to G chord,
+
+399
+00:21:43,470 --> 00:21:46,260
+try not to look at the music,
+
+400
+00:21:47,940 --> 00:21:50,940
+try just play it and feel the flow of it,
+
+401
+00:21:52,020 --> 00:21:56,280
+down, down up, up, down,
+
+402
+00:21:56,280 --> 00:21:57,150
+C chord,
+
+403
+00:22:04,470 --> 00:22:05,760
+let's speed it up a little bit,
+
+404
+00:22:05,790 --> 00:22:10,650
+down up, up, down, down, down up,
+
+405
+00:22:10,650 --> 00:22:12,360
+G chord,
+
+406
+00:22:12,540 --> 00:22:22,140
+we go a little faster,
+
+407
+00:22:23,820 --> 00:22:28,320
+C chord,
+
+408
+00:22:32,310 --> 00:22:35,400
+G chord,
+
+409
+00:22:40,290 --> 00:22:47,070
+there you go, very good, start like music,
+
+410
+00:22:47,070 --> 00:22:47,940
+when we speed it up,
+
+411
+00:22:48,270 --> 00:22:49,650
+if you break it down,
+
+412
+00:22:49,680 --> 00:22:51,060
+it's just that one pattern,
+
+413
+00:22:51,180 --> 00:22:54,070
+down, down up, up, down.
+
+414
+00:22:54,310 --> 00:22:56,710
+Second one I wanted to cover is a little bit different,
+
+415
+00:22:56,710 --> 00:22:58,000
+we just add a little more things to it,
+
+416
+00:22:58,180 --> 00:23:01,750
+down up, down up, up, down.
+
+417
+00:23:01,960 --> 00:23:03,070
+Okay, let's try that,
+
+418
+00:23:03,160 --> 00:23:04,300
+same thing on a G chord,
+
+419
+00:23:04,960 --> 00:23:06,610
+we'll start it slow and then we'll speed up,
+
+420
+00:23:07,190 --> 00:23:09,050
+ready play,
+
+421
+00:23:09,400 --> 00:23:14,230
+down up, down up, up, down,
+
+422
+00:23:14,260 --> 00:23:19,330
+down up, down up, up, down,
+
+423
+00:23:19,360 --> 00:23:23,710
+down up, down up, up, down,
+
+424
+00:23:23,710 --> 00:23:24,610
+one more time,
+
+425
+00:23:27,160 --> 00:23:30,670
+let's go to an Em chord, Em,
+
+426
+00:23:30,670 --> 00:23:34,570
+down up, up, down,
+
+427
+00:23:37,620 --> 00:23:42,510
+think about making it smooth,
+
+428
+00:23:42,880 --> 00:23:48,400
+there you go, back to G,
+
+429
+00:23:48,820 --> 00:23:50,920
+a little bit faster now,
+
+430
+00:23:51,160 --> 00:23:52,600
+loosen up that wrist,
+
+431
+00:23:57,040 --> 00:24:06,880
+a little bit faster, Em.
+
+432
+00:24:15,650 --> 00:24:20,570
+Very good, now, the third and last one I want to cover is a little bit different from that,
+
+433
+00:24:21,010 --> 00:24:21,910
+look at this one,
+
+434
+00:24:21,970 --> 00:24:25,420
+down up, up, up, down,
+
+435
+00:24:25,600 --> 00:24:26,800
+you got three ups in a row,
+
+436
+00:24:26,890 --> 00:24:30,220
+down up, up, up, down,
+
+437
+00:24:30,560 --> 00:24:33,760
+down up, up, up, down,
+
+438
+00:24:33,790 --> 00:24:37,160
+let's do, let's do it on a C chord,
+
+439
+00:24:37,840 --> 00:24:38,650
+little slow,
+
+440
+00:24:38,890 --> 00:24:40,600
+ready, play,
+
+441
+00:24:41,020 --> 00:24:45,700
+down up, up, up, down,
+
+442
+00:24:45,730 --> 00:24:59,620
+down up, up, up, down,
+
+443
+00:25:00,040 --> 00:25:02,710
+see when I want to put my fingers on the strings,
+
+444
+00:25:02,740 --> 00:25:04,180
+I just bring that wrist closer,
+
+445
+00:25:04,180 --> 00:25:06,280
+when I want to take them away, I bring that wrist out,
+
+446
+00:25:06,280 --> 00:25:10,730
+but that cycle is always going down up, down up, down up,
+
+447
+00:25:10,730 --> 00:25:12,500
+so I can go through all kinds of rhythms,
+
+448
+00:25:13,050 --> 00:25:28,170
+as long as my hands going keeps in that cycle,
+
+449
+00:25:28,350 --> 00:25:29,190
+it all works out.
+
+450
+00:25:32,130 --> 00:25:33,600
+Here's your assignment for this session,
+
+451
+00:25:33,900 --> 00:25:37,500
+I want you to do the minor seventh and the suspended chord exercises in your book,
+
+452
+00:25:37,710 --> 00:25:39,900
+play through the basic chord songs,
+
+453
+00:25:40,020 --> 00:25:42,870
+that we have a schedule for this session as well,
+
+454
+00:25:43,220 --> 00:25:44,630
+play through them with the notes,
+
+455
+00:25:44,660 --> 00:25:46,010
+so we don't forget our single notes,
+
+456
+00:25:46,010 --> 00:25:48,770
+since we've been in chord land here for a while
+
+457
+00:25:49,130 --> 00:25:51,350
+and I want to also go back and play through with the chords,
+
+458
+00:25:51,350 --> 00:25:53,750
+now we've got some strumming patterns to put with these as well,
+
+459
+00:25:53,810 --> 00:25:55,940
+so it's going to start sounding a whole lot more like music.
+
+460
+00:25:56,490 --> 00:25:57,990
+So we'll see at the workshop time.
+
+461
+00:26:00,540 --> 00:26:02,250
+Okay, welcome to the workshop section,
+
+462
+00:26:02,430 --> 00:26:05,460
+let's review our minor seventh chords that we learned earlier,
+
+463
+00:26:05,820 --> 00:26:07,170
+Am7,
+
+464
+00:26:12,190 --> 00:26:13,150
+altogether,
+
+465
+00:26:15,080 --> 00:26:16,760
+Dm7,
+
+466
+00:26:17,420 --> 00:26:19,430
+remember our little bar here,
+
+467
+00:26:19,970 --> 00:26:22,900
+invert that knuckle there,
+
+468
+00:26:22,990 --> 00:26:26,560
+get that sound nice and strong,
+
+469
+00:26:26,980 --> 00:26:29,560
+Em7, again there's two ways to do this,
+
+470
+00:26:34,100 --> 00:26:40,910
+or the other way.
+
+471
+00:26:44,850 --> 00:26:47,610
+Alright, suspended chords, we learned three different types of those,
+
+472
+00:26:47,610 --> 00:26:49,110
+we have Asus,
+
+473
+00:26:52,300 --> 00:26:53,950
+remember these use our pinky,
+
+474
+00:26:56,500 --> 00:26:57,850
+Dsus,
+
+475
+00:27:04,830 --> 00:27:10,200
+Esus.
+
+476
+00:27:18,300 --> 00:27:21,360
+Now, we're gonna look at some different chord exercises,
+
+477
+00:27:21,390 --> 00:27:23,790
+look at the sheet chords in the key of C,
+
+478
+00:27:24,090 --> 00:27:25,140
+let's do number one,
+
+479
+00:27:25,200 --> 00:27:27,720
+remember how we talked about ties with strumming,
+
+480
+00:27:28,240 --> 00:27:29,350
+this one involves that,
+
+481
+00:27:29,410 --> 00:27:31,000
+one of our main strumming patterns,
+
+482
+00:27:31,000 --> 00:27:32,410
+in fact our first strumming pattern,
+
+483
+00:27:32,470 --> 00:27:34,570
+down, down up, up, down,
+
+484
+00:27:34,750 --> 00:27:35,290
+here we go,
+
+485
+00:27:35,290 --> 00:27:36,520
+chords in the key of C,
+
+486
+00:27:36,850 --> 00:27:40,350
+number one, ready, go,
+
+487
+00:27:56,880 --> 00:28:09,630
+do it again.
+
+488
+00:28:15,620 --> 00:28:18,710
+Good, number two, ready go,
+
+489
+00:28:19,010 --> 00:28:30,110
+there, works the same way,
+
+490
+00:28:35,340 --> 00:28:36,060
+do it again,
+
+491
+00:28:36,090 --> 00:28:41,550
+down up, down up, up,
+
+492
+00:28:41,580 --> 00:28:48,330
+G, Em.
+
+493
+00:28:49,200 --> 00:28:52,440
+Number three,
+
+494
+00:28:52,440 --> 00:28:56,160
+one two, number three, go,
+
+495
+00:28:56,930 --> 00:29:09,590
+Dm7, watch that bar.
+
+496
+00:29:29,810 --> 00:29:32,210
+Let's get down to number five,
+
+497
+00:29:32,240 --> 00:29:35,420
+two, ready, number five go,
+
+498
+00:29:35,450 --> 00:29:39,800
+down, down up, up, down up,
+
+499
+00:29:39,800 --> 00:29:44,090
+down, down up, up, down up,
+
+500
+00:29:44,120 --> 00:29:48,560
+down down up,
+
+501
+00:29:48,590 --> 00:30:07,690
+good, do it again, two ready, go.
+
+502
+00:30:13,060 --> 00:30:16,980
+Six, two three, go,
+
+503
+00:30:17,040 --> 00:30:19,650
+down up,
+
+504
+00:30:19,770 --> 00:30:23,370
+Am7, down, keep that hand going,
+
+505
+00:30:23,730 --> 00:30:24,990
+G here,
+
+506
+00:30:26,280 --> 00:30:29,190
+another one, G7,
+
+507
+00:30:31,070 --> 00:30:34,670
+a little bit faster, go,
+
+508
+00:30:34,670 --> 00:30:37,070
+Am7, go,
+
+509
+00:30:37,100 --> 00:30:39,380
+G, go,
+
+510
+00:30:39,530 --> 00:30:42,590
+G7.
+
+511
+00:30:45,930 --> 00:30:48,360
+Okay, now let's look at chords in the key of G,
+
+512
+00:30:48,690 --> 00:30:50,250
+okay, look at number one there,
+
+513
+00:30:50,700 --> 00:30:55,350
+ready go,
+
+514
+00:30:55,380 --> 00:31:02,490
+Am.
+
+515
+00:31:02,520 --> 00:31:09,120
+Number two, two, ready, go,
+
+516
+00:31:11,340 --> 00:31:12,960
+Em,
+
+517
+00:31:15,630 --> 00:31:17,100
+Am7,
+
+518
+00:31:17,160 --> 00:31:20,610
+here comes Dsus,
+
+519
+00:31:21,420 --> 00:31:24,570
+we do that one again,
+
+520
+00:31:24,570 --> 00:31:27,650
+one two, number two again, go,
+
+521
+00:31:30,680 --> 00:31:31,550
+Em,
+
+522
+00:31:34,220 --> 00:31:35,180
+Am7,
+
+523
+00:31:37,220 --> 00:31:41,900
+Dsus.
+
+524
+00:31:41,930 --> 00:31:44,570
+Good, let's skip down way down number five,
+
+525
+00:31:44,750 --> 00:31:45,800
+check that one out,
+
+526
+00:31:45,950 --> 00:31:47,030
+starts on a G,
+
+527
+00:31:47,450 --> 00:31:49,100
+ready play,
+
+528
+00:31:51,720 --> 00:32:03,780
+up, down up, down, down up, up, down up.
+
+529
+00:32:03,990 --> 00:32:04,980
+Let's do number six,
+
+530
+00:32:05,410 --> 00:32:07,390
+one two, keep that hand going,
+
+531
+00:32:07,390 --> 00:32:08,680
+ready go,
+
+532
+00:32:08,980 --> 00:32:10,360
+down up,
+
+533
+00:32:11,170 --> 00:32:19,750
+Em7, Am7, D7, G,
+
+534
+00:32:21,610 --> 00:32:23,290
+one more time, go,
+
+535
+00:32:25,010 --> 00:32:35,870
+Em7, Am7, D7, G.
+
+536
+00:32:36,900 --> 00:32:40,620
+Okay, let's look at chord exercises in D, chords in the key of D,
+
+537
+00:32:40,890 --> 00:32:42,540
+okay, let's start off this one,
+
+538
+00:32:42,540 --> 00:32:44,100
+let's do number two first,
+
+539
+00:32:44,250 --> 00:32:46,740
+now I'm kind of skipping around on some of these exercises,
+
+540
+00:32:46,800 --> 00:32:48,870
+the rest you can kind of do on your own,
+
+541
+00:32:48,930 --> 00:32:50,190
+but let's look at number two.
+
+542
+00:32:50,630 --> 00:32:52,580
+Okay, starts on that D7,
+
+543
+00:32:53,490 --> 00:32:57,180
+one, two and and go,
+
+544
+00:32:58,000 --> 00:33:09,460
+Em7, A7 go, G7 here,
+
+545
+00:33:11,120 --> 00:33:13,070
+I'm going to repeat, do it again,
+
+546
+00:33:28,370 --> 00:33:29,690
+Great, let's do number three,
+
+547
+00:33:29,870 --> 00:33:31,400
+ready play,
+
+548
+00:33:32,060 --> 00:33:36,500
+down up, up, down,
+
+549
+00:33:37,040 --> 00:33:39,290
+here comes this Asus,
+
+550
+00:33:42,440 --> 00:33:44,060
+back to A,
+
+551
+00:33:46,010 --> 00:33:47,750
+a little bit faster, do it again,
+
+552
+00:33:54,480 --> 00:34:00,600
+if you find it a bit too fast,
+
+553
+00:34:00,600 --> 00:34:02,670
+just stop it practice a little bit
+
+554
+00:34:02,670 --> 00:34:04,560
+and see if you can catch up to it when we do it again.
+
+555
+00:34:04,590 --> 00:34:06,600
+Let's skip down to,
+
+556
+00:34:06,600 --> 00:34:07,860
+all of us do number five,
+
+557
+00:34:08,220 --> 00:34:14,430
+ready go,
+
+558
+00:34:14,460 --> 00:34:19,290
+down up, down up, up, down,
+
+559
+00:34:19,320 --> 00:34:24,810
+down up, do it again.
+
+560
+00:34:32,340 --> 00:34:38,100
+Now, I want you to look at number six,
+
+561
+00:34:38,160 --> 00:34:39,870
+number six is kind of where it gets fun,
+
+562
+00:34:39,870 --> 00:34:41,160
+it's a little bit more complicated,
+
+563
+00:34:41,190 --> 00:34:42,990
+so it starts sounding like some real music,
+
+564
+00:34:43,320 --> 00:34:45,690
+let's take a look at this real slowly.
+
+565
+00:34:46,200 --> 00:34:50,400
+Okay, I have you coming in after that D and G, that up,
+
+566
+00:34:50,400 --> 00:34:51,780
+that's first time we've done this,
+
+567
+00:34:52,050 --> 00:34:53,730
+so it may take a little practice,
+
+568
+00:34:53,790 --> 00:34:55,590
+let's do that first measure only,
+
+569
+00:34:56,770 --> 00:34:57,700
+nice and slow,
+
+570
+00:34:58,150 --> 00:35:01,180
+ready go,,
+
+571
+00:35:01,180 --> 00:35:02,320
+up down,
+
+572
+00:35:02,320 --> 00:35:05,290
+here's that G, up down,
+
+573
+00:35:05,480 --> 00:35:08,810
+try it again, just that first measure, go,
+
+574
+00:35:09,300 --> 00:35:13,950
+down up, down, up, down,
+
+575
+00:35:13,950 --> 00:35:19,920
+again, down up, down, up, down,
+
+576
+00:35:20,260 --> 00:35:22,360
+what's the secret, keep that hand going,
+
+577
+00:35:22,900 --> 00:35:28,060
+down up, down up, down up, down, there you go.
+
+578
+00:35:28,570 --> 00:35:32,230
+Okay, let's play all, going to play all four measures for you,
+
+579
+00:35:32,970 --> 00:35:50,030
+ready go,
+
+580
+00:35:50,870 --> 00:35:52,550
+do do it again,
+
+581
+00:35:52,580 --> 00:35:55,170
+two, ready, play,
+
+582
+00:35:59,640 --> 00:36:11,670
+as speed up,
+
+583
+00:36:11,670 --> 00:36:32,640
+it starts sounding a bit more like a song,
+
+584
+00:36:33,180 --> 00:36:39,060
+very good, a lot of songs have that same little chord progression.
+
+585
+00:36:39,500 --> 00:36:41,420
+Okay, now we're going to talk about,
+
+586
+00:36:41,720 --> 00:36:42,740
+I gave you one song,
+
+587
+00:36:42,740 --> 00:36:44,330
+actually there's a couple of songs in there
+
+588
+00:36:44,390 --> 00:36:46,280
+and remember with all these exercises
+
+589
+00:36:46,610 --> 00:36:49,310
+go through every exercise that you can in these books,
+
+590
+00:36:49,490 --> 00:36:52,280
+as well, the Jam Along CDs have extra songs on them,
+
+591
+00:36:52,280 --> 00:36:53,660
+that you can refer to as well,
+
+592
+00:36:54,020 --> 00:36:56,870
+so you can always have a chance to get as much practice as you need to.
+
+593
+00:36:57,200 --> 00:37:00,470
+Okay, we're gonna go over one song called greensleeves,
+
+594
+00:37:00,500 --> 00:37:02,060
+okay, it's kind of a Christmas song,
+
+595
+00:37:02,210 --> 00:37:03,980
+but a very familiar melody.
+
+596
+00:37:04,340 --> 00:37:05,750
+Okay, let's take a look at it,
+
+597
+00:37:05,750 --> 00:37:07,640
+go into the single notes first,
+
+598
+00:37:10,180 --> 00:37:11,170
+nice and slow,
+
+599
+00:37:11,170 --> 00:37:12,580
+it starts on A,
+
+600
+00:37:13,350 --> 00:37:15,160
+ready, go,
+
+601
+00:37:15,460 --> 00:37:18,280
+one two,
+
+602
+00:37:18,310 --> 00:37:20,830
+#F,
+
+603
+00:37:24,700 --> 00:37:26,830
+dotted quarter,
+
+604
+00:37:46,880 --> 00:37:54,410
+#G, #F, #G,
+
+605
+00:37:54,440 --> 00:37:57,050
+a bit of tricky, finger twister there,
+
+606
+00:37:57,080 --> 00:38:01,280
+#G, #F, #G,
+
+607
+00:38:01,310 --> 00:38:03,860
+A, two three,
+
+608
+00:38:03,860 --> 00:38:05,120
+another A,
+
+609
+00:38:05,150 --> 00:38:06,950
+next part go,
+
+610
+00:38:07,940 --> 00:38:09,110
+two three,
+
+611
+00:38:09,110 --> 00:38:10,700
+here comes an #F,
+
+612
+00:38:24,110 --> 00:38:26,150
+two three,
+
+613
+00:38:26,150 --> 00:38:32,030
+G, two three,
+
+614
+00:38:36,910 --> 00:38:38,110
+here it comes again,
+
+615
+00:38:40,690 --> 00:38:44,440
+yeah, really stretch that pinky out to catch that #F.
+
+616
+00:38:45,400 --> 00:38:48,400
+Okay, now I'm gonna play it one more time at tempo,
+
+617
+00:38:48,640 --> 00:38:50,410
+okay, so it'll be a little bit faster this time,
+
+618
+00:38:51,170 --> 00:38:54,980
+ready, go
+
+619
+00:39:26,170 --> 00:39:32,080
+two three.
+
+620
+00:39:45,650 --> 00:39:47,750
+Great, okay, now we're gonna play the chords with it,
+
+621
+00:39:48,110 --> 00:39:50,750
+I'm going to give you a simple strumming pattern I want you to do,
+
+622
+00:39:50,960 --> 00:39:53,840
+just kind of down, down up, down.
+
+623
+00:39:54,620 --> 00:39:55,790
+Okay, three four times,
+
+624
+00:39:55,790 --> 00:39:57,410
+only three beats are in there,
+
+625
+00:39:57,530 --> 00:39:59,690
+down, down up, down.
+
+626
+00:40:00,160 --> 00:40:02,320
+Okay, starts on that Am7,
+
+627
+00:40:02,850 --> 00:40:21,630
+ready go,,
+
+628
+00:40:36,110 --> 00:40:49,040
+E7,
+
+629
+00:40:53,240 --> 00:40:55,370
+try make your strums nice and steady.
+
+630
+00:41:22,420 --> 00:41:24,940
+Very good, and that Greensleeves,
+
+631
+00:41:24,940 --> 00:41:26,470
+now leave you to practice on your own
+
+632
+00:41:26,530 --> 00:41:27,820
+to speed it up a little bit
+
+633
+00:41:27,910 --> 00:41:28,990
+and make a little more to it,
+
+634
+00:41:29,200 --> 00:41:33,160
+now there's also some other songs in your in your resources that you have available,
+
+635
+00:41:33,610 --> 00:41:35,380
+go ahead and go through as many as you can.
+
+636
+00:41:35,950 --> 00:41:38,530
+Now, before we go in our last minute,
+
+637
+00:41:38,530 --> 00:41:40,210
+I want to explain to you,
+
+638
+00:41:40,210 --> 00:41:41,620
+you've probably realized by now,
+
+639
+00:41:41,740 --> 00:41:43,690
+that guitar playing takes a little bit of effort,
+
+640
+00:41:44,240 --> 00:41:49,160
+I'm sure you thought that you could just watch a little something and you'd be able to play guitar,
+
+641
+00:41:49,340 --> 00:41:50,990
+but it does take an awful lot of effort,
+
+642
+00:41:50,990 --> 00:41:51,860
+but it's well worth,
+
+643
+00:41:51,860 --> 00:41:55,940
+the time and effort that you're putting in into your musicianship, into your,
+
+644
+00:41:56,420 --> 00:41:58,580
+making yourself a better person
+
+645
+00:41:58,760 --> 00:42:00,230
+by learning how to play guitar,
+
+646
+00:42:00,230 --> 00:42:02,450
+yes it's tough and a lot of people quit,
+
+647
+00:42:02,980 --> 00:42:06,430
+but you've stuck around and you're continuing to do it
+
+648
+00:42:06,430 --> 00:42:09,670
+and I think you're going to be the one that reaches the rewards out of this,
+
+649
+00:42:09,760 --> 00:42:12,520
+if guitar playing was easy, then everybody would do it,
+
+650
+00:42:13,120 --> 00:42:16,000
+usually everybody can kind of thumb around a few chords,
+
+651
+00:42:16,060 --> 00:42:17,950
+but for folks to actually know what they're doing
+
+652
+00:42:17,950 --> 00:42:20,320
+and get a few more chords and go just beyond average,
+
+653
+00:42:20,380 --> 00:42:21,460
+it takes some effort
+
+654
+00:42:21,700 --> 00:42:23,020
+and that's what this is about,
+
+655
+00:42:23,140 --> 00:42:24,460
+in life, there are three kinds of people,
+
+656
+00:42:24,460 --> 00:42:27,430
+there's quitters, campers and climbers,
+
+657
+00:42:27,430 --> 00:42:29,560
+quitters, look at the task ahead of them,
+
+658
+00:42:29,560 --> 00:42:31,450
+they say nah there's no way I could ever do that,
+
+659
+00:42:32,200 --> 00:42:33,850
+and campers get halfway up
+
+660
+00:42:33,850 --> 00:42:36,190
+and they think man, this is as far as I care to go,
+
+661
+00:42:36,190 --> 00:42:39,490
+it's just the cost is too much, it takes too much effort,
+
+662
+00:42:39,730 --> 00:42:41,410
+but there are those of you that climb
+
+663
+00:42:41,560 --> 00:42:43,600
+and I want to keep going to try and climb
+
+664
+00:42:43,930 --> 00:42:46,960
+and to get to the musical levels that they want to get to.
+
