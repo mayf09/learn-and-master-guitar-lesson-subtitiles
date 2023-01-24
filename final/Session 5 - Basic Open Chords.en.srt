@@ -12,7 +12,7 @@ we're going to learn about what chords are the basic chords,
 
 4
 00:00:33,150 --> 00:00:35,790
-what chords are open chords and bar chords
+what chords are open chords and barre chords
 
 5
 00:00:35,850 --> 00:00:41,370
@@ -172,7 +172,7 @@ open is telling you that there is an open string involved in the chord,
 
 44
 00:02:05,610 --> 00:02:08,640
-okay, later on, we're going to talk about bar chords,
+okay, later on, we're going to talk about barre chords,
 
 45
 00:02:08,700 --> 00:02:11,370
@@ -184,7 +184,7 @@ and that use one finger to cover more than one string,
 
 47
 00:02:14,580 --> 00:02:15,300
-that's a bar,
+that's a barre,
 
 48
 00:02:15,480 --> 00:02:19,830
@@ -1532,7 +1532,7 @@ sometimes in the heat of battle,
 
 384
 00:19:47,170 --> 00:19:56,340
-you may take your first finger and bar this fourth, the third and the second string,
+you may take your first finger and barre this fourth, the third and the second string,
 
 385
 00:19:58,120 --> 00:20:00,220
@@ -1556,7 +1556,7 @@ there's no way, unless you're you're double jointed,
 
 390
 00:20:09,310 --> 00:20:13,930
-that you can get your first finger to bar all three of notes
+that you can get your first finger to barre all three of notes
 
 391
 00:20:13,930 --> 00:20:16,540
