@@ -4675,18 +4675,18 @@ pinky covering the third string,
 817
 00:24:53,810 --> 00:24:54,980
 0,300 300,540 540,780 780,1020 1020,1170
-sixth string bar chord, like
+sixth string barre chord, like
 
 818
 00:24:54,980 --> 00:24:57,290
 0,120 120,360 360,570 570,1080 1380,2310
-an F bar chord,| not
+an F barre chord,| not
 |不是横按，我说的是强力和弦。
 
 819
 00:24:57,290 --> 00:24:58,250
 0,270 270,630 630,870 870,930 930,960
-bar chord, what am I
+barre chord, what am I
 
 820
 00:24:58,250 --> 00:25:02,240
@@ -5139,7 +5139,7 @@ flat here on this,|
 899
 00:29:25,040 --> 00:29:26,870
 0,480 480,1020 1140,1380 1380,1530 1530,1830
-partial bar with your first
+partial barre with your first
 用你的食指部分横按，
 
 900

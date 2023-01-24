@@ -684,7 +684,7 @@ is,| how you do these
 120
 00:03:40,480 --> 00:03:41,860
 0,300 300,660 660,1020 1020,1200 1200,1380
-bar chords,| especially these little
+barre chords,| especially these little
 |特别是像这样的小和弦，
 
 121
@@ -4128,7 +4128,7 @@ Dm7 ，|记得我们这里的小横按，
 720
 00:26:18,290 --> 00:26:20,990
 0,240 240,660 660,1140 1680,2190 2190,2700
-little bar here,| invert that
+little barre here,| invert that
 |反转这个指节，
 
 721
@@ -4352,7 +4352,7 @@ go,|
 759
 00:28:56,930 --> 00:29:11,540
 0,3510 7620,11910 11940,12660
-{} Dm7, {watch,that,bar}.|
+{} Dm7, {watch,that,barre}.|
 Dm7 ，注意那个横按。|
 
 760
