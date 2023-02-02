@@ -42,6 +42,11 @@ bar chord 横按和弦
 minor seventh chord 小七和弦
 suspended chord 挂留和弦
 
+# Session 7
+pivot ?
+fret number 品数
+key signature 调号
+
 # Session 10
 finger picking 指弹
 fingerstyle 指弹
