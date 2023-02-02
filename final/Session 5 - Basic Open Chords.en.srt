@@ -1000,7 +1000,7 @@ first finger on that C,
 
 251
 00:12:56,470 --> 00:13:00,850
-third finger on this #F on the first string.
+third finger on this F# on the first string.
 
 252
 00:13:07,650 --> 00:13:11,010
@@ -1200,7 +1200,7 @@ five string chord, don't play that sixth string,
 
 301
 00:15:11,540 --> 00:15:14,600
-first finger on that #D,
+first finger on that D#,
 
 302
 00:15:14,630 --> 00:15:18,350
@@ -1212,7 +1212,7 @@ open B,
 
 304
 00:15:21,510 --> 00:15:23,040
-and pinky on that #F,
+and pinky on that F#,
 
 305
 00:15:23,040 --> 00:15:25,770
@@ -1224,7 +1224,7 @@ of getting them all to sound out clearly,
 
 307
 00:15:29,340 --> 00:15:32,820
-a lot of times, you'll find that that #D won't come out real good,
+a lot of times, you'll find that that D# won't come out real good,
 
 308
 00:15:32,820 --> 00:15:35,160
@@ -1392,7 +1392,7 @@ and then your second finger,
 
 349
 00:17:53,550 --> 00:17:57,270
-kind of squeezes up underneath there, on that first string to catch that #F,
+kind of squeezes up underneath there, on that first string to catch that F#,
 
 350
 00:17:59,100 --> 00:17:59,760
@@ -1612,7 +1612,7 @@ make sure that second finger, make sure his rear end isn't sitting on that strin
 
 404
 00:20:49,340 --> 00:20:55,160
-and third finger squeezing up underneath there, that's #C,
+and third finger squeezing up underneath there, that's C#,
 
 405
 00:20:55,780 --> 00:20:56,290
@@ -3104,7 +3104,7 @@ ready play,
 
 777
 00:45:25,330 --> 00:45:30,580
-#F,
+F#,
 
 778
 00:45:31,530 --> 00:45:33,330
@@ -3112,7 +3112,7 @@ two three,
 
 779
 00:45:41,200 --> 00:45:47,830
-here comes a #G, first finger,
+here comes a G#, first finger,
 
 780
 00:45:48,190 --> 00:45:49,960
@@ -3120,7 +3120,7 @@ two three,
 
 781
 00:45:55,730 --> 00:45:56,810
-#F here,
+F# here,
 
 782
 00:46:04,260 --> 00:46:05,940

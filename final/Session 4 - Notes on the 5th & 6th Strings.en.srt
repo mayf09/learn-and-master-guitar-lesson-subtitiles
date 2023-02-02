@@ -828,7 +828,7 @@ now remember finger rule supply,
 
 208
 00:13:04,700 --> 00:13:08,150
-so when I go to this #F, which would be right here,
+so when I go to this F#, which would be right here,
 
 209
 00:13:09,580 --> 00:13:11,230
@@ -856,11 +856,11 @@ anything that happens on the fourth or the fifth, pinky covers.
 
 215
 00:13:25,170 --> 00:13:28,290
-So we have F and now we've got #F,
+So we have F and now we've got F#,
 
 216
 00:13:29,740 --> 00:13:35,550
-okay, and we've got G and then we've got #G,
+okay, and we've got G and then we've got G#,
 
 217
 00:13:36,760 --> 00:13:37,900
@@ -872,11 +872,11 @@ we would have a C,
 
 219
 00:13:41,160 --> 00:13:43,500
-then a #C with our second finger,
+then a C# with our second finger,
 
 220
 00:13:44,170 --> 00:13:48,620
-D, then a #D with our pinky,
+D, then a D# with our pinky,
 
 221
 00:13:48,770 --> 00:13:50,780
@@ -896,11 +896,11 @@ well, you put your first finger on that string,
 
 225
 00:14:00,900 --> 00:14:03,150
-and that would be a #G, there,
+and that would be a G#, there,
 
 226
 00:14:03,300 --> 00:14:07,260
-okay, so we have G, we've got #G,
+okay, so we have G, we've got G#,
 
 227
 00:14:08,020 --> 00:14:09,910
@@ -908,7 +908,7 @@ second finger would be A,
 
 228
 00:14:10,570 --> 00:14:12,910
-after that would be an #A,
+after that would be an A#,
 
 229
 00:14:13,690 --> 00:14:16,570
@@ -924,7 +924,7 @@ how did we sharpen open string,
 
 232
 00:14:19,630 --> 00:14:23,410
-put our first finger on that first fret, #D,
+put our first finger on that first fret, D#,
 
 233
 00:14:24,190 --> 00:14:26,770
@@ -932,7 +932,7 @@ and E, oh, here's our first problem,
 
 234
 00:14:27,190 --> 00:14:28,870
-if I wanted an #E,
+if I wanted an E#,
 
 235
 00:14:29,480 --> 00:14:31,670
@@ -948,7 +948,7 @@ you're exactly right,
 
 238
 00:14:35,490 --> 00:14:36,660
-and #E is an F,
+and E# is an F,
 
 239
 00:14:37,140 --> 00:14:38,250
@@ -956,15 +956,15 @@ F is the more common name,
 
 240
 00:14:38,250 --> 00:14:40,620
-so you hardly ever hear it referred to as an #E,
+so you hardly ever hear it referred to as an E#,
 
 241
 00:14:40,650 --> 00:14:42,660
-but I guess technically it would be an #E,
+but I guess technically it would be an E#,
 
 242
 00:14:43,200 --> 00:14:45,480
-there is F, where an #F,
+there is F, where an F#,
 
 243
 00:14:45,480 --> 00:14:47,310
@@ -976,15 +976,15 @@ The fifth string got open A,
 
 245
 00:14:50,320 --> 00:14:53,320
-if I wanted #A, it will be there,
+if I wanted A#, it will be there,
 
 246
 00:14:54,180 --> 00:15:00,150
-B, then #B or more commonly known to a C,
+B, then B# or more commonly known to a C,
 
 247
 00:15:00,210 --> 00:15:01,920
-then #C.
+then C#.
 
 248
 00:15:03,280 --> 00:15:04,360
@@ -996,11 +996,11 @@ let's just start on the F,
 
 250
 00:15:07,150 --> 00:15:09,430
-second finger #F,
+second finger F#,
 
 251
 00:15:09,460 --> 00:15:12,820
-third finger G, #G,
+third finger G, G#,
 
 252
 00:15:13,450 --> 00:15:15,430
@@ -1064,7 +1064,7 @@ Starts out on a G,
 
 267
 00:15:46,030 --> 00:15:47,200
-now if I want a bG,
+now if I want a Gb,
 
 268
 00:15:47,200 --> 00:15:49,330
@@ -1080,23 +1080,23 @@ I would go back down this way,
 
 271
 00:15:53,680 --> 00:15:55,030
-what should be a bG,
+what should be a Gb,
 
 272
 00:15:56,160 --> 00:15:59,380
-got it, G, bG,
+got it, G, Gb,
 
 273
 00:15:59,890 --> 00:16:03,190
-now wait a minute, where was that #F that we learned a little bit ago,
+now wait a minute, where was that F# that we learned a little bit ago,
 
 274
 00:16:04,010 --> 00:16:06,350
-F, #F,
+F, F#,
 
 275
 00:16:07,200 --> 00:16:09,750
-#F and bG are the same note,
+F# and Gb are the same note,
 
 276
 00:16:09,780 --> 00:16:12,000
@@ -1108,7 +1108,7 @@ if I'm on F,
 
 278
 00:16:13,440 --> 00:16:15,630
-I would look up there would be an #F,
+I would look up there would be an F#,
 
 279
 00:16:15,780 --> 00:16:16,680
@@ -1116,7 +1116,7 @@ if I met a G,
 
 280
 00:16:16,680 --> 00:16:19,800
-I'm looking down on it, flat it, it would be a bG,
+I'm looking down on it, flat it, it would be a Gb,
 
 281
 00:16:19,950 --> 00:16:23,130
@@ -1132,7 +1132,7 @@ so you have two names for the same note.
 
 284
 00:16:28,300 --> 00:16:30,460
-So we have G, we have bG,
+So we have G, we have Gb,
 
 285
 00:16:31,060 --> 00:16:32,170
@@ -1164,7 +1164,7 @@ which would be the second string and use your pinky,
 
 292
 00:16:48,680 --> 00:16:51,290
-so, so that would be an bE,
+so, so that would be an Eb,
 
 293
 00:16:52,060 --> 00:16:55,510
@@ -1172,11 +1172,11 @@ the rule is you go down to the next string and use your pinky,
 
 294
 00:16:55,840 --> 00:16:58,570
-so here's a E, here's an bE,
+so here's a E, here's an Eb,
 
 295
 00:16:58,600 --> 00:17:02,830
-let's keep going, D, bD,
+let's keep going, D, Db,
 
 296
 00:17:04,280 --> 00:17:07,430
@@ -1204,7 +1204,7 @@ and how it's been tuned [over the ages],
 
 302
 00:17:22,440 --> 00:17:24,420
-a bB, which is what we're going for
+a Bb, which is what we're going for
 
 303
 00:17:24,420 --> 00:17:25,470
@@ -1220,15 +1220,15 @@ this is the one exception,
 
 306
 00:17:28,590 --> 00:17:30,870
-a bB is with your third finger,
+a Bb is with your third finger,
 
 307
 00:17:31,890 --> 00:17:34,140
-B, bB,
+B, Bb,
 
 308
 00:17:35,320 --> 00:17:39,460
-A, bA, G,
+A, Ab, G,
 
 309
 00:17:39,550 --> 00:17:40,780
@@ -1240,19 +1240,19 @@ how do we flatten open string,
 
 311
 00:17:42,400 --> 00:17:46,330
-fourth, we go the fourth finger, the next string down bG,
+fourth, we go the fourth finger, the next string down Gb,
 
 312
 00:17:46,990 --> 00:17:53,050
-F, E, bE, D,
+F, E, Eb, D,
 
 313
 00:17:53,080 --> 00:18:02,250
-let's keep going, bD C B bB A,
+let's keep going, Db C B Bb A,
 
 314
 00:18:02,870 --> 00:18:09,590
-bA, G, we're giving our pinky a good workout, bG and F.
+Ab, G, we're giving our pinky a good workout, Gb and F.
 
 315
 00:18:12,450 --> 00:18:14,550
@@ -1284,7 +1284,7 @@ so if you look in your example there,
 
 322
 00:18:29,110 --> 00:18:32,310
-an F going to an #F,
+an F going to an F#,
 
 323
 00:18:32,310 --> 00:18:33,660
@@ -1316,11 +1316,11 @@ then it resets again,
 
 330
 00:18:49,600 --> 00:18:52,390
-now, what if I get to that second #F
+now, what if I get to that second F#
 
 331
 00:18:52,510 --> 00:18:54,070
-and I really don't want it to be an #F,
+and I really don't want it to be an F#,
 
 332
 00:18:54,070 --> 00:18:55,300
@@ -1948,11 +1948,11 @@ on the first string F,
 
 488
 00:28:37,930 --> 00:28:40,210
-then #F would be with our second finger,
+then F# would be with our second finger,
 
 489
 00:28:40,770 --> 00:28:44,070
-G, #G.
+G, G#.
 
 490
 00:28:45,480 --> 00:28:46,470
@@ -1960,7 +1960,7 @@ On the second string,
 
 491
 00:28:46,470 --> 00:28:53,010
-C #C, D and #D.
+C C#, D and D#.
 
 492
 00:28:54,090 --> 00:28:55,950
@@ -1972,23 +1972,23 @@ how do we sharpen open string,
 
 494
 00:28:57,150 --> 00:28:59,910
-with our first finger #G,
+with our first finger G#,
 
 495
 00:28:59,940 --> 00:29:02,980
-A, #A.
+A, A#.
 
 496
 00:29:03,010 --> 00:29:12,820
-Next string D, #D, E, #E or F, then #F.
+Next string D, D#, E, E# or F, then F#.
 
 497
 00:29:13,900 --> 00:29:22,240
-Open A, #A B C #C.
+Open A, A# B C C#.
 
 498
 00:29:22,270 --> 00:29:32,050
-Open E, F #F G and #G.
+Open E, F F# G and G#.
 
 499
 00:29:32,080 --> 00:29:33,910
@@ -2016,7 +2016,7 @@ So if we started on this G,
 
 505
 00:29:42,350 --> 00:29:48,800
-it'd be G bG F E,
+it'd be G Gb F E,
 
 506
 00:29:48,800 --> 00:29:49,910
@@ -2032,7 +2032,7 @@ go to the next string down, use a pinky,
 
 509
 00:29:54,010 --> 00:30:01,150
-bE D bD C B,
+Eb D Db C B,
 
 510
 00:30:01,270 --> 00:30:02,440
@@ -2040,23 +2040,23 @@ here's the one that's different,
 
 511
 00:30:02,440 --> 00:30:04,930
-third finger on the bB,
+third finger on the Bb,
 
 512
 00:30:05,110 --> 00:30:09,220
-A bA G,
+A Ab G,
 
 513
 00:30:10,160 --> 00:30:18,170
-bG F E bE D,
+Gb F E Eb D,
 
 514
 00:30:18,200 --> 00:30:27,690
-bD C B bB A,
+Db C B Bb A,
 
 515
 00:30:27,840 --> 00:30:33,300
-bA G bG and F.
+Ab G Gb and F.
 
 516
 00:30:34,230 --> 00:30:37,470
@@ -2124,7 +2124,7 @@ One, play,
 
 532
 00:31:27,800 --> 00:31:30,410
-#F with your pinky,
+F# with your pinky,
 
 533
 00:31:31,640 --> 00:31:38,300
@@ -2136,7 +2136,7 @@ two,
 
 535
 00:31:49,920 --> 00:32:05,960
-one two, here comes #F again,
+one two, here comes F# again,
 
 536
 00:32:07,240 --> 00:32:09,270
@@ -2152,7 +2152,7 @@ one two,
 
 539
 00:32:46,430 --> 00:33:09,610
-#F G two.
+F# G two.
 
 540
 00:33:11,520 --> 00:33:12,420
@@ -2316,7 +2316,7 @@ once that sharp sign is up in the key signature right up at the front of the son
 
 580
 00:35:42,360 --> 00:35:47,100
-that means every F you see is going to be an #F,
+that means every F you see is going to be an F#,
 
 581
 00:35:47,370 --> 00:35:51,060
@@ -2340,7 +2340,7 @@ here we go, ready, play,
 
 586
 00:36:06,190 --> 00:36:13,150
-here comes an #F,
+here comes an F#,
 
 587
 00:36:28,030 --> 00:36:32,920
@@ -2364,7 +2364,7 @@ on that one measure, what is that the fourth measure of that song,
 
 592
 00:37:12,520 --> 00:37:14,140
-it has an #F in it.
+it has an F# in it.
 
 593
 00:37:14,670 --> 00:37:16,950
@@ -2436,7 +2436,7 @@ which we'll learn a little bit more about later,
 
 610
 00:38:41,960 --> 00:38:44,660
-but look it also has that #F up in the corner,
+but look it also has that F# up in the corner,
 
 611
 00:38:44,780 --> 00:38:45,830
@@ -2460,23 +2460,23 @@ Ready, play,
 
 616
 00:39:00,070 --> 00:39:10,450
-here comes #F, there you go,
+here comes F#, there you go,
 
 617
 00:39:15,280 --> 00:39:18,970
-here's another #F,
+here's another F#,
 
 618
 00:39:32,590 --> 00:39:36,160
-#F,
+F#,
 
 619
 00:39:46,210 --> 00:39:51,340
-one last #F, two three, next page,
+one last F#, two three, next page,
 
 620
 00:39:52,430 --> 00:40:07,550
-here comes a #C with our second finger,
+here comes a C# with our second finger,
 
 621
 00:40:11,950 --> 00:40:16,810
@@ -2504,11 +2504,11 @@ You ready,
 
 627
 00:40:48,740 --> 00:40:50,210
-remember those #F,
+remember those F#,
 
 628
 00:40:50,210 --> 00:40:51,920
-there's also that #C in there.
+there's also that C# in there.
 
 629
 00:40:52,460 --> 00:41:12,620

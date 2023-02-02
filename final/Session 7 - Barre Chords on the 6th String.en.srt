@@ -672,15 +672,15 @@ which would be one frets [worth],
 
 169
 00:08:48,460 --> 00:08:50,560
-so if I wanted a #G,
+so if I wanted a G#,
 
 170
 00:08:50,590 --> 00:08:55,210
-there would be a #G on the fourth fret,
+there would be a G# on the fourth fret,
 
 171
 00:08:55,910 --> 00:08:57,890
-if I wanted, let's say a #C,
+if I wanted, let's say a C#,
 
 172
 00:08:58,250 --> 00:08:59,240
@@ -692,7 +692,7 @@ well, here C, I go a half step above that
 
 174
 00:09:02,300 --> 00:09:04,190
-and I get #G.
+and I get G#.
 
 175
 00:09:04,280 --> 00:09:06,170
@@ -736,15 +736,15 @@ one of the first things we learned,
 
 185
 00:09:37,730 --> 00:09:39,620
-what about a bB now,
+what about a Bb now,
 
 186
 00:09:40,720 --> 00:09:44,080
-well, here's a B, so there's a bB,
+well, here's a B, so there's a Bb,
 
 187
 00:09:44,660 --> 00:09:46,190
-what about an bE,
+what about an Eb,
 
 188
 00:09:47,220 --> 00:09:48,900
@@ -768,7 +768,7 @@ if I can't go low, I've gotta go high,
 
 193
 00:09:56,430 --> 00:09:58,560
-there's E, there's bE,
+there's E, there's Eb,
 
 194
 00:09:59,190 --> 00:10:02,100
@@ -1540,11 +1540,11 @@ and then form the chord down I've got A.
 
 386
 00:18:38,000 --> 00:18:39,410
-Next one is a bB,
+Next one is a Bb,
 
 387
 00:18:40,310 --> 00:18:41,630
-I go up here to bB,
+I go up here to Bb,
 
 388
 00:18:42,500 --> 00:18:43,610
@@ -1576,7 +1576,7 @@ A, two three four
 
 395
 00:19:01,370 --> 00:19:05,660
-and bB, two three four,
+and Bb, two three four,
 
 396
 00:19:05,930 --> 00:19:06,620
@@ -1744,7 +1744,7 @@ okay, so if the distance between F and G is a whole step,
 
 437
 00:21:21,160 --> 00:21:26,920
-then the distance from an #F to #G is also a whole step,
+then the distance from an F# to G# is also a whole step,
 
 438
 00:21:26,980 --> 00:21:28,600
@@ -1752,7 +1752,7 @@ if an F to G is a whole step,
 
 439
 00:21:28,630 --> 00:21:30,790
-an #F to #G is a whole step.
+an F# to G# is a whole step.
 
 440
 00:21:32,020 --> 00:21:33,160
@@ -1764,7 +1764,7 @@ let's do a couple of examples real quick,
 
 442
 00:21:35,230 --> 00:21:38,680
-what's the distance from a #C to a D,
+what's the distance from a C# to a D,
 
 443
 00:21:38,980 --> 00:21:40,930
@@ -1796,7 +1796,7 @@ no matter whether you're playing a guitar or piano or trumpet or tuba.
 
 450
 00:21:52,550 --> 00:21:56,810
-Okay, the distance between a #C and D is a half step,
+Okay, the distance between a C# and D is a half step,
 
 451
 00:21:56,840 --> 00:21:58,790
@@ -1808,7 +1808,7 @@ I've moved that C closer to the D,
 
 453
 00:22:01,220 --> 00:22:04,040
-now, #C to a D is just a half step.
+now, C# to a D is just a half step.
 
 454
 00:22:04,650 --> 00:22:05,160
@@ -1816,7 +1816,7 @@ Okay.
 
 455
 00:22:05,500 --> 00:22:09,490
-What is the distance from an bE to an F,
+What is the distance from an Eb to an F,
 
 456
 00:22:11,040 --> 00:22:12,600
@@ -1824,7 +1824,7 @@ think about that for a second,
 
 457
 00:22:12,960 --> 00:22:15,240
-an bE to an F,
+an Eb to an F,
 
 458
 00:22:15,630 --> 00:22:17,880
@@ -1836,7 +1836,7 @@ then if I scoot that E farther from that F a half step,
 
 460
 00:22:22,400 --> 00:22:24,290
-then it becomes an bE
+then it becomes an Eb
 
 461
 00:22:24,290 --> 00:22:26,270
@@ -1844,11 +1844,11 @@ and that then becomes a whole step,
 
 462
 00:22:26,570 --> 00:22:28,460
-so an bE to an f is a whole step.
+so an Eb to an f is a whole step.
 
 463
 00:22:29,530 --> 00:22:32,170
-What about the distance from a G to an bA,
+What about the distance from a G to an Ab,
 
 464
 00:22:32,890 --> 00:22:35,940
@@ -1864,7 +1864,7 @@ it becomes just a half step,
 
 467
 00:22:40,560 --> 00:22:43,080
-so a G to an bA is a half step.
+so a G to an Ab is a half step.
 
 468
 00:22:43,490 --> 00:22:45,320
@@ -1968,7 +1968,7 @@ you start on any note,
 
 493
 00:24:04,260 --> 00:24:08,100
-whether it's F or G or bB or bG,
+whether it's F or G or Bb or Gb,
 
 494
 00:24:08,660 --> 00:24:10,760
@@ -2116,7 +2116,7 @@ what do I mean by that,
 
 530
 00:25:39,730 --> 00:25:42,460
-you can't jump from a #C to an E,
+you can't jump from a C# to an E,
 
 531
 00:25:43,110 --> 00:25:44,820
@@ -2132,7 +2132,7 @@ I can't jump from a C,
 
 534
 00:25:50,870 --> 00:25:53,810
-no matter whether it's a #C to an bE,
+no matter whether it's a C# to an Eb,
 
 535
 00:25:54,730 --> 00:25:58,150
@@ -2228,7 +2228,7 @@ whole whole half,
 
 558
 00:26:40,470 --> 00:26:44,280
-so it would be F G A and now bB.
+so it would be F G A and now Bb.
 
 559
 00:26:44,970 --> 00:26:46,470
@@ -2236,7 +2236,7 @@ Okay, now I need to go a whole step up,
 
 560
 00:26:46,470 --> 00:26:48,630
-but I'm going a whole step up from a bB,
+but I'm going a whole step up from a Bb,
 
 561
 00:26:49,220 --> 00:26:50,720
@@ -2248,7 +2248,7 @@ if a B to a C is just a half step,
 
 563
 00:26:52,700 --> 00:26:55,880
-a bB to a C now would be a whole step,
+a Bb to a C now would be a whole step,
 
 564
 00:26:56,720 --> 00:26:58,550
@@ -2272,7 +2272,7 @@ I've got an F major scale,
 
 569
 00:27:06,830 --> 00:27:11,270
-F G A bB C D E F.
+F G A Bb C D E F.
 
 570
 00:27:11,330 --> 00:27:13,280
@@ -2368,7 +2368,7 @@ well, we're moving beyond C and G now,
 
 593
 00:28:16,070 --> 00:28:18,590
-we're moving down to playing bA and bG
+we're moving down to playing Ab and Gb
 
 594
 00:28:18,590 --> 00:28:19,970
@@ -2556,27 +2556,27 @@ what about an F,
 
 640
 00:31:18,130 --> 00:31:20,920
-bB,
+Bb,
 
 641
 00:31:22,500 --> 00:31:28,170
-bE, remember you can't go low so you gotta go high,
+Eb, remember you can't go low so you gotta go high,
 
 642
 00:31:28,660 --> 00:31:32,320
-twelve fret E, bE,
+twelve fret E, Eb,
 
 643
 00:31:32,350 --> 00:31:33,130
-bA,
+Ab,
 
 644
 00:31:35,990 --> 00:31:37,100
-#C,
+C#,
 
 645
 00:31:40,700 --> 00:31:41,600
-#F,
+F#,
 
 646
 00:31:44,290 --> 00:31:44,890
@@ -2756,7 +2756,7 @@ Let's skip down and do number four,
 
 690
 00:34:14,360 --> 00:34:16,970
-number four starts on a bB major,
+number four starts on a Bb major,
 
 691
 00:34:18,110 --> 00:34:19,580
@@ -2800,7 +2800,7 @@ F7,
 
 701
 00:35:00,570 --> 00:35:01,680
-bB.
+Bb.
 
 702
 00:35:06,640 --> 00:35:07,480
@@ -2856,7 +2856,7 @@ big jump down to F,
 
 715
 00:35:47,740 --> 00:35:51,400
-#F,
+F#,
 
 716
 00:35:52,930 --> 00:35:59,910
@@ -3244,19 +3244,19 @@ and now I need a third whole step,
 
 812
 00:41:28,820 --> 00:41:31,040
-which that's going to make that an #F,
+which that's going to make that an F#,
 
 813
 00:41:32,440 --> 00:41:33,700
-E to #F
+E to F#
 
 814
 00:41:33,790 --> 00:41:36,910
-and then I need a half step at the end, #F to G,
+and then I need a half step at the end, F# to G,
 
 815
 00:41:37,210 --> 00:41:44,880
-so G scale is G A B C D E #F G,
+so G scale is G A B C D E F# G,
 
 816
 00:41:45,150 --> 00:41:48,150
@@ -3264,11 +3264,11 @@ we learn about keys and key signatures next time,
 
 817
 00:41:48,210 --> 00:41:51,240
-but that #F is telling you some very important information,
+but that F# is telling you some very important information,
 
 818
 00:41:51,540 --> 00:41:53,490
-in the key of G, we have an #F.
+in the key of G, we have an F#.
 
 819
 00:41:53,670 --> 00:41:54,690
@@ -3276,15 +3276,15 @@ Let's do one more,
 
 820
 00:41:54,870 --> 00:41:56,670
-let's spell a bB scale,
+let's spell a Bb scale,
 
 821
 00:41:57,100 --> 00:41:58,390
-starts on a bB,
+starts on a Bb,
 
 822
 00:41:59,120 --> 00:42:03,370
-then I need a whole step above a bB, should be C,
+then I need a whole step above a Bb, should be C,
 
 823
 00:42:03,730 --> 00:42:06,520
@@ -3292,11 +3292,11 @@ I need another whole step, D,
 
 824
 00:42:07,370 --> 00:42:12,260
-now I need a half step, up from a D, that would be an bE,
+now I need a half step, up from a D, that would be an Eb,
 
 825
 00:42:13,800 --> 00:42:16,800
-so far, I've got bB C D bE,
+so far, I've got Bb C D Eb,
 
 826
 00:42:16,920 --> 00:42:19,440
@@ -3316,15 +3316,15 @@ and then our half step at the end,
 
 830
 00:42:29,420 --> 00:42:31,130
-gets us back to bB where we started,
+gets us back to Bb where we started,
 
 831
 00:42:31,430 --> 00:42:33,080
-so bB scale is
+so Bb scale is
 
 832
 00:42:33,080 --> 00:42:42,580
-bB C D bE F G A bB.
+Bb C D Eb F G A Bb.
 
 833
 00:42:43,670 --> 00:42:46,640
@@ -3364,11 +3364,11 @@ and write them out again and write them out again
 
 842
 00:43:06,980 --> 00:43:12,020
-until you can memorize that bB scale has bB and bE in it,
+until you can memorize that Bb scale has Bb and Eb in it,
 
 843
 00:43:12,400 --> 00:43:14,470
-and a G scale has an #F in it,
+and a G scale has an F# in it,
 
 844
 00:43:15,370 --> 00:43:17,230
