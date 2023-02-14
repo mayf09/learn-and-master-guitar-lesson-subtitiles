@@ -52,6 +52,9 @@ interval 音程
 diatonic interval 自然音程
 major interval 大调音程
 perfect interval 完全音程
+harmonic interval 和声音程
+augmented interval 增强音程
+diminished interval 减弱音程
 
 # Session 10
 finger picking 指弹
