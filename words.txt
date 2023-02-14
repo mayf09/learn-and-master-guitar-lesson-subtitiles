@@ -47,6 +47,12 @@ pivot ?
 fret number 品数
 key signature 调号
 
+# Session 9
+interval 音程
+diatonic interval 自然音程
+major interval 大调音程
+perfect interval 完全音程
+
 # Session 10
 finger picking 指弹
 fingerstyle 指弹
