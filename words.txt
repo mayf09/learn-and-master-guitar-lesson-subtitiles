@@ -68,6 +68,7 @@ pull-offs 勾弦
 palm muting 手掌闷音
 capo 变调夹
 harmonics 泛音
+tapping 点弦
 
 # Session 15
 power chord 强力和弦
