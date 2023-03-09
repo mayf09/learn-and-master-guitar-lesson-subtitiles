@@ -63,6 +63,9 @@ fingerstyle 指弹
 # Session 11
 pentatonic scale 五声音阶
 
+# Session 12
+two chord 二和弦
+
 # Session 15
 power chord 强力和弦
 single coil 单线圈
