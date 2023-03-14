@@ -1,0 +1,2724 @@
+1
+00:00:45,370 --> 00:00:47,440
+Hi, welcome to session fourteen,
+
+2
+00:00:47,860 --> 00:00:50,500
+we're going to talk about giving your playing some style,
+
+3
+00:00:50,500 --> 00:00:53,830
+we're going to talk about the little nuances, that we can add to our playing,
+
+4
+00:00:53,860 --> 00:00:55,360
+that's going to give it some style,
+
+5
+00:00:55,360 --> 00:00:56,560
+give it some uniqueness,
+
+6
+00:00:56,560 --> 00:00:58,240
+become our own voice.
+
+7
+00:00:58,420 --> 00:01:01,030
+Some of those techniques are bends,
+
+8
+00:01:01,030 --> 00:01:02,980
+we're going to learn the proper technique for bending,
+
+9
+00:01:02,980 --> 00:01:05,050
+we're going to talk about slides,
+
+10
+00:01:05,410 --> 00:01:07,780
+talk about hammer-ons and pull-offs,
+
+11
+00:01:07,960 --> 00:01:11,110
+as well as palm muting with our hand,
+
+12
+00:01:11,560 --> 00:01:15,220
+[] going about doing octaves, like we would in Jazz work.
+
+13
+00:01:15,400 --> 00:01:17,980
+In our guitar tips section, we're going to talk about using a capo,
+
+14
+00:01:17,980 --> 00:01:19,930
+as well as using harmonics
+
+15
+00:01:19,930 --> 00:01:21,460
+and incorporating them into our playing.
+
+16
+00:01:21,700 --> 00:01:22,720
+So we've got a lot to do so,
+
+17
+00:01:22,720 --> 00:01:23,830
+let's go ahead and get started.
+
+18
+00:01:31,430 --> 00:01:37,010
+Okay, today we're gonna talk about giving your playing some style,
+
+19
+00:01:37,640 --> 00:01:40,340
+these, these are the little nuance things,
+
+20
+00:01:40,400 --> 00:01:45,500
+that add creative, you're your own voice to your music,
+
+21
+00:01:45,770 --> 00:01:47,840
+okay, so you don't sound like just everybody else around
+
+22
+00:01:48,020 --> 00:01:49,160
+and there's several different,
+
+23
+00:01:49,160 --> 00:01:50,480
+I just listed a few of them,
+
+24
+00:01:50,540 --> 00:01:51,530
+we're going to talk about them
+
+25
+00:01:51,530 --> 00:01:54,800
+and go through the proper technique form all these different things.
+
+26
+00:01:54,980 --> 00:01:59,690
+First thing, we're going to start off with and one of the easiest is sliding to notes,
+
+27
+00:02:00,020 --> 00:02:02,960
+man I was it was a long, one of the first things I've discovered,
+
+28
+00:02:02,990 --> 00:02:05,810
+that if you slide up to a note, it kind of sounds cool,
+
+29
+00:02:06,080 --> 00:02:07,190
+so let's practice that,
+
+30
+00:02:07,340 --> 00:02:11,160
+sliding just involves you tap whatever note you're going for,
+
+31
+00:02:11,160 --> 00:02:13,350
+let's say I'm going for this fifth string,
+
+32
+00:02:14,110 --> 00:02:16,090
+or fifth fret second string E,
+
+33
+00:02:16,720 --> 00:02:17,890
+if I want to slide up to it,
+
+34
+00:02:17,890 --> 00:02:19,690
+I just start somewhere beneath it,
+
+35
+00:02:19,720 --> 00:02:21,010
+let's say a half a step,
+
+36
+00:02:22,500 --> 00:02:24,450
+and I slide into it,
+
+37
+00:02:25,470 --> 00:02:28,470
+so I'm actually playing it on the fourth fret
+
+38
+00:02:28,470 --> 00:02:31,110
+and then I keep the pressure on this finger
+
+39
+00:02:31,260 --> 00:02:32,700
+and slide up to the fifth fret.
+
+40
+00:02:33,800 --> 00:02:36,050
+you gotta do it fairly quickly,
+
+41
+00:02:36,380 --> 00:02:40,130
+to make it work out.
+
+42
+00:02:40,160 --> 00:02:43,400
+Let's do exercise number one, for slides,
+
+43
+00:02:43,790 --> 00:02:46,730
+okay, without the slide, the [line] would go like this,
+
+44
+00:02:52,260 --> 00:02:57,480
+if I do the slide, turns out to be this,
+
+45
+00:02:57,690 --> 00:03:00,180
+do you hear how that slide change the sound of it,
+
+46
+00:03:00,540 --> 00:03:05,670
+do one more time, with the slide.
+
+47
+00:03:07,030 --> 00:03:09,460
+One of my favorite slide licks is
+
+48
+00:03:09,460 --> 00:03:10,510
+and you can do it in any key
+
+49
+00:03:10,510 --> 00:03:11,980
+I'm going to start, we're going to do it in C
+
+50
+00:03:11,980 --> 00:03:15,610
+and then I'll show it on the six string, we're going F too,
+
+51
+00:03:15,850 --> 00:03:17,050
+go into it in C,
+
+52
+00:03:17,870 --> 00:03:19,400
+and the lick starts out like this,
+
+53
+00:03:20,180 --> 00:03:27,920
+if I were to just play it without the slides it be C,
+
+54
+00:03:29,500 --> 00:03:35,980
+okay, now if I slide into that, E right here,
+
+55
+00:03:36,430 --> 00:03:37,450
+how I do that is,
+
+56
+00:03:37,450 --> 00:03:40,000
+I put my third finger on this D
+
+57
+00:03:40,360 --> 00:03:43,660
+and I slide up now to this G,
+
+58
+00:03:43,660 --> 00:03:44,980
+so let's just do the first half,
+
+59
+00:03:48,140 --> 00:03:51,860
+hear how that's gonna sound,
+
+60
+00:03:52,650 --> 00:03:54,030
+and I do the same thing,
+
+61
+00:03:54,540 --> 00:03:56,400
+putting my third finger on the G,
+
+62
+00:03:56,520 --> 00:03:58,650
+so I've got my hand actually in the wrong position,
+
+63
+00:03:58,710 --> 00:04:00,750
+then I slide up to that A
+
+64
+00:04:01,140 --> 00:04:02,880
+and hit that first finger C.
+
+65
+00:04:03,780 --> 00:04:05,430
+So let's do it together slowly,
+
+66
+00:04:06,340 --> 00:04:12,190
+[] your hand back,
+
+67
+00:04:13,150 --> 00:04:19,690
+one more time.
+
+68
+00:04:20,340 --> 00:04:22,410
+Okay, and if I was playing that in tempo would sound like this,
+
+69
+00:04:22,410 --> 00:04:26,370
+now I can actually keep going,
+
+70
+00:04:30,400 --> 00:04:34,180
+just take it up to take all those things up in octave,
+
+71
+00:04:38,170 --> 00:04:43,870
+if I was going down and it would be a little trickier,
+
+72
+00:04:44,890 --> 00:04:49,060
+we can only do it on the E go down to D.
+
+73
+00:04:50,650 --> 00:04:54,190
+Okay, now that's it in C,
+
+74
+00:04:54,190 --> 00:04:56,860
+if I wanted to do an f with a six string root,
+
+75
+00:04:57,070 --> 00:04:58,150
+it's pretty much the same thing,
+
+76
+00:04:58,150 --> 00:04:59,800
+we have to just the fingering just a little bit,
+
+77
+00:05:00,160 --> 00:05:05,590
+so an F would be like this,
+
+78
+00:05:05,620 --> 00:05:06,400
+if I want to keep going,
+
+79
+00:05:06,400 --> 00:05:10,300
+if I can squeeze one more out of it.
+
+80
+00:05:12,120 --> 00:05:15,750
+Okay.
+
+81
+00:05:21,930 --> 00:05:22,650
+It's a good way
+
+82
+00:05:22,650 --> 00:05:27,900
+to get a really large lick going from low to high notes
+
+83
+00:05:28,080 --> 00:05:30,030
+and you can incorporate that into any key
+
+84
+00:05:30,060 --> 00:05:31,350
+and you can go all over the neck
+
+85
+00:05:31,350 --> 00:05:32,880
+by just using that little pattern,
+
+86
+00:05:32,910 --> 00:05:34,350
+one of my favorite slide patterns.
+
+87
+00:05:34,410 --> 00:05:37,200
+Let's go to the next one, bends,
+
+88
+00:05:37,860 --> 00:05:40,680
+alright, there's some tech here's all I know about bends,
+
+89
+00:05:40,890 --> 00:05:45,510
+you want to do, you can bend a note a half step or a whole step up,
+
+90
+00:05:45,570 --> 00:05:47,820
+let's talk about the proper technique for bends too,
+
+91
+00:05:47,940 --> 00:05:50,520
+usually it's involving the third or the fourth finger.
+
+92
+00:05:50,900 --> 00:05:52,490
+Okay, so let's say I'm on this D,
+
+93
+00:05:52,610 --> 00:05:54,500
+the seventh fret with my third finger
+
+94
+00:05:54,530 --> 00:05:55,910
+and I want to bend that up,
+
+95
+00:05:56,300 --> 00:06:00,890
+okay, well, here we're going to come across another physical problem for,
+
+96
+00:06:00,890 --> 00:06:04,490
+it may take a couple of weeks for you to get a handle on physically,
+
+97
+00:06:04,940 --> 00:06:07,310
+because we've got to strengthen up these fingers,
+
+98
+00:06:07,520 --> 00:06:11,540
+I'm gonna bend using this third finger bend, this D up to an E,
+
+99
+00:06:12,270 --> 00:06:18,990
+okay, now I'm not, if I just try it,
+
+100
+00:06:20,480 --> 00:06:21,560
+you may have to bring this,
+
+101
+00:06:21,560 --> 00:06:23,570
+remember I told you never to bring your wrist up,
+
+102
+00:06:23,690 --> 00:06:25,910
+here's the one case where you can bring your wrist up,
+
+103
+00:06:25,910 --> 00:06:27,230
+get a little bit more pressure there,
+
+104
+00:06:27,410 --> 00:06:28,940
+bring that thumb over, if you need to,
+
+105
+00:06:29,180 --> 00:06:33,410
+sometimes if it's hard to bring this note all the way up,
+
+106
+00:06:33,470 --> 00:06:37,700
+use these other two fingers behind him to help bring that string up,
+
+107
+00:06:37,700 --> 00:06:39,410
+so you put them all three of them down
+
+108
+00:06:39,590 --> 00:06:41,210
+and now bend that note up.
+
+109
+00:06:47,930 --> 00:06:49,310
+That's using our third finger,
+
+110
+00:06:49,340 --> 00:06:52,670
+if I wanted to do one that would be using my fourth finger,
+
+111
+00:06:52,670 --> 00:06:54,680
+maybe I could go this G here
+
+112
+00:06:54,710 --> 00:06:55,850
+and I could bend him up,
+
+113
+00:06:59,130 --> 00:07:01,500
+now I can bend up just a half step,
+
+114
+00:07:01,710 --> 00:07:02,910
+let's go back to my D,
+
+115
+00:07:03,450 --> 00:07:06,300
+half step up would be Eb, that's that note,
+
+116
+00:07:06,300 --> 00:07:14,130
+or I can do a whole note, a whole step,
+
+117
+00:07:14,130 --> 00:07:19,950
+that would be a whole step, half step,
+
+118
+00:07:20,370 --> 00:07:22,500
+now one of the secrets to bending
+
+119
+00:07:22,500 --> 00:07:23,910
+and I learned this from Larry Carlton,
+
+120
+00:07:23,910 --> 00:07:26,130
+one of the greatest guitar players,
+
+121
+00:07:26,160 --> 00:07:27,780
+that incorporates this style,
+
+122
+00:07:28,670 --> 00:07:31,700
+he said, that when you bend,
+
+123
+00:07:31,850 --> 00:07:36,560
+bend up to a pitch, don't just bend up somewhere,
+
+124
+00:07:36,830 --> 00:07:38,240
+which is what a lot of guitar players do
+
+125
+00:07:38,240 --> 00:07:39,200
+and they're playing a solo
+
+126
+00:07:39,200 --> 00:07:43,970
+and they just kind of bend around and bend up,
+
+127
+00:07:44,330 --> 00:07:46,070
+it's kind of a lazy man's way of doing it,
+
+128
+00:07:46,310 --> 00:07:48,680
+when you're gonna bend, bend to a pitch,
+
+129
+00:07:48,980 --> 00:07:50,750
+either a half step up or a whole step up,
+
+130
+00:07:51,110 --> 00:07:52,430
+okay, takes a little bit of a trick,
+
+131
+00:07:52,760 --> 00:07:54,440
+a little bit of control do that,
+
+132
+00:07:54,440 --> 00:07:55,310
+and that's the whole issue,
+
+133
+00:07:55,310 --> 00:07:59,430
+control, don't just kind of bend somewhere, bend to a pitch.
+
+134
+00:07:59,820 --> 00:08:01,740
+Okay, so we've talked about half step bends,
+
+135
+00:08:01,740 --> 00:08:03,210
+we've talked about whole step bends,
+
+136
+00:08:03,750 --> 00:08:06,720
+now let's incorporate those into our pentatonic scale.
+
+137
+00:08:07,200 --> 00:08:10,140
+Okay, so here's our A minor pentatonic,
+
+138
+00:08:10,140 --> 00:08:12,570
+first form here that we've used some often,
+
+139
+00:08:12,720 --> 00:08:14,340
+what notes are good to bend in that,
+
+140
+00:08:14,340 --> 00:08:17,130
+well, you don't want to bend on these low notes,
+
+141
+00:08:17,130 --> 00:08:20,520
+it just gets a little bit, just too low doesn't sound real good,
+
+142
+00:08:22,320 --> 00:08:24,960
+here's the first one that starts being good to bend,
+
+143
+00:08:25,110 --> 00:08:26,940
+I can bend this one a half step,
+
+144
+00:08:26,940 --> 00:08:29,370
+which would get me to the []
+
+145
+00:08:29,610 --> 00:08:31,470
+or I can bend up a whole step,
+
+146
+00:08:32,460 --> 00:08:36,300
+which would get me to the whole a [] [],
+
+147
+00:08:36,330 --> 00:08:43,080
+okay, so that note is good to bend,
+
+148
+00:08:43,110 --> 00:08:45,420
+either half step or whole step,
+
+149
+00:08:45,540 --> 00:08:48,750
+this G, I can bend it up a whole step and it sounds great,
+
+150
+00:08:51,130 --> 00:08:55,930
+okay, I don't want to bend up just a half step,
+
+151
+00:08:56,470 --> 00:08:58,300
+that doesn't sound too good to get out of the key,
+
+152
+00:08:59,410 --> 00:09:03,290
+note also that I can bend is this pinky right here,
+
+153
+00:09:06,350 --> 00:09:10,190
+now you got to kind of play with your fingers on that string,
+
+154
+00:09:10,370 --> 00:09:12,440
+what do you do with your fingernails
+
+155
+00:09:12,440 --> 00:09:14,930
+and where does the actual strings that you're coming into,
+
+156
+00:09:15,230 --> 00:09:16,190
+where do they go,
+
+157
+00:09:16,850 --> 00:09:19,130
+do they go, if you can,
+
+158
+00:09:19,130 --> 00:09:21,260
+if you get your fingernails down close enough to the fret board,
+
+159
+00:09:21,260 --> 00:09:23,270
+you can push those other strings up,
+
+160
+00:09:23,510 --> 00:09:25,160
+actually over your nail,
+
+161
+00:09:25,720 --> 00:09:26,890
+and that's one way to do it,
+
+162
+00:09:27,680 --> 00:09:30,740
+if you've got, if you go out completely another direction
+
+163
+00:09:30,740 --> 00:09:32,060
+and go at a real flat,
+
+164
+00:09:32,780 --> 00:09:35,540
+you just push all those other strings up underneath,
+
+165
+00:09:35,810 --> 00:09:36,920
+there's two ways you need to do it,
+
+166
+00:09:36,920 --> 00:09:39,800
+you need to figure out which way works best for you,
+
+167
+00:09:40,040 --> 00:09:42,980
+okay so that notes that we can bend a pentatonic scale
+
+168
+00:09:43,130 --> 00:09:47,180
+are this one, this one and this one
+
+169
+00:09:47,930 --> 00:09:49,460
+in that first pentatonic form.
+
+170
+00:09:50,490 --> 00:09:53,340
+Okay, the other forms would have different notes that those can bend too,
+
+171
+00:09:53,340 --> 00:09:55,350
+but they would be the same equivalent pitches,
+
+172
+00:09:55,440 --> 00:09:59,880
+the D G and the and C, are the ones that we can use,
+
+173
+00:09:59,970 --> 00:10:03,480
+one of the best exercises, you can use to strengthen your hand
+
+174
+00:10:03,480 --> 00:10:07,800
+and all these bends involve strengthening your hands, strengthening these fingers,
+
+175
+00:10:07,800 --> 00:10:08,970
+you don't get it the first time,
+
+176
+00:10:08,970 --> 00:10:10,950
+some of you might, if you have strong hands,
+
+177
+00:10:11,100 --> 00:10:13,110
+but the other ones will have to work on a little bit
+
+178
+00:10:13,350 --> 00:10:16,440
+has to do with string, how thick your strings are,
+
+179
+00:10:16,560 --> 00:10:19,140
+how strong your hand is, that sort of stuff,
+
+180
+00:10:19,350 --> 00:10:23,740
+a great exercise that Larry Carlton uses is
+
+181
+00:10:23,740 --> 00:10:25,570
+doing a major scale with bends,
+
+182
+00:10:25,930 --> 00:10:27,400
+I'm going to play through solely
+
+183
+00:10:27,400 --> 00:10:28,810
+and then we'll talk about him,
+
+184
+00:10:28,810 --> 00:10:31,120
+C D and then we bend up to this E,
+
+185
+00:10:33,340 --> 00:10:38,170
+then I have to stick my first finger up here that F, G bend up to the A,
+
+186
+00:10:39,350 --> 00:10:42,560
+we're going to pitch, B C,
+
+187
+00:10:43,740 --> 00:10:50,250
+I did it again, C D E,
+
+188
+00:10:51,970 --> 00:10:54,670
+putting in a major scale format is really easy to hear,
+
+189
+00:10:54,670 --> 00:10:55,720
+when you're not quite at it,
+
+190
+00:10:56,020 --> 00:10:57,880
+okay, going down, it's a little bit different
+
+191
+00:10:58,450 --> 00:11:00,100
+here your first finger is here, C
+
+192
+00:11:00,610 --> 00:11:03,280
+and I'm gonna bend up to this B from this A,
+
+193
+00:11:07,060 --> 00:11:12,250
+can bend up from this D,
+
+194
+00:11:12,790 --> 00:11:16,480
+so let's go down one more time,
+
+195
+00:11:16,510 --> 00:11:18,790
+C, then from the A to the B,
+
+196
+00:11:20,480 --> 00:11:24,260
+A G F, bend up to the E,
+
+197
+00:11:26,600 --> 00:11:27,920
+D C,
+
+198
+00:11:27,920 --> 00:11:29,150
+if I put it in context,
+
+199
+00:11:29,150 --> 00:11:39,530
+it would be a good exercise to get your hands strong enough,
+
+200
+00:11:39,590 --> 00:11:40,670
+to do the bends that you need
+
+201
+00:11:40,670 --> 00:11:42,170
+and incorporate those into your play.
+
+202
+00:11:42,350 --> 00:11:45,140
+Next thing we want to talk about is hammer-ons,
+
+203
+00:11:45,410 --> 00:11:46,520
+okay, what's a hammer-on,
+
+204
+00:11:46,520 --> 00:11:47,510
+well, it's not a shark,
+
+205
+00:11:47,660 --> 00:11:49,460
+what a hammer-on, that's a hammerhead,
+
+206
+00:11:49,670 --> 00:11:53,030
+hammer-on is, if I'm using that same form,
+
+207
+00:11:53,180 --> 00:11:54,380
+I'm going to take my,
+
+208
+00:11:54,410 --> 00:11:55,850
+let's say I'm starting on this E,
+
+209
+00:11:56,310 --> 00:11:58,320
+and I'm going to hammer-on to this G,
+
+210
+00:11:58,900 --> 00:12:02,410
+what is involved practically is,
+
+211
+00:12:02,410 --> 00:12:04,810
+I'm just going to take this pinky G
+
+212
+00:12:04,840 --> 00:12:08,680
+and whack my pinky down as hard as I can,
+
+213
+00:12:10,180 --> 00:12:13,240
+I'm not gonna, I only play the E,
+
+214
+00:12:13,240 --> 00:12:14,650
+I don't pick the G,
+
+215
+00:12:14,800 --> 00:12:19,210
+I just force my pinky down so strong,
+
+216
+00:12:19,210 --> 00:12:21,400
+that it actually sounds out the G,
+
+217
+00:12:21,430 --> 00:12:24,010
+think of it like a hammer-on a piano,
+
+218
+00:12:24,010 --> 00:12:25,330
+if you ever looked inside a piano,
+
+219
+00:12:25,420 --> 00:12:28,030
+there's a hammer that's actually hitting those strings,
+
+220
+00:12:28,030 --> 00:12:32,530
+and that's what you're G fingers doing,
+
+221
+00:12:33,120 --> 00:12:37,110
+if I do it on A to a C.
+
+222
+00:12:43,010 --> 00:12:44,450
+Okay, now I can do this,
+
+223
+00:12:44,480 --> 00:12:48,860
+with first to second finger, first to third finger, first to fourth finger.
+
+224
+00:12:48,920 --> 00:12:51,590
+So let's look at our hammer-on exercise,
+
+225
+00:12:51,800 --> 00:12:54,200
+the first one goes from like E to F,
+
+226
+00:13:00,670 --> 00:13:04,150
+trying to get that second note to sound out,
+
+227
+00:13:04,150 --> 00:13:05,140
+keep that pressure on you,
+
+228
+00:13:05,140 --> 00:13:07,510
+really have to whack it against that fret board,
+
+229
+00:13:07,600 --> 00:13:10,270
+let's go from E F# or one to three,
+
+230
+00:13:17,200 --> 00:13:23,270
+what about E to G, one to four.
+
+231
+00:13:25,970 --> 00:13:28,070
+Okay, try it on different strings,
+
+232
+00:13:28,100 --> 00:13:31,340
+try it on different places on the fret board,
+
+233
+00:13:31,460 --> 00:13:33,320
+takes a little bit of muscle in that pinky
+
+234
+00:13:33,350 --> 00:13:35,030
+to get to hammer-on strong enough,
+
+235
+00:13:35,030 --> 00:13:36,080
+but that's what you're going for,
+
+236
+00:13:36,080 --> 00:13:38,780
+you want both notes to actually sound pretty similar.
+
+237
+00:13:41,090 --> 00:13:44,900
+Now let's talk about the flip side of hammer-ons, which is pull-offs,
+
+238
+00:13:44,930 --> 00:13:45,980
+pull-offs,
+
+239
+00:13:47,190 --> 00:13:48,870
+let's say I'm going from this G
+
+240
+00:13:48,900 --> 00:13:50,340
+and I want to get back to this E
+
+241
+00:13:50,340 --> 00:13:51,870
+without picking the note,
+
+242
+00:13:52,260 --> 00:13:53,580
+instead of picking it like that,
+
+243
+00:13:53,940 --> 00:13:56,040
+I have my finger on this G
+
+244
+00:13:56,100 --> 00:13:57,780
+and I'm gonna pull down,
+
+245
+00:13:58,200 --> 00:14:00,210
+I got a lot of pressure on this E
+
+246
+00:14:01,680 --> 00:14:03,930
+and I pull down and release that string.
+
+247
+00:14:07,350 --> 00:14:08,580
+So I'm doing two things,
+
+248
+00:14:08,580 --> 00:14:10,710
+not only am I pulling down with this string,
+
+249
+00:14:10,770 --> 00:14:13,860
+I'm also giving counter pressure with this finger,
+
+250
+00:14:13,980 --> 00:14:15,540
+not only I'm pulling down with this finger,
+
+251
+00:14:15,540 --> 00:14:17,430
+but I'm giving counter pressure with this finger,
+
+252
+00:14:17,430 --> 00:14:19,530
+so one finger's going down, one finger's going up,
+
+253
+00:14:21,820 --> 00:14:26,170
+I do with my third finger,
+
+254
+00:14:26,440 --> 00:14:33,500
+practice it with your second finger, third finger, fourth finger,
+
+255
+00:14:39,410 --> 00:14:46,010
+now I can combine those with a hammer-on,
+
+256
+00:14:47,630 --> 00:14:49,640
+I hammer-on one way and then pull-off the other,
+
+257
+00:14:49,670 --> 00:14:54,020
+I'm only actually hitting one note with my pick
+
+258
+00:14:54,350 --> 00:14:59,510
+and the rest of it, my fingers are doing.
+
+259
+00:15:03,470 --> 00:15:10,700
+Okay, so incorporating hammer-ons and pull-offs into your playing,
+
+260
+00:15:10,700 --> 00:15:11,780
+now hammer-on,
+
+261
+00:15:11,780 --> 00:15:13,610
+let's talk about one specific technique,
+
+262
+00:15:13,610 --> 00:15:17,240
+that we need to work on with a hammer-ons and pull-offs，
+
+263
+00:15:17,450 --> 00:15:21,110
+that would be the Eddie Van Halen type of tapping,
+
+264
+00:15:21,550 --> 00:15:24,790
+okay, bunch of different skills involved with this one,
+
+265
+00:15:24,880 --> 00:15:28,090
+let me do it without distortion first,
+
+266
+00:15:28,090 --> 00:15:29,230
+then I'll do it with distortion,
+
+267
+00:15:29,380 --> 00:15:31,720
+let's say I'm going between this E and this G,
+
+268
+00:15:32,380 --> 00:15:36,670
+and I'm also gonna come over here with my first finger and hit this A,
+
+269
+00:15:37,240 --> 00:15:42,390
+so I got three things going, I got the E, G, A,
+
+270
+00:15:43,870 --> 00:15:45,700
+now, I'm not Eddie Van Halen,
+
+271
+00:15:45,700 --> 00:15:48,340
+but basically here's the deal on that concept,
+
+272
+00:15:48,670 --> 00:15:51,730
+you kind of starts the note,
+
+273
+00:15:51,760 --> 00:15:52,660
+pull-off,
+
+274
+00:15:57,040 --> 00:15:59,860
+with this finger, I'm actually kind of tugging down a little bit of,
+
+275
+00:15:59,860 --> 00:16:01,840
+I'm kind of doing pull-off with my other finger,
+
+276
+00:16:03,700 --> 00:16:10,570
+okay, that's basically it,
+
+277
+00:16:10,630 --> 00:16:12,640
+now gets infinitely more complex than that,
+
+278
+00:16:12,700 --> 00:16:15,520
+but that's basically the technique that's being used,
+
+279
+00:16:15,610 --> 00:16:19,600
+throw a little distortion, little delay, crank it up,
+
+280
+00:16:19,600 --> 00:16:30,550
+sound rock and roll with it,
+
+281
+00:16:30,550 --> 00:16:32,170
+that's basically what that technique is.
+
+282
+00:16:32,320 --> 00:16:34,750
+Now, another thing,
+
+283
+00:16:34,750 --> 00:16:38,380
+if I want to incorporate hammer-ons and pull-offs into my pentatonic scale,
+
+284
+00:16:39,010 --> 00:16:40,480
+well, I can go something like this,
+
+285
+00:16:40,510 --> 00:16:51,060
+I'm actually hitting the first one of each pair,
+
+286
+00:16:53,310 --> 00:16:56,730
+sometimes hammer-ons and pull-offs are a great way to get a lot of speed
+
+287
+00:16:56,760 --> 00:17:10,050
+without actually having to pick it all,
+
+288
+00:17:12,630 --> 00:17:14,010
+sounds really impressive,
+
+289
+00:17:14,010 --> 00:17:15,600
+sounds like I'm going really fast,
+
+290
+00:17:15,750 --> 00:17:19,590
+actually I'm, I guess my fingers on this hand are doing all the work,
+
+291
+00:17:19,590 --> 00:17:20,580
+but not this hand,
+
+292
+00:17:20,670 --> 00:17:22,980
+I'm using all hammer-ons and pull-offs,
+
+293
+00:17:23,130 --> 00:17:26,160
+so practice doing scales practice, doing our pentatonic scales
+
+294
+00:17:26,160 --> 00:17:29,550
+with those and hammer-on, hammering-on and pulling them off.
+
+295
+00:17:30,250 --> 00:17:34,090
+Okay, okay, the next thing I want to talk about is muting with our palm,
+
+296
+00:17:34,120 --> 00:17:35,350
+very common technique,
+
+297
+00:17:35,350 --> 00:17:40,030
+I did a little bit, when we, when we had our welcome part little bit earlier,
+
+298
+00:17:40,030 --> 00:17:42,970
+and that was the thing that I did, using palm muting,
+
+299
+00:17:43,000 --> 00:17:47,020
+I'm taking this part of the fleshy part of my palm on my right hand,
+
+300
+00:17:47,550 --> 00:17:49,800
+putting it right at the bridge down here,
+
+301
+00:17:50,350 --> 00:17:51,580
+and then I'm playing a note,
+
+302
+00:17:51,580 --> 00:17:53,710
+let's say I'm playing an A here, at the seventh fret,
+
+303
+00:17:56,210 --> 00:17:59,930
+okay, now if I put it too far back,
+
+304
+00:17:59,930 --> 00:18:02,000
+it just sounds like a regular string,
+
+305
+00:18:02,000 --> 00:18:03,260
+but put it too far up,
+
+306
+00:18:04,160 --> 00:18:05,630
+it kind of gets this funny sounds,
+
+307
+00:18:05,630 --> 00:18:09,170
+it takes a little while to figure out getting just the sweet spot,
+
+308
+00:18:09,170 --> 00:18:10,460
+where you can hear where it's supposed to be,
+
+309
+00:18:14,030 --> 00:18:16,490
+I can do my major pentatonic minor pentatonic, excuse me,
+
+310
+00:18:23,120 --> 00:18:27,230
+it lends itself a little bit easier doing all down strokes rather than down and up,
+
+311
+00:18:27,230 --> 00:18:29,420
+it's hard to do,
+
+312
+00:18:29,480 --> 00:18:30,470
+I guess you can do ups,
+
+313
+00:18:30,470 --> 00:18:33,230
+but it lends itself a bit better doing down strokes on that,
+
+314
+00:18:33,380 --> 00:18:35,350
+so I'm practicing, practice on that,
+
+315
+00:18:35,350 --> 00:18:36,610
+you get this hand straight,
+
+316
+00:18:36,610 --> 00:18:44,200
+put it on that bridge, a little bit up from bridge.
+
+317
+00:18:45,550 --> 00:18:49,240
+Okay, now if I'm in let's say Am, Am chord,
+
+318
+00:18:49,390 --> 00:18:53,290
+remember our triads is built up of an A C and E,
+
+319
+00:18:53,940 --> 00:18:58,650
+okay, if I'm in Am7 be A C E and G,
+
+320
+00:18:59,040 --> 00:19:00,030
+now I can take,
+
+321
+00:19:00,120 --> 00:19:02,310
+I don't want to play an Am7 the whole time,
+
+322
+00:19:02,310 --> 00:19:09,600
+if I want to have a [],
+
+323
+00:19:09,990 --> 00:19:13,290
+well that's not very interesting, if I'm doing a rhythm accompaniment with it,
+
+324
+00:19:13,380 --> 00:19:16,350
+so a lot of times, I can just take certain notes of that chord,
+
+325
+00:19:16,560 --> 00:19:18,000
+do a little palm muting with it
+
+326
+00:19:18,090 --> 00:19:20,700
+and I end up making some music with it.
+
+327
+00:19:20,970 --> 00:19:22,860
+Okay, take a listen to [] here,
+
+328
+00:19:26,230 --> 00:19:30,250
+I'm just using the A,
+
+329
+00:19:33,010 --> 00:19:36,400
+I'm using G and A,
+
+330
+00:19:43,720 --> 00:19:51,100
+then I throw the C and E in there too,
+
+331
+00:20:07,420 --> 00:20:11,050
+one of the most helpful techniques I've ever learned is that palm muting,
+
+332
+00:20:11,730 --> 00:20:13,440
+folks, some folks will put up a song,
+
+333
+00:20:13,470 --> 00:20:15,000
+I don't know whether, I don't know anything,
+
+334
+00:20:15,180 --> 00:20:16,680
+what the chord changes are anything,
+
+335
+00:20:16,680 --> 00:20:18,180
+I'm supposed to play something fabulous,
+
+336
+00:20:18,510 --> 00:20:20,220
+you just take whatever key you're in,
+
+337
+00:20:20,310 --> 00:20:22,620
+I play the root of that key
+
+338
+00:20:22,770 --> 00:20:23,340
+and I've got it,
+
+339
+00:20:23,340 --> 00:20:24,420
+let's say, in C,
+
+340
+00:20:24,450 --> 00:20:30,180
+I don't know what the chord changes are,
+
+341
+00:20:30,180 --> 00:20:30,960
+I don't know anything,
+
+342
+00:20:30,990 --> 00:20:32,910
+I just I just vamp on that C
+
+343
+00:20:32,970 --> 00:20:35,550
+and it sounds hip,
+
+344
+00:20:39,510 --> 00:20:45,240
+through a couple notes around it,
+
+345
+00:20:46,020 --> 00:20:47,100
+and yeah you can still work,
+
+346
+00:20:47,100 --> 00:20:50,310
+you've got a good funky guitar part that you can play,
+
+347
+00:20:50,340 --> 00:20:52,020
+you're not just hammering out the chords
+
+348
+00:20:52,020 --> 00:20:53,520
+which is what every other guitar player would do,
+
+349
+00:20:53,520 --> 00:20:54,540
+you've got something unique
+
+350
+00:20:54,570 --> 00:20:58,620
+and all of this is you're just taking the root of the chord or the fifth sometimes,
+
+351
+00:20:58,710 --> 00:20:59,940
+do a little palm muting,
+
+352
+00:20:59,940 --> 00:21:01,350
+come up with a little rhythm with it
+
+353
+00:21:01,620 --> 00:21:02,610
+and that's all that is.
+
+354
+00:21:02,760 --> 00:21:04,830
+Okay, another technique I want to show you is
+
+355
+00:21:04,830 --> 00:21:11,650
+picking, while you're picking, putting my second finger the nail, just down on the string,
+
+356
+00:21:11,650 --> 00:21:13,960
+just setting it on the string, while I'm playing,
+
+357
+00:21:13,990 --> 00:21:16,240
+it gets this little bit of a harmonic happening
+
+358
+00:21:16,390 --> 00:21:18,760
+and it's real, real cool, real common sound,
+
+359
+00:21:18,760 --> 00:21:21,610
+so if I'm playing, let's say a C major scale,
+
+360
+00:21:24,820 --> 00:21:28,570
+now I'm just gonna set my second finger nail on top of those strings as,
+
+361
+00:21:34,120 --> 00:21:37,810
+you hear how it doesn't come out perfect all the time,
+
+362
+00:21:37,810 --> 00:21:44,680
+but sometimes it gets a [] harmonic way at top,
+
+363
+00:21:46,330 --> 00:21:57,850
+okay, throw a little distortion on that,
+
+364
+00:21:58,900 --> 00:22:02,890
+hear that harmonic way up there,
+
+365
+00:22:02,980 --> 00:22:07,240
+that's all coming from using that second finger nail on that,
+
+366
+00:22:07,570 --> 00:22:09,250
+it takes a little practice to get it down,
+
+367
+00:22:09,250 --> 00:22:09,970
+but once you get it,
+
+368
+00:22:10,030 --> 00:22:12,280
+it's a real [] effect,
+
+369
+00:22:12,280 --> 00:22:13,540
+that you can put into your playing.
+
+370
+00:22:13,900 --> 00:22:16,120
+Last thing I want to talk about is octaves,
+
+371
+00:22:16,150 --> 00:22:18,670
+let's say I'm playing, a guy puts up a song
+
+372
+00:22:18,820 --> 00:22:20,920
+and I'm supposed to sound jazzy,
+
+373
+00:22:21,250 --> 00:22:23,950
+okay, well I can play in octaves,
+
+374
+00:22:24,100 --> 00:22:26,020
+now octaves in our music notation,
+
+375
+00:22:26,020 --> 00:22:26,770
+if I'm playing a C,
+
+376
+00:22:26,770 --> 00:22:30,820
+that would be a low C and a high C, play at the same time,
+
+377
+00:22:30,850 --> 00:22:34,480
+okay, how it fingers well best,
+
+378
+00:22:34,690 --> 00:22:36,790
+how it fingers best on guitar,
+
+379
+00:22:37,170 --> 00:22:40,410
+so if I use one and three,
+
+380
+00:22:41,060 --> 00:22:43,490
+now, how do I play those,
+
+381
+00:22:43,490 --> 00:22:44,750
+because I've got a string in between,
+
+382
+00:22:44,750 --> 00:22:47,180
+without getting that string to sound,
+
+383
+00:22:47,180 --> 00:22:49,430
+well, actually got my, I play it kind of sloppy
+
+384
+00:22:49,610 --> 00:22:53,480
+and I put my first finger down on that middle string,
+
+385
+00:22:53,570 --> 00:22:55,550
+so actually what you're hearing is,
+
+386
+00:22:55,580 --> 00:23:01,280
+you're hearing that dead string in between them,
+
+387
+00:23:01,700 --> 00:23:02,900
+when I play it all together,
+
+388
+00:23:02,900 --> 00:23:05,630
+but it doesn't come out,
+
+389
+00:23:05,630 --> 00:23:08,270
+I can do it on the six string,
+
+390
+00:23:08,840 --> 00:23:12,110
+I can use one four perhaps,
+
+391
+00:23:13,190 --> 00:23:13,820
+one four,
+
+392
+00:23:13,850 --> 00:23:19,760
+okay, when I go down to the next set of strings, the fourth and second,
+
+393
+00:23:19,760 --> 00:23:22,750
+I've got to open up, use only one four,
+
+394
+00:23:22,750 --> 00:23:24,460
+because that's how the guitar is tuned,
+
+395
+00:23:24,460 --> 00:23:25,630
+you end up with a wider stretch,
+
+396
+00:23:25,630 --> 00:23:35,050
+same thing for the next string,
+
+397
+00:23:35,050 --> 00:23:37,240
+octaves takes a little bit practicing to get it,
+
+398
+00:23:37,330 --> 00:23:45,310
+what you get, if I want to sound jazzy,
+
+399
+00:23:45,550 --> 00:23:50,230
+I just do octaves like that,
+
+400
+00:23:50,230 --> 00:23:52,630
+now there's a great jazz guitarist Wes Montgomery,
+
+401
+00:23:52,660 --> 00:23:55,630
+he didn't use a pick, he used his thumb for these octaves,
+
+402
+00:23:55,630 --> 00:23:57,040
+gets even a sweeter sound,
+
+403
+00:24:01,090 --> 00:24:08,920
+you can see how [] sound gets,
+
+404
+00:24:09,190 --> 00:24:17,320
+okay, now if I want to fake that sound,
+
+405
+00:24:17,320 --> 00:24:20,440
+sometimes I can just flick my third finger instead of picking,
+
+406
+00:24:20,440 --> 00:24:21,790
+I'm using my third finger
+
+407
+00:24:21,790 --> 00:24:29,440
+and just kind of whacking the back of my third finger there,
+
+408
+00:24:29,470 --> 00:24:34,300
+Jazz octaves.
+
+409
+00:24:34,600 --> 00:24:37,120
+Okay, now let's take a look at some more techniques,
+
+410
+00:24:37,180 --> 00:24:41,350
+that use your guitar and your instrument for actually creating some different techniques.
+
+411
+00:24:43,840 --> 00:24:47,350
+Okay, now we're gonna talk about using our guitar instrument
+
+412
+00:24:47,710 --> 00:24:49,600
+and we're giving some different techniques out of that,
+
+413
+00:24:49,600 --> 00:24:51,550
+first thing to talk about is using a capo,
+
+414
+00:24:51,910 --> 00:24:53,530
+now here's a capo,
+
+415
+00:24:53,620 --> 00:24:56,410
+what, what is involved in a little metal thing,
+
+416
+00:24:56,410 --> 00:24:59,080
+probably cost you four or five bucks down at the music store,
+
+417
+00:24:59,440 --> 00:25:01,060
+okay, pretty strong
+
+418
+00:25:01,150 --> 00:25:03,160
+and you put it over the neck of your guitar,
+
+419
+00:25:04,680 --> 00:25:08,460
+like I could put the third fret.
+
+420
+00:25:13,900 --> 00:25:15,790
+Now what's the capo used for,
+
+421
+00:25:15,820 --> 00:25:17,110
+well, here's a couple things,
+
+422
+00:25:17,110 --> 00:25:18,460
+the first thing, it's used for,
+
+423
+00:25:18,550 --> 00:25:20,920
+if I want to just do simple chord progressions
+
+424
+00:25:21,280 --> 00:25:23,440
+and I only know G Cs and Ds
+
+425
+00:25:23,440 --> 00:25:25,300
+and I only know open chords,
+
+426
+00:25:25,450 --> 00:25:28,720
+but I want to be able to use my open chords in a song,
+
+427
+00:25:28,720 --> 00:25:32,380
+that does not is not an open chord key like G C or D,
+
+428
+00:25:32,780 --> 00:25:36,860
+let's say the song is in Eb or something different like that,
+
+429
+00:25:37,460 --> 00:25:39,230
+well, no problem,
+
+430
+00:25:39,350 --> 00:25:45,290
+you find, let's say the chords are D G and A,
+
+431
+00:25:47,270 --> 00:25:48,140
+but they want to do it,
+
+432
+00:25:48,140 --> 00:25:50,660
+they want to take it up the key and do it in Eb,
+
+433
+00:25:50,810 --> 00:25:52,160
+well, no problem,
+
+434
+00:25:52,760 --> 00:25:55,820
+the distance between d and Eb,
+
+435
+00:25:56,410 --> 00:26:01,300
+the key that I know my chords in and Eb where we're going is one half step,
+
+436
+00:26:02,150 --> 00:26:03,890
+which is one frets worth on the guitar,
+
+437
+00:26:03,890 --> 00:26:06,950
+so I put my capo at the first fret
+
+438
+00:26:07,310 --> 00:26:13,010
+and now I've got my D chord, G chord, A chord,
+
+439
+00:26:13,010 --> 00:26:15,440
+but now I can play it in a different key,
+
+440
+00:26:15,440 --> 00:26:16,940
+so I'm playing a D,
+
+441
+00:26:16,940 --> 00:26:25,460
+but it's actually sounding as an Eb,
+
+442
+00:26:25,460 --> 00:26:26,060
+see that change the sound of a guitar,
+
+443
+00:26:26,150 --> 00:26:27,290
+I can go even more than that,
+
+444
+00:26:27,290 --> 00:26:30,500
+let's say I wanted to do my D chord,
+
+445
+00:26:30,500 --> 00:26:32,180
+but we're going to use it in the key of G,
+
+446
+00:26:32,600 --> 00:26:37,590
+well, the distance for [] D and a G is a fourth,
+
+447
+00:26:38,220 --> 00:26:42,330
+well, that is five frets worth on a guitar,
+
+448
+00:26:45,160 --> 00:26:46,720
+so I would have to put it at,
+
+449
+00:26:46,720 --> 00:26:52,210
+let's see what, the sixth fret, sixth fret [], sixth frets [],
+
+450
+00:26:55,260 --> 00:27:10,260
+sorry, I was right, the first time, fifth fret.
+
+451
+00:27:10,380 --> 00:27:11,850
+Capos were great,
+
+452
+00:27:12,210 --> 00:27:13,950
+but after I get out too far,
+
+453
+00:27:13,950 --> 00:27:15,300
+it's kind of hard for,
+
+454
+00:27:15,450 --> 00:27:19,950
+it's just too hard and too small for fingers to get in there,
+
+455
+00:27:19,950 --> 00:27:21,990
+so they work best down here,
+
+456
+00:27:21,990 --> 00:27:24,480
+now you see the mental calculations I had to go through
+
+457
+00:27:24,510 --> 00:27:27,550
+in order to find out where to place the capo,
+
+458
+00:27:27,580 --> 00:27:28,450
+what's involved is
+
+459
+00:27:28,450 --> 00:27:32,920
+you take the key that you're doing the chords in D G C whatever
+
+460
+00:27:33,430 --> 00:27:35,050
+and the key that you're going to,
+
+461
+00:27:35,050 --> 00:27:36,970
+you want to use those chords in,
+
+462
+00:27:37,270 --> 00:27:39,130
+let's say I wanted to use the Eb,
+
+463
+00:27:40,030 --> 00:27:41,620
+okay, and I'm starting on a D,
+
+464
+00:27:42,100 --> 00:27:46,690
+I count up one, the distance between D and Eb is one half step,
+
+465
+00:27:46,690 --> 00:27:48,460
+which is one frets worth on the guitar,
+
+466
+00:27:48,550 --> 00:27:50,710
+so I put it at the first fret,
+
+467
+00:27:51,230 --> 00:27:53,270
+If I were going from D to F,
+
+468
+00:27:53,540 --> 00:27:54,740
+you have to count half steps,
+
+469
+00:27:55,040 --> 00:27:59,200
+D to Eb, Eb to E, E to F,
+
+470
+00:27:59,260 --> 00:28:00,490
+that's three steps,
+
+471
+00:28:00,820 --> 00:28:04,030
+so I would put it at the third fret, one two three.
+
+472
+00:28:04,690 --> 00:28:12,910
+Okay, then I wanna talk about is harmonics,
+
+473
+00:28:13,060 --> 00:28:14,200
+well, what are harmonics,
+
+474
+00:28:14,200 --> 00:28:15,850
+well, there's a couple of things,
+
+475
+00:28:16,330 --> 00:28:20,650
+when I play stuff like,
+
+476
+00:28:22,120 --> 00:28:22,510
+sorry.
+
+477
+00:28:27,200 --> 00:28:28,310
+This is a string,
+
+478
+00:28:29,020 --> 00:28:33,070
+the exact midway point of that string is at the twelfth fret,
+
+479
+00:28:36,330 --> 00:28:39,120
+if I just barely touch that twelfth fret,
+
+480
+00:28:39,690 --> 00:28:44,670
+not fret it, just barely touch exactly over the fret,
+
+481
+00:28:45,480 --> 00:28:48,300
+not behind the fret, like we have been doing, when we've actually figured that,
+
+482
+00:28:48,300 --> 00:28:51,720
+if I just barely touched over the fret,
+
+483
+00:28:53,700 --> 00:28:55,110
+can get this bell like sound,
+
+484
+00:28:55,110 --> 00:28:57,090
+which is the exact midway point of the string
+
+485
+00:28:57,630 --> 00:29:01,710
+in physical sciences called a node, in music, it's called a harmonic.
+
+486
+00:29:05,310 --> 00:29:06,600
+There's one at the twelfth fret,
+
+487
+00:29:06,960 --> 00:29:07,860
+now it doesn't work,
+
+488
+00:29:07,860 --> 00:29:10,350
+if I'm at the eleventh fret, doesn't work,
+
+489
+00:29:10,770 --> 00:29:12,690
+thirteen fret, doesn't work,
+
+490
+00:29:13,050 --> 00:29:16,170
+it's very precise, twelve fret, where you get them.
+
+491
+00:29:17,490 --> 00:29:18,930
+I can also get at the seventh fret,
+
+492
+00:29:19,050 --> 00:29:22,200
+I can also get at the fifth fret,
+
+493
+00:29:23,730 --> 00:29:26,220
+after that it gets pretty hard to get them.
+
+494
+00:29:26,370 --> 00:29:28,830
+So the ones that you mainly use this one is the strongest,
+
+495
+00:29:28,830 --> 00:29:30,990
+this is the next strongest,
+
+496
+00:29:31,440 --> 00:29:36,710
+this one is the next strongest, next weak, excuse me.
+
+497
+00:29:36,740 --> 00:29:38,900
+Sometimes I can incorporate that into my playing,
+
+498
+00:29:38,900 --> 00:29:41,420
+if I'm playing let's see a G chord,
+
+499
+00:29:41,450 --> 00:29:46,490
+that has open D, open G, open B,
+
+500
+00:29:46,490 --> 00:29:47,870
+I can hit that right there,
+
+501
+00:29:49,120 --> 00:29:51,160
+that would be a D triad,
+
+502
+00:29:52,180 --> 00:29:53,170
+that would be a G triad,
+
+503
+00:29:53,290 --> 00:29:55,270
+that harmonics at work.
+
+504
+00:29:55,390 --> 00:29:56,920
+I also with a little bit of effort
+
+505
+00:29:57,040 --> 00:29:59,680
+can do what's called false harmonics,
+
+506
+00:30:00,010 --> 00:30:02,110
+okay, so let's say I do a barre chord,
+
+507
+00:30:04,730 --> 00:30:08,270
+well, if I just play an octave up from each of these strings,
+
+508
+00:30:08,390 --> 00:30:09,710
+I can get another harmonic,
+
+509
+00:30:10,460 --> 00:30:12,230
+with using my first finger,
+
+510
+00:30:12,500 --> 00:30:14,150
+I'm gonna pluck with my thumb,
+
+511
+00:30:14,740 --> 00:30:17,380
+and barely touch the string with my first finger
+
+512
+00:30:17,830 --> 00:30:20,560
+exactly an octave up from where I'm fingering,
+
+513
+00:30:20,560 --> 00:30:22,120
+so if my barre is here,
+
+514
+00:30:22,590 --> 00:30:23,580
+on this F,
+
+515
+00:30:23,850 --> 00:30:25,650
+then I go up to this F here,
+
+516
+00:30:26,130 --> 00:30:27,510
+barely touch it and pluck it
+
+517
+00:30:27,540 --> 00:30:29,340
+and I get the harmonic,
+
+518
+00:30:31,020 --> 00:30:33,150
+then, if I just kind of outline the chord,
+
+519
+00:30:33,480 --> 00:30:39,040
+C F A C F,
+
+520
+00:30:39,070 --> 00:30:41,110
+I have to kind of outline the chord,
+
+521
+00:30:43,270 --> 00:30:46,960
+I can get some false harmonics here,
+
+522
+00:30:46,990 --> 00:30:48,250
+I can do melodies with them,
+
+523
+00:30:51,280 --> 00:30:59,560
+I think if I play.
+
+524
+00:31:00,030 --> 00:31:07,200
+Okay, if I wanted to do let's say a little scale,
+
+525
+00:31:07,230 --> 00:31:12,270
+okay, I'm doing this false harmonic,
+
+526
+00:31:12,510 --> 00:31:15,870
+I'm pulling off this note right there.
+
+527
+00:31:16,950 --> 00:31:30,390
+So I'm combining a whole bunch of different things,
+
+528
+00:31:32,490 --> 00:31:34,890
+you just have to be real accurate where those harmonics are at,
+
+529
+00:31:35,130 --> 00:31:38,370
+anyway, those are some different techniques that you can use,
+
+530
+00:31:38,460 --> 00:31:40,980
+when playing to throw some little spice into your playing.
+
+531
+00:31:43,120 --> 00:31:45,340
+Let's talk about our assignment for this this week,
+
+532
+00:31:46,120 --> 00:31:48,310
+your assignment for this session is
+
+533
+00:31:48,310 --> 00:31:51,130
+I want you to practice the bending exercises that we have in your book,
+
+534
+00:31:51,430 --> 00:31:54,190
+practice bending controlled into a pitch,
+
+535
+00:31:54,400 --> 00:31:55,690
+remember Larry Carlton's thing,
+
+536
+00:31:55,690 --> 00:31:58,210
+we don't just bend up, we bend to a pitch,
+
+537
+00:31:58,420 --> 00:32:00,190
+use that major scale exercise
+
+538
+00:32:00,190 --> 00:32:01,750
+to help you get some strength in your hand
+
+539
+00:32:01,750 --> 00:32:05,250
+to do those bends on that major scale.
+
+540
+00:32:05,520 --> 00:32:09,660
+Next thing in what you do is the slide riff exercise, that we talked about,
+
+541
+00:32:09,930 --> 00:32:11,280
+do it on the sixth string,
+
+542
+00:32:11,730 --> 00:32:15,810
+okay, on the fifth string,
+
+543
+00:32:17,790 --> 00:32:20,010
+practicing in different keys and different places on the neck,
+
+544
+00:32:20,010 --> 00:32:22,770
+you can incorporate that into your toolkit of playing,
+
+545
+00:32:23,100 --> 00:32:25,140
+okay, whip those out, when you need to do a solo.
+
+546
+00:32:25,730 --> 00:32:28,340
+Practice doing your pentatonic scales
+
+547
+00:32:28,340 --> 00:32:29,930
+using the palm muting that we talked about,
+
+548
+00:32:32,150 --> 00:32:34,310
+[] for a good clear tone,
+
+549
+00:32:34,670 --> 00:32:37,580
+also work on those jazz octaves,
+
+550
+00:32:37,610 --> 00:32:44,180
+I give up my pick, my thumb,
+
+551
+00:32:44,300 --> 00:32:49,220
+back my third finger, slides,
+
+552
+00:32:49,250 --> 00:32:52,530
+all these little things make your playing interesting and unique.
+
+553
+00:32:52,740 --> 00:33:00,390
+So, we'll go ahead and see you next time.
+
+554
+00:33:02,770 --> 00:33:05,980
+Okay, first thing we're gonna do in our workshop today is bends,
+
+555
+00:33:06,250 --> 00:33:08,830
+remember our good proper technique for bends,
+
+556
+00:33:09,010 --> 00:33:10,150
+if I want to bend up,
+
+557
+00:33:10,180 --> 00:33:12,610
+I can use these other fingers behind this,
+
+558
+00:33:12,610 --> 00:33:15,580
+third finger, fourth finger to help that string get up.
+
+559
+00:33:15,700 --> 00:33:17,350
+Okay, in order to strengthen that finger,
+
+560
+00:33:17,380 --> 00:33:18,940
+we're going to do a simple exercise,
+
+561
+00:33:18,940 --> 00:33:22,930
+we're going to go from the D to an E, bend up to an Eb, just a half step.
+
+562
+00:33:23,660 --> 00:33:26,510
+Okay, nice and slow, ready go,
+
+563
+00:33:26,960 --> 00:33:29,360
+D Eb,
+
+564
+00:33:30,420 --> 00:33:32,970
+D Eb,
+
+565
+00:33:34,280 --> 00:33:36,680
+D Eb,
+
+566
+00:33:37,560 --> 00:33:40,110
+D Eb.
+
+567
+00:33:40,440 --> 00:33:42,360
+Now let's go up to a D to an E,
+
+568
+00:33:42,360 --> 00:33:43,500
+we're gonna bend it up a whole step,
+
+569
+00:33:45,510 --> 00:33:46,050
+D E,
+
+570
+00:33:47,300 --> 00:33:49,580
+D E,
+
+571
+00:33:50,700 --> 00:33:53,020
+D E,
+
+572
+00:33:54,350 --> 00:33:56,650
+D E.
+
+573
+00:33:58,030 --> 00:33:59,440
+Now let's do it with our fourth finger,
+
+574
+00:33:59,440 --> 00:34:00,730
+so let's go to this G here,
+
+575
+00:34:01,400 --> 00:34:04,730
+we're going to take him up a half step and then a whole step,
+
+576
+00:34:05,120 --> 00:34:06,080
+half step first,
+
+577
+00:34:06,470 --> 00:34:08,360
+ready go, G,
+
+578
+00:34:19,250 --> 00:34:19,940
+let's do a whole step,
+
+579
+00:34:23,060 --> 00:34:28,160
+remember your pitch that you're going for.
+
+580
+00:34:33,850 --> 00:34:37,690
+Okay, practice those in different keys and different places on the neck,
+
+581
+00:34:37,870 --> 00:34:39,340
+let's do another place,
+
+582
+00:34:39,370 --> 00:34:42,760
+let's do it, let's begin from this G,
+
+583
+00:34:44,400 --> 00:34:46,680
+up to a half step and then a whole step up to A,
+
+584
+00:34:46,710 --> 00:34:49,320
+so we go to to an Ab first
+
+585
+00:34:49,320 --> 00:34:51,780
+or this F, go F to F#,
+
+586
+00:34:52,050 --> 00:34:54,210
+ready, go,
+
+587
+00:35:02,810 --> 00:35:05,780
+whole step, F to G.
+
+588
+00:35:12,340 --> 00:35:18,550
+Remember a major scale exercise, C D E F G A B C,
+
+589
+00:35:18,580 --> 00:35:19,330
+let's practice it,
+
+590
+00:35:19,570 --> 00:35:20,710
+ready go,
+
+591
+00:35:21,070 --> 00:35:25,600
+C D up to E,
+
+592
+00:35:31,070 --> 00:35:33,050
+let's go back down,
+
+593
+00:35:33,080 --> 00:35:34,970
+C and after the B,
+
+594
+00:35:36,370 --> 00:35:44,350
+A G F E D C,
+
+595
+00:35:47,080 --> 00:35:48,250
+do it again.
+
+596
+00:35:59,360 --> 00:36:08,690
+Do it in another place,
+
+597
+00:36:08,690 --> 00:36:09,680
+let's do it on F,
+
+598
+00:36:10,340 --> 00:36:15,830
+okay, here's an F, ready, go,
+
+599
+00:36:28,830 --> 00:36:31,110
+don't let yourself be sloppy with all this,
+
+600
+00:36:31,350 --> 00:36:34,290
+do quarter notes.
+
+601
+00:36:42,520 --> 00:36:48,250
+Great, let's talk about hammer-ons and pull-offs,
+
+602
+00:36:48,460 --> 00:36:51,730
+remember good technique for those when you're hammer-on these notes,
+
+603
+00:36:52,060 --> 00:36:56,470
+really whack that fourth finger, third finger, second finger,
+
+604
+00:36:56,470 --> 00:36:58,000
+you've got to hit it hard on there,
+
+605
+00:36:58,060 --> 00:36:59,890
+so this first finger has to be stable
+
+606
+00:37:00,100 --> 00:37:02,920
+and then you're really hitting that second finger down,
+
+607
+00:37:03,100 --> 00:37:05,110
+let's do some hammer-on exercises.
+
+608
+00:37:06,240 --> 00:37:13,650
+Okay, we're gonna go, from the, on the fifth position, fifth fret,
+
+609
+00:37:13,650 --> 00:37:15,270
+we go for our first or second finger,
+
+610
+00:37:15,270 --> 00:37:18,180
+practice that first.
+
+611
+00:37:27,800 --> 00:37:30,080
+Let's practice going from one to three,
+
+612
+00:37:30,110 --> 00:37:32,480
+let's go for maybe the C to the D here,
+
+613
+00:37:33,290 --> 00:37:36,950
+ready, go,
+
+614
+00:37:37,280 --> 00:37:41,270
+good clear notes,
+
+615
+00:37:46,150 --> 00:37:47,680
+let's go from one to four,
+
+616
+00:37:48,160 --> 00:37:50,560
+maybe from this A to the C,
+
+617
+00:37:53,480 --> 00:37:55,160
+really hold it hard.
+
+618
+00:38:02,610 --> 00:38:05,790
+Great, now let's do some pull-off exercises,
+
+619
+00:38:05,850 --> 00:38:07,770
+we're gonna go from four to three,
+
+620
+00:38:08,780 --> 00:38:11,000
+four to two, four to one.
+
+621
+00:38:11,700 --> 00:38:13,410
+Okay, starting on this C,
+
+622
+00:38:13,680 --> 00:38:15,570
+pinky, reddy go,
+
+623
+00:38:17,340 --> 00:38:17,790
+then,
+
+624
+00:38:24,560 --> 00:38:25,370
+one more time,
+
+625
+00:38:29,810 --> 00:38:33,920
+once again,
+
+626
+00:38:36,890 --> 00:38:40,820
+a little bit faster.
+
+627
+00:38:49,330 --> 00:38:54,250
+Great, okay, now let's talk over the tapping exercise,
+
+628
+00:38:54,370 --> 00:38:58,260
+we're starting to E, gonna hammer up to this G,
+
+629
+00:38:58,590 --> 00:39:02,460
+do a little hammer-on pull-off there,
+
+630
+00:39:02,640 --> 00:39:04,890
+then we come up with our first finger hit this A,
+
+631
+00:39:07,630 --> 00:39:08,920
+and pull-off to that E,
+
+632
+00:39:12,000 --> 00:39:13,020
+see how that works,
+
+633
+00:39:13,350 --> 00:39:16,890
+so going slow a little bit.
+
+634
+00:39:18,610 --> 00:39:20,650
+Okay, let's try one more time,
+
+635
+00:39:20,740 --> 00:39:24,430
+ready, go,
+
+636
+00:39:26,220 --> 00:39:31,200
+now let's put a bunch of them together in a row,
+
+637
+00:39:34,380 --> 00:39:36,570
+keep that first finger nice and steady,
+
+638
+00:39:41,550 --> 00:39:55,260
+let's speed it up a bit,
+
+639
+00:39:55,680 --> 00:39:56,580
+see how that works.
+
+640
+00:39:56,760 --> 00:40:00,450
+Okay, next thing we want to cover is our palm muting exercise,
+
+641
+00:40:00,450 --> 00:40:01,500
+remember good technique,
+
+642
+00:40:01,500 --> 00:40:03,420
+for this bring that wrist back,
+
+643
+00:40:04,010 --> 00:40:07,560
+so gently set that palm on top of your bridge,
+
+644
+00:40:07,620 --> 00:40:10,020
+a little bit forward, a little bit in front of it,
+
+645
+00:40:10,020 --> 00:40:11,940
+takes a while to get the sweet spot on it,
+
+646
+00:40:12,060 --> 00:40:13,980
+let's do A minor pentatonic,
+
+647
+00:40:14,220 --> 00:40:17,750
+first form using this palm muting technique,
+
+648
+00:40:18,020 --> 00:40:19,160
+ready, go,
+
+649
+00:40:25,790 --> 00:40:28,400
+let's go back down,
+
+650
+00:40:28,550 --> 00:40:33,470
+good strong picking, when you do it,
+
+651
+00:40:33,770 --> 00:40:34,940
+let's go up to the second form,
+
+652
+00:40:34,940 --> 00:40:36,230
+we haven't done much for the second form,
+
+653
+00:40:36,230 --> 00:40:40,370
+let's do the same thing in the second form,
+
+654
+00:40:50,480 --> 00:41:02,120
+third form.
+
+655
+00:41:03,270 --> 00:41:07,620
+Good, now let's play our A minor [] example for you
+
+656
+00:41:07,770 --> 00:41:12,060
+and you try and incorporate some of that palm muting technique,
+
+657
+00:41:12,060 --> 00:41:13,290
+like Paul Jackson Jr,
+
+658
+00:41:13,290 --> 00:41:16,800
+Paul Jackson Jr, the great guitar players that uses this technique,
+
+659
+00:41:17,010 --> 00:41:20,760
+try and just do a single couple of notes out of the key
+
+660
+00:41:20,970 --> 00:41:23,190
+and see if you can make up a rhythm that works out nicely.
+
+661
+00:41:23,550 --> 00:41:24,690
+Okay, so let's fire it up,
+
+662
+00:41:35,030 --> 00:41:37,850
+you don't need do I'm doing, find your own,
+
+663
+00:41:50,810 --> 00:42:05,870
+I'm doing G A, G A, G A, G A.
+
+664
+00:42:09,910 --> 00:42:11,830
+Great, we're gonna play that example one more time,
+
+665
+00:42:11,950 --> 00:42:13,270
+this time I want you to use
+
+666
+00:42:13,300 --> 00:42:16,330
+some of the Jazz octaves, that we had talked about,
+
+667
+00:42:16,510 --> 00:42:17,950
+really anything you can play,
+
+668
+00:42:17,950 --> 00:42:20,500
+anything in a C major scale in octaves
+
+669
+00:42:20,620 --> 00:42:21,490
+and it's gonna work,
+
+670
+00:42:21,820 --> 00:42:22,600
+let's practice,
+
+671
+00:42:42,370 --> 00:42:44,170
+you try different rhythms.
+
+672
+00:43:08,050 --> 00:43:11,680
+Great, lot of these techniques add so much to your playing,
+
+673
+00:43:12,130 --> 00:43:15,130
+so you want to try and use them as much as you can,
+
+674
+00:43:15,190 --> 00:43:17,740
+play a unique style and a unique voice,
+
+675
+00:43:17,800 --> 00:43:19,570
+keep working at these things,
+
+676
+00:43:19,630 --> 00:43:23,500
+remember winners do what losers are unwilling to do,
+
+677
+00:43:23,860 --> 00:43:27,160
+so you're putting forth the effort to better yourself
+
+678
+00:43:27,160 --> 00:43:28,330
+and better your guitar playing
+
+679
+00:43:28,330 --> 00:43:30,640
+and it's gonna pay off in years to come,
+
+680
+00:43:30,670 --> 00:43:31,600
+when you're playing,
+
+681
+00:43:31,960 --> 00:43:32,650
+we'll see later.
+
