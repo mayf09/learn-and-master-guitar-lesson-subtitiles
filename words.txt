@@ -69,6 +69,17 @@ two chord 二和弦
 # Session 13
 triad 三和弦
 
+# Session 14
+bends 推弦
+slides 滑弦
+hammer-ons 击弦
+pull-offs 勾弦
+palm muting 手掌闷音
+capo 变调夹
+harmonics 泛音
+tapping 点弦
+harmonics 泛音
+
 # Session 15
 power chord 强力和弦
 single coil 单线圈
