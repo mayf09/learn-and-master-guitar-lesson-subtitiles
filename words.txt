@@ -83,3 +83,6 @@ harmonics 泛音
 # Session 15
 power chord 强力和弦
 single coil 单线圈
+
+# Session 19
+chord tone 和弦音
