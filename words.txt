@@ -84,5 +84,10 @@ harmonics 泛音
 power chord 强力和弦
 single coil 单线圈
 
+# Session 17
+fretboard 指板
+triplet 三连音
+dominant 7th 属七和弦
+
 # Session 19
 chord tone 和弦音
