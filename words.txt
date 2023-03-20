@@ -70,3 +70,4 @@ single coil 单线圈
 # Session 17
 fretboard 指板
 triplet 三连音
+dominant 7th 属七和弦
