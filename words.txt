@@ -66,3 +66,7 @@ pentatonic scale 五声音阶
 # Session 15
 power chord 强力和弦
 single coil 单线圈
+
+# Session 16
+acoustic guitar 原声吉他
+accent 重音
