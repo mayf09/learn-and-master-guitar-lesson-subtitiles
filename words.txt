@@ -84,6 +84,10 @@ harmonics 泛音
 power chord 强力和弦
 single coil 单线圈
 
+# Session 16
+acoustic guitar 原声吉他
+accent 重音
+
 # Session 17
 fretboard 指板
 triplet 三连音
