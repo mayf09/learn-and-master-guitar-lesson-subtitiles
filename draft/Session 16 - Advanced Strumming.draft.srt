@@ -1581,7 +1581,7 @@ down, {down,up\,,down\,,down,up},| {just,keep -} doing
 275
 00:09:38,590 --> 00:09:40,900
 0,290 1390,1710 1710,1920 1920,2085 2085,2310
-it, really -} make the most
+it, really make the most
 
 276
 00:09:40,900 --> 00:09:51,640
@@ -3241,17 +3241,19 @@ sort of sound,| with all
 00:19:51,865 --> 00:19:53,370
 0,180 180,405 405,690 690,915 915,1505
 those strings, it's also louder,|
-|处理这些琴弦，体力上也更大一点。
+|
 
 564
 00:19:53,420 --> 00:19:54,535
 0,320 320,640 660,905 905,995 995,1115
 and physically a little bit
+体力上也更大一点，
 
 565
 00:19:54,535 --> 00:19:56,370
 0,240 240,480 480,705 705,1055 1435,1835
-bigger to, to, to, to
+bigger| to, to, to, to
+|来处理这些琴弦，
 
 566
 00:19:56,480 --> 00:19:57,745
@@ -4121,7 +4123,7 @@ strumming,| let's review good strumming
 718
 00:23:49,440 --> 00:23:51,540
 0,610 780,1180
-technique.|
+technique {}.|
 |
 
 719
@@ -4649,7 +4651,7 @@ of good practice on strumming,|
 809
 00:29:28,830 --> 00:29:30,420
 0,350 350,620 620,970
-relax that wrist,
+relax that wrist,|
 放松你的手腕，|
 
 810
