@@ -1,0 +1,2136 @@
+1
+00:00:39,600 --> 00:00:40,780
+Hi, welcome to session 18,
+
+2
+00:00:40,830 --> 00:00:42,610
+in this session, we're gonna talk about Jazz,
+
+3
+00:00:42,660 --> 00:00:43,810
+one of my favorite subjects,
+
+4
+00:00:44,810 --> 00:00:45,780
+how to play Jazz,
+
+5
+00:00:45,980 --> 00:00:47,970
+how to incorporate Jazz into your playing,
+
+6
+00:00:48,140 --> 00:00:50,730
+how to get that warm round Jazz tone,
+
+7
+00:00:51,080 --> 00:00:54,595
+we're also gonna talk about chord melodies, chord melody soloing,
+
+8
+00:00:54,595 --> 00:00:56,730
+I did a little bit of that in the intro there,
+
+9
+00:00:56,840 --> 00:00:59,305
+it's taking a melody and adding chords underneath it
+
+10
+00:00:59,305 --> 00:01:01,470
+to make a more impacting solo,
+
+11
+00:01:01,580 --> 00:01:03,700
+talking about Jazzing up your chord progressions
+
+12
+00:01:03,700 --> 00:01:05,730
+or regular chord progressions using chord tones,
+
+13
+00:01:06,800 --> 00:01:08,935
+and we also learn some popular Jazz forms,
+
+14
+00:01:08,935 --> 00:01:12,900
+like your major seventh chords, your minor seventh chords and your ninth forms.
+
+15
+00:01:13,720 --> 00:01:14,860
+In the how music works section,
+
+16
+00:01:14,860 --> 00:01:17,010
+we're gonna learn about ninth what they are,
+
+17
+00:01:17,390 --> 00:01:20,650
+in music in, in understanding music,
+
+18
+00:01:20,650 --> 00:01:22,950
+what are ninth, what are eleventh, what are thirteenth.
+
+19
+00:01:23,620 --> 00:01:24,505
+What a great topic,
+
+20
+00:01:24,505 --> 00:01:25,435
+we're gonna have a lot of fun today,
+
+21
+00:01:25,435 --> 00:01:26,310
+let's go ahead and get started.
+
+22
+00:01:39,290 --> 00:01:43,045
+Okay, Jazz guitar playing is such a great and creative way
+
+23
+00:01:43,045 --> 00:01:45,280
+to add dimension into your playing,
+
+24
+00:01:45,280 --> 00:01:47,190
+so many different things can happen with Jazz
+
+25
+00:01:47,480 --> 00:01:50,340
+in harmonically with what's going on with the music,
+
+26
+00:01:51,000 --> 00:01:56,360
+rather than going just beyond the normal C G and D, that everybody plays,
+
+27
+00:01:56,650 --> 00:01:57,900
+you throw in some jazz chords,
+
+28
+00:01:57,900 --> 00:01:59,510
+it really adds some dimension you're playing.
+
+29
+00:01:59,920 --> 00:02:01,785
+Now let's talk about some Jazz guitars,
+
+30
+00:02:01,785 --> 00:02:04,670
+I'm playing on a Gibson ES335 right here,
+
+31
+00:02:05,390 --> 00:02:06,370
+very common in guitar,
+
+32
+00:02:06,370 --> 00:02:07,540
+you can do a lot of different styles
+
+33
+00:02:07,540 --> 00:02:09,030
+and it works real good for Jazz,
+
+34
+00:02:09,200 --> 00:02:10,980
+it's got these humbucker pickups,
+
+35
+00:02:11,090 --> 00:02:12,340
+which work real good for Jazz,
+
+36
+00:02:12,340 --> 00:02:14,380
+there's also an ES175,
+
+37
+00:02:14,380 --> 00:02:15,540
+which is a thicker model
+
+38
+00:02:15,950 --> 00:02:18,570
+and that gets a little bit more of a rounder Jazz tone.
+
+39
+00:02:19,320 --> 00:02:21,050
+Okay, let's talk about tone for a minute,
+
+40
+00:02:21,400 --> 00:02:25,310
+what makes a good Jazz sound for guitars,
+
+41
+00:02:25,870 --> 00:02:27,680
+well, you don't want anything too bright,
+
+42
+00:02:27,700 --> 00:02:28,170
+so generally,
+
+43
+00:02:28,170 --> 00:02:28,905
+the first thing I do,
+
+44
+00:02:28,905 --> 00:02:29,840
+if I want to play Jazz,
+
+45
+00:02:30,100 --> 00:02:31,140
+as I go down to the amp
+
+46
+00:02:31,140 --> 00:02:32,990
+and I crank up the base a little bit,
+
+47
+00:02:33,480 --> 00:02:36,910
+I usually bring back, roll off some of those highs a little bit as well,
+
+48
+00:02:37,230 --> 00:02:41,170
+get a little bit more of a warmer, fatter tone.
+
+49
+00:02:41,550 --> 00:02:43,610
+Sometimes I'll go over here to my tone knob
+
+50
+00:02:43,610 --> 00:02:46,300
+and I roll the tone back a little bit as well,
+
+51
+00:02:46,560 --> 00:02:49,750
+that helps in taking a little bit of that edge off the sound,
+
+52
+00:02:49,980 --> 00:02:52,625
+that's part of getting that Jazz tone,
+
+53
+00:02:52,625 --> 00:02:54,005
+it's just taking that edge off the sound,
+
+54
+00:02:54,005 --> 00:02:54,940
+you don't want it harsh,
+
+55
+00:02:54,990 --> 00:02:56,770
+as harsh as it is in rock playing.
+
+56
+00:02:57,250 --> 00:03:00,650
+Okay, so that's, that's some secrets to getting a good Jazz tone.
+
+57
+00:03:00,910 --> 00:03:04,425
+Also, the type of pick is helpful on that,
+
+58
+00:03:04,425 --> 00:03:08,120
+you want something that's kind of fatter and rounder than a normal pick,
+
+59
+00:03:08,200 --> 00:03:09,300
+it's a little bit thicker,
+
+60
+00:03:09,300 --> 00:03:11,510
+its you at least a heavy pick,
+
+61
+00:03:12,210 --> 00:03:14,110
+when you do Jazz stuff,
+
+62
+00:03:14,310 --> 00:03:17,200
+I have, I have another one here that I use a lot as well,
+
+63
+00:03:18,490 --> 00:03:20,810
+you see, it almost has no point on it at all,
+
+64
+00:03:21,220 --> 00:03:24,650
+it's just such a round thick
+
+65
+00:03:24,650 --> 00:03:28,380
+and that's what you need guitar, for Jazz guitar playing.
+
+66
+00:03:28,760 --> 00:03:31,765
+Okay, now let's talk about chord melodies,
+
+67
+00:03:31,765 --> 00:03:35,070
+this is one thing that they use a lot in Jazz chord playing,
+
+68
+00:03:36,680 --> 00:03:38,395
+okay, what do I mean by chord melodies,
+
+69
+00:03:38,395 --> 00:03:39,390
+well, here's the idea,
+
+70
+00:03:39,620 --> 00:03:40,830
+you have your melody,
+
+71
+00:03:41,880 --> 00:03:43,370
+your single note melody up on top,
+
+72
+00:03:43,370 --> 00:03:46,060
+and then I'm going to try and squeeze in all of the chord tones
+
+73
+00:03:46,500 --> 00:03:49,270
+for the appropriate chords underneath that chord melody.
+
+74
+00:03:49,380 --> 00:03:51,100
+Let's look at that first example in your book,
+
+75
+00:03:51,150 --> 00:03:53,350
+the regular melody goes like this.
+
+76
+00:03:58,380 --> 00:04:00,760
+Okay, that would be a good Jazz little lick there,
+
+77
+00:04:00,930 --> 00:04:02,890
+now if I want to put chords underneath it,
+
+78
+00:04:03,850 --> 00:04:05,025
+I kind of go something like this,
+
+79
+00:04:05,025 --> 00:04:05,960
+ready go,
+
+80
+00:04:10,730 --> 00:04:12,535
+now I just added a Cmaj7,
+
+81
+00:04:12,535 --> 00:04:14,280
+we're gonna talk about those forms here in a second,
+
+82
+00:04:14,510 --> 00:04:17,640
+but I added a Cmaj7 and an Emaj7 underneath it
+
+83
+00:04:17,720 --> 00:04:19,500
+to kind of give it a little bit of texture underneath,
+
+84
+00:04:19,520 --> 00:04:20,850
+it makes a little bit more creative.
+
+85
+00:04:21,200 --> 00:04:22,500
+Let's look at that second example,
+
+86
+00:04:23,510 --> 00:04:26,580
+okay, just the normal melody is like this,
+
+87
+00:04:26,600 --> 00:04:27,600
+ready, go,
+
+88
+00:04:32,090 --> 00:04:33,880
+okay, so now throw some chords on it,
+
+89
+00:04:33,880 --> 00:04:34,680
+comes out to be,
+
+90
+00:04:40,120 --> 00:04:40,940
+see how that works,
+
+91
+00:04:40,990 --> 00:04:43,890
+you just want to make sure you're adding chords to the notes
+
+92
+00:04:43,890 --> 00:04:46,670
+and where they appropriately come in the song,
+
+93
+00:04:47,460 --> 00:04:51,020
+and sometimes you have to kind of play around with the fingering of your chord,
+
+94
+00:04:51,130 --> 00:04:54,300
+if your chord like the Cmaj7 usually goes down to this G,
+
+95
+00:04:54,300 --> 00:04:55,760
+but I just needed it down to the E,
+
+96
+00:04:56,200 --> 00:04:57,585
+so I just use it where I need it,
+
+97
+00:04:57,585 --> 00:04:58,500
+I just go down the E,
+
+98
+00:04:58,500 --> 00:04:59,810
+I don't go all the way through the chord.
+
+99
+00:05:00,010 --> 00:05:02,510
+Another thing they do a lot in jazz is they do,
+
+100
+00:05:02,860 --> 00:05:05,480
+West Montgomery was the Jazz guitar player that started,
+
+101
+00:05:05,650 --> 00:05:06,680
+they do octaves,
+
+102
+00:05:07,340 --> 00:05:14,095
+okay, so I just like here,
+
+103
+00:05:14,095 --> 00:05:16,530
+I am at the C at the eighth fret and the fifth fret,
+
+104
+00:05:16,760 --> 00:05:18,600
+I use my first and my pinky there,
+
+105
+00:05:19,890 --> 00:05:21,220
+and I can play with my pick,
+
+106
+00:05:22,170 --> 00:05:24,490
+and again, I'm deadening that inner string there,
+
+107
+00:05:28,200 --> 00:05:30,430
+but when I go down to the fifth and the third string,
+
+108
+00:05:30,810 --> 00:05:32,440
+I've got to go back to one and three
+
+109
+00:05:33,090 --> 00:05:34,700
+and same thing with the sixth and the fourth,
+
+110
+00:05:34,700 --> 00:05:36,040
+I gotta go one and three as well,
+
+111
+00:05:41,400 --> 00:05:42,350
+I can use it with a pick
+
+112
+00:05:42,350 --> 00:05:43,730
+or I can use it with just my thumb,
+
+113
+00:05:43,730 --> 00:05:45,100
+that's how West Montgomery did it,
+
+114
+00:05:54,390 --> 00:05:55,955
+okay, so that's how West Montgomery did it.
+
+115
+00:05:55,955 --> 00:05:58,180
+Let me do those chord melodies that we did it earlier,
+
+116
+00:05:58,380 --> 00:06:00,005
+this time I'm going to use octaves with it,
+
+117
+00:06:00,005 --> 00:06:01,300
+see how it changes the sound.
+
+118
+00:06:01,860 --> 00:06:03,520
+Okay, so let's do the first example again,
+
+119
+00:06:09,000 --> 00:06:09,730
+next example,
+
+120
+00:06:14,280 --> 00:06:16,655
+takes a little practice to get the feel of using those octaves,
+
+121
+00:06:16,655 --> 00:06:17,165
+but once you do,
+
+122
+00:06:17,165 --> 00:06:19,360
+it's a real neat effect, that you can add into your playing.
+
+123
+00:06:19,740 --> 00:06:23,920
+Okay, let me just touch on a couple of very common Jazz chord forms,
+
+124
+00:06:24,210 --> 00:06:25,480
+that we haven't yet hit,
+
+125
+00:06:25,620 --> 00:06:27,140
+we've hit a bunch of open chords,
+
+126
+00:06:27,140 --> 00:06:28,330
+we've hit some barre chords,
+
+127
+00:06:28,620 --> 00:06:30,240
+now let's get on some of these Jazz chords,
+
+128
+00:06:30,240 --> 00:06:32,120
+that involve a little bit more complex harmony,
+
+129
+00:06:32,230 --> 00:06:36,020
+your major sevenths, your minor sevenths, some ninth chords,
+
+130
+00:06:36,160 --> 00:06:38,505
+we'll talk more about what's involved in those ninth chords
+
+131
+00:06:38,505 --> 00:06:40,220
+in our how music works section here in a second.
+
+132
+00:06:40,420 --> 00:06:41,990
+But let me just show you some of those forms,
+
+133
+00:06:42,550 --> 00:06:46,100
+in Jazz, you generally don't want to have open strings,
+
+134
+00:06:46,800 --> 00:06:48,195
+you wanna have movable chords,
+
+135
+00:06:48,195 --> 00:06:49,440
+they don't always have to be barre chords,
+
+136
+00:06:49,440 --> 00:06:51,800
+but they do have to be movable chords,
+
+137
+00:06:52,000 --> 00:06:54,980
+it, it just doesn't get that Jazz sound when you have open strings.
+
+138
+00:06:55,240 --> 00:06:58,250
+Okay, so let's look at some of those main, major seventh forms first,
+
+139
+00:06:58,840 --> 00:07:02,820
+on the sixth string, the form that I use all the time is this for an Fmaj7,
+
+140
+00:07:06,580 --> 00:07:08,360
+again, you're muting that fifth string
+
+141
+00:07:09,040 --> 00:07:12,710
+and I don't play that highest six, first string, excuse me,
+
+142
+00:07:16,190 --> 00:07:18,570
+now if I wanted one based off of a fifth string,
+
+143
+00:07:19,010 --> 00:07:23,790
+I've got this very common Bmaj7 form right there,
+
+144
+00:07:24,440 --> 00:07:25,770
+I use it all the time,
+
+145
+00:07:26,450 --> 00:07:27,610
+anytime you're playing Jazz,
+
+146
+00:07:27,610 --> 00:07:29,160
+that's one of my key chords,
+
+147
+00:07:29,300 --> 00:07:31,470
+another one is switch my fingers around a little bit
+
+148
+00:07:32,750 --> 00:07:34,225
+and I have a Bmaj7 there,
+
+149
+00:07:34,225 --> 00:07:37,870
+remember that diamond is the pivot note of those movable chords,
+
+150
+00:07:37,870 --> 00:07:41,910
+so I can move it up to here to Cmaj7 Dmaj7,
+
+151
+00:07:43,250 --> 00:07:44,670
+okay, look at that,
+
+152
+00:07:44,780 --> 00:07:48,600
+that next form a Dmaj7 still based off the fifth string,
+
+153
+00:07:48,770 --> 00:07:50,700
+this time I'm pivoting off of that pinky though,
+
+154
+00:07:52,670 --> 00:07:55,530
+okay, major, seventh chord.
+
+155
+00:07:56,210 --> 00:08:00,090
+Okay, now there's a couple of them,
+
+156
+00:08:00,200 --> 00:08:03,040
+couple of them that you can base off of the fourth string as well,
+
+157
+00:08:03,040 --> 00:08:04,230
+which I use that quite a bit,
+
+158
+00:08:05,120 --> 00:08:06,730
+this would be like an Emaj7,
+
+159
+00:08:06,730 --> 00:08:09,420
+you got barre all three strings here with your third finger.
+
+160
+00:08:10,760 --> 00:08:13,140
+Okay, next one is a Gmaj7,
+
+161
+00:08:14,330 --> 00:08:17,130
+where is the G in this Gmaj7, right there,
+
+162
+00:08:18,330 --> 00:08:20,950
+and you end up having the seventh pitch up at the top.
+
+163
+00:08:22,190 --> 00:08:24,640
+Okay, so those are what, six different major seventh forms,
+
+164
+00:08:24,640 --> 00:08:27,360
+that's just about all the major seventh forms that I ever use,
+
+165
+00:08:27,650 --> 00:08:28,950
+is in those six forms,
+
+166
+00:08:29,300 --> 00:08:30,625
+so get those underneath your fingers
+
+167
+00:08:30,625 --> 00:08:33,490
+and you'll be able to go a long way in playing Jazz,
+
+168
+00:08:33,490 --> 00:08:35,790
+because they use an awful lot of major seventh chords.
+
+169
+00:08:36,010 --> 00:08:39,650
+Let's take look at, take a look at the next batch, some minor seventh chords,
+
+170
+00:08:39,700 --> 00:08:41,685
+now, we've already found a couple of those,
+
+171
+00:08:41,685 --> 00:08:43,290
+when we were back doing our barre chords,
+
+172
+00:08:43,290 --> 00:08:46,730
+way back in the earlier sessions, probably session seven or so.
+
+173
+00:08:47,280 --> 00:08:50,295
+Okay, so we're going to talk about some different forms that are minor seven forms,
+
+174
+00:08:50,295 --> 00:08:51,950
+let me just go through them real quick,
+
+175
+00:08:53,460 --> 00:08:54,910
+we have an Fm7,
+
+176
+00:08:57,780 --> 00:08:59,890
+that one's a little tough to grab right down here,
+
+177
+00:08:59,940 --> 00:09:01,210
+some guys just do it like this,
+
+178
+00:09:06,540 --> 00:09:08,560
+Fm7, big barre chord,
+
+179
+00:09:12,250 --> 00:09:14,360
+and here's a real common Cm7,
+
+180
+00:09:15,010 --> 00:09:18,020
+right there again, second finger is that C,
+
+181
+00:09:18,190 --> 00:09:20,600
+maybe a little bit of a stretch the first time you tried,
+
+182
+00:09:22,690 --> 00:09:24,050
+but I use that one all the time,
+
+183
+00:09:24,250 --> 00:09:26,840
+and of course, this guy Cm7 there,
+
+184
+00:09:27,010 --> 00:09:30,680
+which you've already been introduced, when we were doing our fifth string barre forms.
+
+185
+00:09:31,180 --> 00:09:34,580
+Okay, so we got major sevenths, we've got minor sevenths,
+
+186
+00:09:34,580 --> 00:09:37,010
+I did on those major sevenths, I did throw down there in your book,
+
+187
+00:09:37,010 --> 00:09:40,540
+you've got some open major seventh chords that you can use in different forms,
+
+188
+00:09:40,620 --> 00:09:41,950
+wouldn't sound as great with Jazz,
+
+189
+00:09:42,300 --> 00:09:45,700
+but you can use them in other styles of playing that you may need to do.
+
+190
+00:09:45,870 --> 00:09:48,550
+I also want to touch on a couple more, ninth chords,
+
+191
+00:09:48,960 --> 00:09:50,480
+okay, here's a good one,
+
+192
+00:09:51,310 --> 00:09:53,990
+based off of the fifth string and pivoting off the fifth string,
+
+193
+00:09:54,100 --> 00:09:57,860
+a C9, where's that C on that second finger,
+
+194
+00:09:58,600 --> 00:09:59,355
+I don't play,
+
+195
+00:09:59,355 --> 00:10:00,720
+It's just the inside four strings,
+
+196
+00:10:00,720 --> 00:10:04,310
+so I don't play the sixth string or the fifth first string,
+
+197
+00:10:05,380 --> 00:10:07,670
+so an Eb9 would be there.
+
+198
+00:10:09,160 --> 00:10:12,680
+Now there's one off of the sixth string, which is an A9,
+
+199
+00:10:13,770 --> 00:10:16,060
+which is a real pretty chord, I use this one a lot too,
+
+200
+00:10:17,400 --> 00:10:19,090
+again, I'm muting that fifth string,
+
+201
+00:10:20,130 --> 00:10:21,190
+so you can't hear him
+
+202
+00:10:21,630 --> 00:10:23,290
+and I don't play the last string,
+
+203
+00:10:23,640 --> 00:10:26,590
+if I did, it would end up changing into a thirteenth chord,
+
+204
+00:10:27,150 --> 00:10:31,810
+but that's an A9, C9, A9
+
+205
+00:10:32,190 --> 00:10:33,970
+and those are just some common forms for that.
+
+206
+00:10:34,080 --> 00:10:36,700
+Okay, now let's talk about Jazzing up your chord progressions,
+
+207
+00:10:36,780 --> 00:10:39,700
+well, one of the easiest thing to do is add color tones,
+
+208
+00:10:40,290 --> 00:10:42,940
+so if I'm, if it's a C chord that I'm looking at,
+
+209
+00:10:43,110 --> 00:10:45,215
+I can always add a color tone,
+
+210
+00:10:45,215 --> 00:10:46,270
+well, what is a color tone,
+
+211
+00:10:46,530 --> 00:10:49,540
+color tones are tones that are added to the chord,
+
+212
+00:10:49,770 --> 00:10:51,280
+still based off of the major scale,
+
+213
+00:10:51,570 --> 00:10:53,920
+so a C triad is C E G,
+
+214
+00:10:54,770 --> 00:10:57,420
+and the major seventh tone that would be that extra B,
+
+215
+00:10:57,590 --> 00:11:01,320
+one of the color tones, would be like your ninth eleventh and thirteenth,
+
+216
+00:11:01,760 --> 00:11:06,800
+now, which would be a D, would be the ninth,
+
+217
+00:11:06,850 --> 00:11:10,520
+so, a Cmaj9 would be C E G B D,
+
+218
+00:11:11,020 --> 00:11:12,645
+one way to jazz up chord progressions is
+
+219
+00:11:12,645 --> 00:11:14,690
+just by throwing extra color tones in there,
+
+220
+00:11:14,710 --> 00:11:16,070
+kind of gives it a sweeter sound,
+
+221
+00:11:16,300 --> 00:11:23,600
+so instead of C and an Am, let's say and a Dm and a G,
+
+222
+00:11:24,940 --> 00:11:26,460
+well, let's say I'm playing jazz,
+
+223
+00:11:26,460 --> 00:11:28,040
+well, maybe I want to do a Cmaj7,
+
+224
+00:11:29,320 --> 00:11:32,270
+maybe I want to do an Am11,
+
+225
+00:11:34,340 --> 00:11:36,120
+maybe a Dm9,
+
+226
+00:11:38,210 --> 00:11:39,930
+maybe a G9,
+
+227
+00:11:41,560 --> 00:11:42,410
+something like that,
+
+228
+00:11:42,790 --> 00:11:44,340
+okay, just gives it a different color.
+
+229
+00:11:44,340 --> 00:11:45,830
+Let's go through a couple of progressions
+
+230
+00:11:46,090 --> 00:11:49,310
+and see what are some other things that we can do to Jazz up our progressions,
+
+231
+00:11:49,600 --> 00:11:50,715
+one of the things that we can do,
+
+232
+00:11:50,715 --> 00:11:51,950
+other than adding color tones,
+
+233
+00:11:52,240 --> 00:11:56,000
+is adding what's called a ii-V progression,
+
+234
+00:11:56,480 --> 00:12:00,940
+ii-V are used a lot in in Jazz harmony all over the place,
+
+235
+00:12:01,320 --> 00:12:02,300
+what do I mean by that,
+
+236
+00:12:02,300 --> 00:12:03,785
+well, remember a couple of sessions back,
+
+237
+00:12:03,785 --> 00:12:06,070
+we talked about the harmonized major scale,
+
+238
+00:12:06,960 --> 00:12:07,720
+let's review,
+
+239
+00:12:08,320 --> 00:12:09,240
+if I'm in C,
+
+240
+00:12:09,470 --> 00:12:12,390
+the first chord is, C major, C E G,
+
+241
+00:12:12,650 --> 00:12:15,205
+the second chord is D F A,
+
+242
+00:12:15,205 --> 00:12:17,370
+and that ends up being a Dm chord,
+
+243
+00:12:17,740 --> 00:12:18,835
+that would be our two chord,
+
+244
+00:12:18,835 --> 00:12:19,950
+it's a minor chord,
+
+245
+00:12:20,210 --> 00:12:21,510
+if we jump up to the fifth,
+
+246
+00:12:22,070 --> 00:12:24,280
+our five chord would be a G B and D,
+
+247
+00:12:24,280 --> 00:12:25,740
+and that's back to a major chord,
+
+248
+00:12:26,210 --> 00:12:27,360
+so in any key,
+
+249
+00:12:28,130 --> 00:12:29,545
+If I want to get to that key,
+
+250
+00:12:29,545 --> 00:12:32,010
+I just throw a two and a five in
+
+251
+00:12:32,480 --> 00:12:34,440
+and it'll get me to whatever key I'm going in.
+
+252
+00:12:34,960 --> 00:12:36,330
+Let's take a look at that first example,
+
+253
+00:12:36,800 --> 00:12:37,885
+you've got two chords there,
+
+254
+00:12:37,885 --> 00:12:40,890
+you've got a Cmaj7 going into an Fmaj7,
+
+255
+00:12:41,180 --> 00:12:42,990
+pretty common progression,
+
+256
+00:12:46,850 --> 00:12:47,880
+Fmaj7,
+
+257
+00:12:52,820 --> 00:12:54,235
+now that's, that's pretty good,
+
+258
+00:12:54,235 --> 00:12:56,100
+but we can, let's see if we can Jazz it up
+
+259
+00:12:56,300 --> 00:12:59,400
+by using the ii-V of the key that we're going to.
+
+260
+00:12:59,860 --> 00:13:02,720
+So the first measure stays the same, Cmaj7,
+
+261
+00:13:03,100 --> 00:13:06,590
+and then, but look, I still have that Fmaj7 in bar three,
+
+262
+00:13:06,670 --> 00:13:09,590
+but in bar two I'm adding the ii and the V,
+
+263
+00:13:10,750 --> 00:13:14,060
+to right before in the key of F, right before that F chord,
+
+264
+00:13:14,660 --> 00:13:15,875
+not the ii V in C,
+
+265
+00:13:15,875 --> 00:13:17,795
+but the ii V of the chord that I'm going to,
+
+266
+00:13:17,795 --> 00:13:19,150
+have the key that I'm going to,
+
+267
+00:13:19,380 --> 00:13:22,000
+which ends up being a Gm and a C7.
+
+268
+00:13:22,440 --> 00:13:24,490
+Let's hear how that changes the sound a little bit,
+
+269
+00:13:25,420 --> 00:13:26,690
+ready go,
+
+270
+00:13:39,040 --> 00:13:40,790
+gave it a whole lot more color there, didn't it,
+
+271
+00:13:40,900 --> 00:13:43,160
+in the next exercise, I just do it again,
+
+272
+00:13:43,360 --> 00:13:44,880
+we have the ii V going into the F
+
+273
+00:13:44,880 --> 00:13:47,390
+and then I throw another ii V, going back into that C,
+
+274
+00:13:47,500 --> 00:13:48,650
+if we're going to repeat it,
+
+275
+00:13:48,760 --> 00:13:50,270
+let's hear how that changes the sound,
+
+276
+00:13:50,890 --> 00:13:52,040
+ready, go,
+
+277
+00:13:54,550 --> 00:13:55,460
+ii V in F,
+
+278
+00:13:58,960 --> 00:14:00,350
+then ii V in C.
+
+279
+00:14:05,650 --> 00:14:08,250
+Now, [] have created a much more interesting chord progression,
+
+280
+00:14:08,250 --> 00:14:09,440
+by just adding ii-V,
+
+281
+00:14:10,120 --> 00:14:12,210
+another good simple rule that you can use is,
+
+282
+00:14:12,210 --> 00:14:13,580
+whenever you have a dominant seventh,
+
+283
+00:14:13,600 --> 00:14:15,045
+this would be like a five chord,
+
+284
+00:14:15,045 --> 00:14:18,880
+a G7, C7 and F7, something like that,
+
+285
+00:14:19,480 --> 00:14:21,955
+you can always play around with that seventh
+
+286
+00:14:21,955 --> 00:14:24,600
+and add a bunch of stuff on that chord,
+
+287
+00:14:24,800 --> 00:14:26,650
+you can add a ninth, you can add eleventh,
+
+288
+00:14:26,650 --> 00:14:29,215
+you can add a flat nine, you can add a sharp nine,
+
+289
+00:14:29,215 --> 00:14:32,640
+you can add all kinds of things to that dominant seventh to give it extra color.
+
+290
+00:14:33,640 --> 00:14:35,540
+Let's take a look at those examples,
+
+291
+00:14:35,620 --> 00:14:37,850
+number four in your sheet,
+
+292
+00:14:38,290 --> 00:14:44,690
+starts with a Cm7 to an F7 to Bbmaj7,
+
+293
+00:14:44,980 --> 00:14:46,700
+let's say that's our base progression,
+
+294
+00:14:46,810 --> 00:14:47,690
+now the next one,
+
+295
+00:14:48,200 --> 00:14:55,580
+I have a Cm7 and then I throw in an F9, and then a Bbmaj7,
+
+296
+00:14:55,810 --> 00:14:58,160
+so I've given it a little bit of color with that F9 there.
+
+297
+00:14:58,870 --> 00:15:00,110
+Let's see what I did in the next one,
+
+298
+00:15:00,220 --> 00:15:02,570
+oh wow, I looked added some color tones,
+
+299
+00:15:02,770 --> 00:15:05,120
+Cm, I turned that into a Cm9,
+
+300
+00:15:06,760 --> 00:15:09,410
+the F7, I threw that all the way up to an F13,
+
+301
+00:15:11,100 --> 00:15:15,460
+the Bbmaj7 I turned him, turned him into a Bbmaj13,
+
+302
+00:15:17,340 --> 00:15:18,605
+and then look what I threw in,
+
+303
+00:15:18,605 --> 00:15:20,350
+I threw in A G augmented,
+
+304
+00:15:20,820 --> 00:15:23,560
+that would be like the V going back into that C,
+
+305
+00:15:25,750 --> 00:15:27,140
+that would be that form.
+
+306
+00:15:27,730 --> 00:15:29,775
+Okay, so a couple new forms for you,
+
+307
+00:15:29,775 --> 00:15:30,390
+but that's great,
+
+308
+00:15:30,390 --> 00:15:31,245
+learn all these forms,
+
+309
+00:15:31,245 --> 00:15:32,870
+write them down, get them underneath your fingers.
+
+310
+00:15:33,100 --> 00:15:34,430
+Let's try that last one again,
+
+311
+00:15:45,340 --> 00:15:47,210
+see how much that changed the tone,
+
+312
+00:15:47,700 --> 00:15:49,540
+of the, of the song that you're trying to do,
+
+313
+00:15:49,830 --> 00:15:52,270
+that's really Jazz chord progressions,
+
+314
+00:15:52,380 --> 00:15:54,820
+and color tones, you can throw some ii-V in,
+
+315
+00:15:55,200 --> 00:15:56,980
+always [] around with that dominant seventh,
+
+316
+00:15:57,210 --> 00:15:58,480
+you can get different colors there.
+
+317
+00:15:58,650 --> 00:16:00,580
+Now let's go on to our how music works section,
+
+318
+00:16:00,750 --> 00:16:04,450
+I want to learn what exactly are those ninth and elevents and thirteenths.
+
+319
+00:16:06,730 --> 00:16:08,310
+In our how music works section today,
+
+320
+00:16:08,310 --> 00:16:12,240
+I wanted to continue on learning how music is built together,
+
+321
+00:16:12,240 --> 00:16:13,560
+how these chords are built together,
+
+322
+00:16:13,560 --> 00:16:14,430
+we're almost through,
+
+323
+00:16:14,430 --> 00:16:18,920
+last time we went over the major seven and dominant sevenths and minor sevenths,
+
+324
+00:16:19,060 --> 00:16:21,180
+now we're just gonna kick that up one more third
+
+325
+00:16:21,180 --> 00:16:23,000
+and we're gonna add ninth,
+
+326
+00:16:23,610 --> 00:16:28,420
+and then another third on top of that is eleventh and thirteenth, thirteenth.
+
+327
+00:16:28,770 --> 00:16:30,760
+Okay, well, let's talk about some confusion right there,
+
+328
+00:16:31,200 --> 00:16:32,830
+don't get lost in all the numbers,
+
+329
+00:16:33,620 --> 00:16:34,270
+there's not,
+
+330
+00:16:34,740 --> 00:16:37,175
+There's ninth, eleventh and thirteenth is what we're talking about,
+
+331
+00:16:37,175 --> 00:16:38,680
+basically, there's the major scale,
+
+332
+00:16:39,030 --> 00:16:41,705
+and then, if you can imagine another major scale right next to it,
+
+333
+00:16:41,705 --> 00:16:43,210
+just like two octaves of a scale,
+
+334
+00:16:43,820 --> 00:16:47,680
+okay, so the ninth would actually be the second scale degree,
+
+335
+00:16:47,760 --> 00:16:49,870
+so if I was in C, the ninth would be a D,
+
+336
+00:16:50,670 --> 00:16:51,470
+see how that works,
+
+337
+00:16:51,470 --> 00:16:54,580
+the eleventh is actually the fourth scale degree, which would be an F,
+
+338
+00:16:55,850 --> 00:17:00,300
+the thirteenth in C would actually be an A, same as the sixth,
+
+339
+00:17:00,350 --> 00:17:03,190
+well, then why bother saying ninth, eleventh and thirteenth at all,
+
+340
+00:17:03,190 --> 00:17:05,880
+won't you just say second and fourth and sixth,
+
+341
+00:17:06,200 --> 00:17:08,875
+well, when I say ninth, eleventh and thirteenth,
+
+342
+00:17:08,875 --> 00:17:13,800
+I am telling you, secret by code, that there's a seventh in there,
+
+343
+00:17:14,450 --> 00:17:22,780
+okay, so a C9 would be a C E G Bb and a D,
+
+344
+00:17:22,830 --> 00:17:24,695
+why, where I get that Bb from,
+
+345
+00:17:24,695 --> 00:17:26,800
+remember our seventh rule from a couple of sessions back,
+
+346
+00:17:27,870 --> 00:17:29,980
+everything, it's always a flatted seventh,
+
+347
+00:17:30,180 --> 00:17:33,730
+unless it says the magic word, major seventh,
+
+348
+00:17:34,440 --> 00:17:36,375
+okay, unless it says the magic word,
+
+349
+00:17:36,375 --> 00:17:39,105
+a C9 did not say have the word major in it,
+
+350
+00:17:39,105 --> 00:17:42,020
+so, it's C E G Bb and D.
+
+351
+00:17:42,910 --> 00:17:44,480
+Okay, see how that works,
+
+352
+00:17:44,530 --> 00:17:48,435
+a C2 would have a C D E and a G,
+
+353
+00:17:48,435 --> 00:17:49,910
+but it wouldn't have that seventh in it,
+
+354
+00:17:49,930 --> 00:17:51,260
+so you see kind of difference,
+
+355
+00:17:51,490 --> 00:17:53,025
+the ninth involves that seventh,
+
+356
+00:17:53,025 --> 00:17:54,050
+that's why it's called that,
+
+357
+00:17:54,310 --> 00:17:55,670
+what would be an F9,
+
+358
+00:17:56,730 --> 00:17:57,880
+think about that at,
+
+359
+00:17:58,290 --> 00:17:59,705
+what would it be, an F9,
+
+360
+00:17:59,705 --> 00:18:00,395
+well, let's figure it out,
+
+361
+00:18:00,395 --> 00:18:05,380
+it'd be an one, three, five, flat at seventh, because it didn't say major, then ninth,
+
+362
+00:18:05,670 --> 00:18:06,575
+so it'd be an F,
+
+363
+00:18:06,575 --> 00:18:10,330
+it would be F A C Eb and G.
+
+364
+00:18:10,960 --> 00:18:12,900
+What about a Dm9,
+
+365
+00:18:13,830 --> 00:18:14,920
+what would that one be,
+
+366
+00:18:15,530 --> 00:18:19,770
+well, be one, flat three, five, flat seven, nine,
+
+367
+00:18:20,640 --> 00:18:23,480
+D F A C and E.
+
+368
+00:18:24,780 --> 00:18:25,545
+Let's do one more,
+
+369
+00:18:25,545 --> 00:18:27,680
+what about a Bbmaj9,
+
+370
+00:18:28,300 --> 00:18:30,540
+well, it'd be one, three, five, seven,
+
+371
+00:18:31,040 --> 00:18:32,665
+it did say the word major in there,
+
+372
+00:18:32,665 --> 00:18:34,500
+so it would be a seven and nine,
+
+373
+00:18:34,520 --> 00:18:38,160
+so in Bb, that would be Bb D F A and then C,
+
+374
+00:18:39,410 --> 00:18:42,090
+that's how ninth chords work and how ninth chords are spelled.
+
+375
+00:18:42,700 --> 00:18:45,355
+If we're to kick it up one more notch,
+
+376
+00:18:45,355 --> 00:18:46,470
+we get into eleventh,
+
+377
+00:18:46,520 --> 00:18:47,845
+a couple of quirky things happen
+
+378
+00:18:47,845 --> 00:18:49,230
+when we add eleventh to it,
+
+379
+00:18:49,280 --> 00:18:51,010
+basically we just go up another third,
+
+380
+00:18:51,010 --> 00:18:55,620
+so a C11 would be a C E G Bb D and now F,
+
+381
+00:18:56,440 --> 00:19:03,750
+now, in theory land, I have that E and that F both in that chord,
+
+382
+00:19:03,750 --> 00:19:06,930
+but in practicality, whenever there's that eleventh in there,
+
+383
+00:19:06,930 --> 00:19:08,060
+I don't include the third,
+
+384
+00:19:08,880 --> 00:19:12,430
+so it would, in practicality, when I'm actually playing it, I omit that third,
+
+385
+00:19:13,090 --> 00:19:16,130
+okay, so it be C G Bb D and F,
+
+386
+00:19:16,900 --> 00:19:17,785
+I just dropped that third,
+
+387
+00:19:17,785 --> 00:19:21,150
+because it would clash with the eleventh,
+
+388
+00:19:21,680 --> 00:19:22,360
+see how that works,
+
+389
+00:19:22,620 --> 00:19:28,150
+in F and F11 would be F C Eb G Bb.
+
+390
+00:19:28,710 --> 00:19:30,650
+Okay, what if I wanted an Fm11,
+
+391
+00:19:30,650 --> 00:19:32,470
+well, then I can still throw that third in there,
+
+392
+00:19:32,760 --> 00:19:34,930
+I don't have that half step clash like I did before,
+
+393
+00:19:35,190 --> 00:19:38,980
+so it becomes F Ab C Eb G Bb.
+
+394
+00:19:39,780 --> 00:19:41,960
+Okay, see how important it is
+
+395
+00:19:41,960 --> 00:19:43,600
+to know your scales, know your keys,
+
+396
+00:19:43,710 --> 00:19:44,915
+be able to spell these chords,
+
+397
+00:19:44,915 --> 00:19:46,420
+when we talk about soloing next section,
+
+398
+00:19:46,860 --> 00:19:50,855
+this is gonna become real key in knowing what notes are in these chord chords
+
+399
+00:19:50,855 --> 00:19:52,210
+as they're coming by on your piece of music.
+
+400
+00:19:52,680 --> 00:19:55,270
+Okay, the last one is thirteenth chords,
+
+401
+00:19:55,410 --> 00:19:57,770
+wow, we have covered so many different types of chords,
+
+402
+00:19:57,770 --> 00:19:58,810
+here's the last one,
+
+403
+00:19:59,360 --> 00:20:01,890
+okay, I just add one more third on top of that,
+
+404
+00:20:02,510 --> 00:20:04,200
+so, a C13,
+
+405
+00:20:04,400 --> 00:20:05,370
+well, let me back up,
+
+406
+00:20:05,660 --> 00:20:10,200
+with the thirteenth, you also again, you omit that eleventh,
+
+407
+00:20:11,120 --> 00:20:12,720
+because it would clash with that third,
+
+408
+00:20:13,540 --> 00:20:14,955
+so if I'm in C,
+
+409
+00:20:14,955 --> 00:20:21,350
+C13 would be C E G Bb D F but I'm going to omit it and then A,
+
+410
+00:20:22,160 --> 00:20:22,870
+see how that works,
+
+411
+00:20:22,870 --> 00:20:26,160
+so, wow you've got seven notes or six notes in that chord,
+
+412
+00:20:26,820 --> 00:20:29,360
+you're got an awful lot of notes that you're trying to keep track of,
+
+413
+00:20:30,150 --> 00:20:31,730
+generally, with the thirteenth chord,
+
+414
+00:20:31,730 --> 00:20:33,425
+just remember it's the sixth scale step,
+
+415
+00:20:33,425 --> 00:20:35,200
+but you do have that flat seventh in there.
+
+416
+00:20:37,450 --> 00:20:39,620
+Okay, let's talk about your assignment for this week,
+
+417
+00:20:40,060 --> 00:20:40,770
+here's your assignment,
+
+418
+00:20:40,770 --> 00:20:44,360
+I want you to practice the new major seventh, minor seventh and ninth forms,
+
+419
+00:20:44,770 --> 00:20:45,950
+get them underneath your fingers,
+
+420
+00:20:46,180 --> 00:20:48,315
+be able to play them in different places on the neck,
+
+421
+00:20:48,315 --> 00:20:52,070
+practice working out a chord melody using the examples in your book,
+
+422
+00:20:52,690 --> 00:20:54,270
+using the chord examples in your book,
+
+423
+00:20:54,270 --> 00:20:57,105
+try adding some of the extra chords that we talked about
+
+424
+00:20:57,105 --> 00:20:59,270
+and try to Jazz up those basic progressions,
+
+425
+00:20:59,980 --> 00:21:03,050
+practice that West Montgomery Jazz octave style,
+
+426
+00:21:03,220 --> 00:21:04,755
+you can get a lot of good mileage out of
+
+427
+00:21:04,755 --> 00:21:06,050
+just playing octaves with that.
+
+428
+00:21:06,160 --> 00:21:09,200
+Don't forget to use those Jam Along CDs for a lot more practice,
+
+429
+00:21:09,520 --> 00:21:10,760
+we'll go ahead and see you next time.
+
+430
+00:21:23,290 --> 00:21:24,680
+Okay, welcome to the workshop time,
+
+431
+00:21:24,970 --> 00:21:28,190
+here's where we get some of these chord forms underneath our fingers,
+
+432
+00:21:28,210 --> 00:21:29,340
+so that we can use them,
+
+433
+00:21:29,340 --> 00:21:30,660
+they'll be in our musical tool belt,
+
+434
+00:21:30,660 --> 00:21:31,395
+and we can whip them out,
+
+435
+00:21:31,395 --> 00:21:32,780
+when it's time to play a jazz song.
+
+436
+00:21:33,260 --> 00:21:35,740
+Okay, first it starts off with the major seventh forms,
+
+437
+00:21:36,000 --> 00:21:37,330
+let's briefly review them,
+
+438
+00:21:37,740 --> 00:21:42,040
+in the sixth string, on the sixth string, we had that Fmaj7,
+
+439
+00:21:43,710 --> 00:21:46,750
+remember, don't play that last string, don't play that fifth string,
+
+440
+00:21:48,160 --> 00:21:50,880
+what if I wanted to play that Fmaj7 in a different place,
+
+441
+00:21:50,880 --> 00:21:52,850
+let's say I wanted to Bbmaj7,
+
+442
+00:21:53,200 --> 00:21:54,020
+where would it be,
+
+443
+00:21:56,990 --> 00:21:58,200
+in that form right there,
+
+444
+00:21:58,980 --> 00:22:00,765
+what if I wanted a Dbmaj7,
+
+445
+00:22:00,765 --> 00:22:01,940
+Where would it be in that form,
+
+446
+00:22:04,260 --> 00:22:04,660
+okay,
+
+447
+00:22:05,690 --> 00:22:07,800
+now remember some of the forms that we had on the fifth,
+
+448
+00:22:08,180 --> 00:22:10,110
+based on the fifth string,
+
+449
+00:22:10,580 --> 00:22:12,030
+this Bmaj7 form,
+
+450
+00:22:12,470 --> 00:22:14,155
+let's jump that around a couple different places,
+
+451
+00:22:14,155 --> 00:22:16,680
+what about an Ebmaj7 in that form,
+
+452
+00:22:21,300 --> 00:22:24,220
+what about Bmaj7,
+
+453
+00:22:27,960 --> 00:22:30,005
+okay, I could use some of these other ones,
+
+454
+00:22:30,005 --> 00:22:31,420
+there's a Bmaj7 there,
+
+455
+00:22:32,490 --> 00:22:34,630
+what about Ebmaj7 in another form,
+
+456
+00:22:36,150 --> 00:22:36,880
+another form,
+
+457
+00:22:38,480 --> 00:22:39,210
+another form,
+
+458
+00:22:40,710 --> 00:22:41,440
+another form,
+
+459
+00:22:42,930 --> 00:22:43,660
+another form,
+
+460
+00:22:44,550 --> 00:22:45,455
+six different forms,
+
+461
+00:22:45,455 --> 00:22:49,360
+we should be able to play that Ebmaj7 in many different places on the neck.
+
+462
+00:22:49,590 --> 00:22:51,200
+Let's go for some minor seventh forms,
+
+463
+00:22:51,200 --> 00:22:52,180
+make sure we got those,
+
+464
+00:22:52,440 --> 00:22:54,340
+okay, what about a Gm7,
+
+465
+00:22:54,540 --> 00:22:56,350
+well, I can do that all kinds of different ways,
+
+466
+00:22:56,700 --> 00:22:57,580
+I can do this one,
+
+467
+00:22:58,740 --> 00:22:59,620
+I can do this one,
+
+468
+00:23:01,540 --> 00:23:02,870
+I can do this one,
+
+469
+00:23:03,970 --> 00:23:04,910
+I can do this one,
+
+470
+00:23:06,400 --> 00:23:08,720
+all kinds of different options depending on where I want to go,
+
+471
+00:23:08,740 --> 00:23:09,690
+if I'm playing up here,
+
+472
+00:23:09,690 --> 00:23:11,180
+I would probably want to grab these up here,
+
+473
+00:23:11,290 --> 00:23:12,345
+if I'm playing down here,
+
+474
+00:23:12,345 --> 00:23:14,870
+there's no sense of me jumping away up here to this Gm7.
+
+475
+00:23:15,380 --> 00:23:17,870
+Okay, what about an Abm7,
+
+476
+00:23:17,870 --> 00:23:18,880
+where would that be,
+
+477
+00:23:19,260 --> 00:23:20,900
+well, I can do that a bunch of different places,
+
+478
+00:23:20,900 --> 00:23:28,480
+here or here, here, or even this one.
+
+479
+00:23:30,270 --> 00:23:32,080
+Great, what about an F9,
+
+480
+00:23:32,520 --> 00:23:33,605
+can you find an F9,
+
+481
+00:23:33,605 --> 00:23:34,630
+remember our ninth form,
+
+482
+00:23:35,610 --> 00:23:37,090
+well, here's our ninth form,
+
+483
+00:23:37,200 --> 00:23:38,980
+and then all I need to do is move it up to F
+
+484
+00:23:40,350 --> 00:23:41,440
+and I've got an F9,
+
+485
+00:23:42,700 --> 00:23:44,190
+or I have my other F form too,
+
+486
+00:23:44,190 --> 00:23:45,320
+I gotta get way up here at the top,
+
+487
+00:23:48,490 --> 00:23:49,820
+F9 up there as well.
+
+488
+00:23:49,990 --> 00:23:51,050
+What about a D9,
+
+489
+00:23:51,610 --> 00:23:54,170
+well, he would be there,
+
+490
+00:23:57,450 --> 00:23:59,170
+or there, if you want to try and do,
+
+491
+00:23:59,490 --> 00:24:00,850
+if you want to try and do it that way.
+
+492
+00:24:01,440 --> 00:24:04,720
+Let's play through some of the Jazz chord exercises that we have in your book,
+
+493
+00:24:04,980 --> 00:24:08,770
+okay, the first one, we're going from a Cmaj7 to an Fmaj7,
+
+494
+00:24:09,280 --> 00:24:11,660
+one, two, ready, go,
+
+495
+00:24:15,580 --> 00:24:16,610
+Fmaj7.
+
+496
+00:24:23,710 --> 00:24:24,770
+Let's do the second one,
+
+497
+00:24:25,090 --> 00:24:26,120
+ready, go,
+
+498
+00:24:27,520 --> 00:24:31,700
+here we add that ii-V, Gm7, C7,
+
+499
+00:24:35,500 --> 00:24:36,740
+do it again a little bit slower.
+
+500
+00:24:50,140 --> 00:24:53,440
+Number three, two, ready play,
+
+501
+00:25:05,580 --> 00:25:06,550
+let's do that again,
+
+502
+00:25:19,650 --> 00:25:21,730
+now if I wanted to just Jazz that up a little bit,
+
+503
+00:25:21,780 --> 00:25:22,930
+I could do something like this,
+
+504
+00:25:46,310 --> 00:25:48,510
+I just added a couple little extra notes in there,
+
+505
+00:25:48,530 --> 00:25:50,250
+use basically the same chord forms,
+
+506
+00:25:50,740 --> 00:25:52,630
+and we were able to get a little bit more mileage out of it,
+
+507
+00:25:52,630 --> 00:25:54,210
+almost making it a chord melody thing.
+
+508
+00:25:54,780 --> 00:25:58,470
+Okay, let's do some of the dominant seventh ones,
+
+509
+00:25:58,470 --> 00:25:59,840
+this would be exercise number four,
+
+510
+00:26:00,460 --> 00:26:01,530
+ready, go,
+
+511
+00:26:11,840 --> 00:26:12,570
+do it again,
+
+512
+00:26:23,780 --> 00:26:24,490
+let's go to the next one,
+
+513
+00:26:24,490 --> 00:26:26,850
+two, ready, go,
+
+514
+00:26:36,800 --> 00:26:37,590
+one more time.
+
+515
+00:26:49,730 --> 00:26:51,010
+Last one is that number six,
+
+516
+00:26:51,010 --> 00:26:54,385
+there we added a bunch of color chords on this color tone,
+
+517
+00:26:54,385 --> 00:26:55,380
+Cm9,
+
+518
+00:26:56,520 --> 00:27:00,860
+F13, or wait a minute, Cm9, we can do it down here, F13,
+
+519
+00:27:02,240 --> 00:27:03,930
+Bbmaj13,
+
+520
+00:27:05,270 --> 00:27:06,210
+G+7,
+
+521
+00:27:07,800 --> 00:27:11,050
+see how that augmented fifth only wants to lean down,
+
+522
+00:27:13,620 --> 00:27:16,950
+to that Cm9,
+
+523
+00:27:17,510 --> 00:27:18,660
+then the F13,
+
+524
+00:27:19,620 --> 00:27:21,260
+I could stay right there if I wanted to.
+
+525
+00:27:22,810 --> 00:27:27,890
+So I'm kind of making a little melody with those highest tones of those different chords,
+
+526
+00:27:27,940 --> 00:27:28,380
+here we go,
+
+527
+00:27:28,380 --> 00:27:29,990
+number six, ready, go,
+
+528
+00:27:40,330 --> 00:27:42,170
+now I can Jazz up the rhythm a little bit,
+
+529
+00:27:50,950 --> 00:27:52,130
+let's see what else we can do,
+
+530
+00:28:00,070 --> 00:28:02,480
+I just kind of made those base notes come down a little bit.
+
+531
+00:28:13,580 --> 00:28:15,990
+Great, you can have a whole lot of fun with Jazz chord forms,
+
+532
+00:28:16,130 --> 00:28:20,070
+and it just adds about probably about ten or fifteen different chords into your repertoire,
+
+533
+00:28:20,240 --> 00:28:22,800
+and it certainly gives you a whole lot more color that you can use.
+
+534
+00:28:23,000 --> 00:28:24,390
+Okay, we'll see you next time.
+
