@@ -1,0 +1,2316 @@
+1
+00:00:30,690 --> 00:00:32,320
+Hi, and welcome to session 20,
+
+2
+00:00:32,970 --> 00:00:36,040
+in this session, we're gonna talk about all the chords you ever needed to know,
+
+3
+00:00:36,900 --> 00:00:39,400
+we've gone over quite a few chords up at this point,
+
+4
+00:00:39,480 --> 00:00:42,770
+but now we're just gonna cover a couple of little gaps that we haven't been able to hit yet.
+
+5
+00:00:42,770 --> 00:00:45,940
+So in this session, we're gonna learn about chords and inversions,
+
+6
+00:00:46,670 --> 00:00:49,975
+chords and there are abbreviations which we haven't gotten into yet,
+
+7
+00:00:49,975 --> 00:00:51,790
+gonna learn about alternate bass chords,
+
+8
+00:00:51,790 --> 00:00:53,430
+like a D with an F# in the bass,
+
+9
+00:00:53,870 --> 00:00:58,015
+we're gonna learn some very cool open sounded E-B kind of drone chord,
+
+10
+00:00:58,015 --> 00:00:59,790
+as soon as I play them, you'll recognize them,
+
+11
+00:01:00,320 --> 00:01:02,630
+we'll learn about diminished chords, augmented chords,
+
+12
+00:01:02,630 --> 00:01:03,880
+they'll give you forms and all of those,
+
+13
+00:01:04,200 --> 00:01:06,500
+as well as building unfamiliar chords,
+
+14
+00:01:06,500 --> 00:01:07,490
+if you don't know what a chord is,
+
+15
+00:01:07,490 --> 00:01:08,620
+we'll teach you how to build it,
+
+16
+00:01:09,410 --> 00:01:12,780
+and resources where you can find out new information on chord forms.
+
+17
+00:01:13,130 --> 00:01:14,310
+In the guitar tips section,
+
+18
+00:01:14,510 --> 00:01:17,670
+we're going to cover practicing, how to effectively practice,
+
+19
+00:01:18,260 --> 00:01:19,500
+the power of warming up,
+
+20
+00:01:20,100 --> 00:01:21,320
+and the key to playing fast,
+
+21
+00:01:22,400 --> 00:01:27,930
+the power of inspiration and perseverance and the keys to being a good musician.
+
+22
+00:01:28,460 --> 00:01:29,335
+So we've got a lot to cover,
+
+23
+00:01:29,335 --> 00:01:30,270
+so let's go ahead and get started.
+
+24
+00:01:30,870 --> 00:01:32,750
+Okay, so let's start talking about chords,
+
+25
+00:01:32,750 --> 00:01:34,415
+and now we've learned a good bit about chords,
+
+26
+00:01:34,415 --> 00:01:36,860
+and here's the last little gasp of chords, that we need to learn,
+
+27
+00:01:36,860 --> 00:01:39,550
+before I set you off and let you loosen the real world.
+
+28
+00:01:40,160 --> 00:01:42,400
+Okay, we've covered barre chords,
+
+29
+00:01:43,170 --> 00:01:47,765
+are Fs, C#m, C#m7,
+
+30
+00:01:47,765 --> 00:01:49,930
+five string, six string barre chords,
+
+31
+00:01:50,040 --> 00:01:55,120
+we've covered major sevens, minor sevens,
+
+32
+00:01:57,720 --> 00:01:59,140
+we've covered ninth chords,
+
+33
+00:02:00,390 --> 00:02:02,770
+a little bit about thirteenth chords as well.
+
+34
+00:02:03,300 --> 00:02:06,710
+Okay, now we're gonna look at a couple of more things about those chords,
+
+35
+00:02:06,710 --> 00:02:11,075
+now remember, a C major triad has the notes C E and G in it,
+
+36
+00:02:11,075 --> 00:02:13,060
+a major triad, there's nothing by the chord.
+
+37
+00:02:13,660 --> 00:02:15,060
+Let's talk about some abbreviations,
+
+38
+00:02:15,080 --> 00:02:16,630
+if you don't see anything by a chord,
+
+39
+00:02:16,630 --> 00:02:19,110
+you just see a C, an F or a G,
+
+40
+00:02:19,250 --> 00:02:21,360
+that's a major triad and you're dealing with there,
+
+41
+00:02:21,410 --> 00:02:23,340
+if it's a C, it'd be a C E G,
+
+42
+00:02:23,480 --> 00:02:24,750
+F, F A C,
+
+43
+00:02:25,400 --> 00:02:29,095
+now, if you're dealing with a minor chord in triads,
+
+44
+00:02:29,095 --> 00:02:31,080
+well, some of the abbreviations you might see would be,
+
+45
+00:02:31,700 --> 00:02:34,570
+like a C with an m [], that would be minor,
+
+46
+00:02:35,710 --> 00:02:37,100
+or Cmin,
+
+47
+00:02:38,090 --> 00:02:39,985
+or maybe even a C with a minus sign,
+
+48
+00:02:39,985 --> 00:02:41,730
+that's kind of a Jazz way of writing it.
+
+49
+00:02:41,930 --> 00:02:44,660
+Okay, augmented chords,
+
+50
+00:02:45,160 --> 00:02:49,310
+sometimes you'll see Caug, aug the abbreviation for that,
+
+51
+00:02:49,570 --> 00:02:51,290
+sometimes you'll see just a plus sign,
+
+52
+00:02:51,700 --> 00:02:54,590
+the plus sign is telling you that that is an augmented chord.
+
+53
+00:02:55,210 --> 00:02:58,920
+Okay, now let's talk about diminished, diminished triads,
+
+54
+00:02:58,920 --> 00:03:02,010
+if I see a little zero up at the top of the chord,
+
+55
+00:03:02,010 --> 00:03:03,680
+kind of a superscript zero up there,
+
+56
+00:03:03,790 --> 00:03:04,890
+that's a diminished,
+
+57
+00:03:04,890 --> 00:03:06,060
+that's what they're trying to tell you,
+
+58
+00:03:06,060 --> 00:03:08,325
+sometimes you'll see it a Cdim,
+
+59
+00:03:08,325 --> 00:03:11,570
+but most often you'll see it with the little zero up at the top.
+
+60
+00:03:12,030 --> 00:03:14,330
+Okay, now when we get into seventh chord,
+
+61
+00:03:14,330 --> 00:03:16,240
+these abbreviations get a little bit trickier,
+
+62
+00:03:16,470 --> 00:03:20,500
+okay, a major seventh can be written Cmaj7,
+
+63
+00:03:21,240 --> 00:03:24,590
+or it can be written with a C with a triangle seventh,
+
+64
+00:03:25,090 --> 00:03:26,820
+that triangle seventh is telling you,
+
+65
+00:03:26,820 --> 00:03:28,550
+that's you're dealing with a major seventh,
+
+66
+00:03:29,140 --> 00:03:32,330
+even if it's a Cmaj9 or Cmaj13 or whatever,
+
+67
+00:03:32,350 --> 00:03:33,810
+if it has that triangle in there,
+
+68
+00:03:33,810 --> 00:03:35,180
+that's equivalent to the word major.
+
+69
+00:03:35,860 --> 00:03:37,650
+Okay, minor seventh,
+
+70
+00:03:37,820 --> 00:03:41,370
+it would be C minor seventh or Cmin7
+
+71
+00:03:41,480 --> 00:03:44,640
+or Cm7 or even C-7,
+
+72
+00:03:44,810 --> 00:03:46,410
+common abbreviations form.
+
+73
+00:03:47,130 --> 00:03:48,550
+For a dominant seventh chord,
+
+74
+00:03:49,020 --> 00:03:50,830
+that would be just a letter name and seven,
+
+75
+00:03:51,030 --> 00:03:53,530
+F7 G7 A7.
+
+76
+00:03:54,000 --> 00:03:55,610
+Okay, for a half diminished,
+
+77
+00:03:55,610 --> 00:03:57,940
+it would be a circle with a slash through it,
+
+78
+00:03:58,080 --> 00:03:59,830
+okay, if diminished is a circle,
+
+79
+00:04:00,300 --> 00:04:03,190
+then half diminished would be a circle with a slash through it.
+
+80
+00:04:03,590 --> 00:04:05,635
+Okay, with ninth, eleventh and thirteenth,
+
+81
+00:04:05,635 --> 00:04:10,890
+you just add whatever number of notes that you need to to get up to that chord.
+
+82
+00:04:11,030 --> 00:04:11,940
+Let's do some examples,
+
+83
+00:04:12,560 --> 00:04:13,920
+what would a C7,
+
+84
+00:04:14,820 --> 00:04:18,010
+and then look, I've got some parentheses there and a b9,
+
+85
+00:04:18,330 --> 00:04:19,520
+so what is that telling you,
+
+86
+00:04:19,520 --> 00:04:20,660
+well, that's telling you,
+
+87
+00:04:20,660 --> 00:04:23,380
+that's a C7 chord, C E G Bb,
+
+88
+00:04:23,580 --> 00:04:24,845
+and they want the ninth in there,
+
+89
+00:04:24,845 --> 00:04:25,940
+but they want it flatted,
+
+90
+00:04:25,940 --> 00:04:27,100
+which would be A Db,
+
+91
+00:04:27,510 --> 00:04:28,990
+that chord would be something like this,
+
+92
+00:04:31,810 --> 00:04:36,800
+you can also do C7 #9, like that.
+
+93
+00:04:37,450 --> 00:04:38,880
+What about that other one I have done there,
+
+94
+00:04:38,880 --> 00:04:39,870
+I was just kind of having some fun,
+
+95
+00:04:39,870 --> 00:04:42,470
+an F-11 with a b5 b9,
+
+96
+00:04:42,730 --> 00:04:44,060
+oh my goodness, what is that,
+
+97
+00:04:44,680 --> 00:04:46,790
+no problem, you just figure it out one step at a time,
+
+98
+00:04:47,260 --> 00:04:49,640
+F-, so it's F Ab C,
+
+99
+00:04:49,810 --> 00:04:51,180
+it doesn't say major seven,
+
+100
+00:04:51,180 --> 00:04:53,385
+so it's an Eb in there,
+
+101
+00:04:53,385 --> 00:04:53,985
+so what do we have,
+
+102
+00:04:53,985 --> 00:04:58,760
+F Ab C Eb and then G and then Bb,
+
+103
+00:04:58,760 --> 00:04:59,890
+okay, that's the eleventh,
+
+104
+00:05:00,180 --> 00:05:01,280
+but look what we have to do,
+
+105
+00:05:01,280 --> 00:05:02,495
+we have to flat that fifth,
+
+106
+00:05:02,495 --> 00:05:04,810
+so instead of the C, it becomes a Cb,
+
+107
+00:05:05,400 --> 00:05:07,360
+instead of the G, it becomes a Gb,
+
+108
+00:05:07,900 --> 00:05:13,800
+so the whole chord written out would be an F Ab Cb Eb Gb and a Bb.
+
+109
+00:05:14,410 --> 00:05:16,490
+Okay, that's a little bit about abbreviations.
+
+110
+00:05:16,720 --> 00:05:18,075
+Let's talk about inversions,
+
+111
+00:05:18,075 --> 00:05:19,490
+this is something you'll see quite often,
+
+112
+00:05:20,410 --> 00:05:23,970
+slash is, you have, you'll have a note and then you'll have a slash and then you'll have another note,
+
+113
+00:05:23,970 --> 00:05:25,670
+well, what in the world are they talking about there,
+
+114
+00:05:25,870 --> 00:05:29,180
+the note that is underneath the slash is the note that's in the bass,
+
+115
+00:05:30,240 --> 00:05:32,000
+okay, so in our first example there,
+
+116
+00:05:32,000 --> 00:05:34,300
+it's a G/B,
+
+117
+00:05:34,950 --> 00:05:35,675
+so that's telling you,
+
+118
+00:05:35,675 --> 00:05:39,190
+they want a G chord, but they want the B as the lowest note,
+
+119
+00:05:39,660 --> 00:05:41,650
+okay, so instead of playing a G chord like this,
+
+120
+00:05:42,750 --> 00:05:44,620
+I'd have to play the B is the lowest note
+
+121
+00:05:46,080 --> 00:05:47,890
+and that would be a G with a B in the bass,
+
+122
+00:05:49,860 --> 00:05:51,190
+or you could do it like this.
+
+123
+00:05:53,750 --> 00:05:56,575
+Okay, next one would be like a D with an F# in the bass,
+
+124
+00:05:56,575 --> 00:05:57,510
+very common chord,
+
+125
+00:05:58,120 --> 00:06:00,660
+it's a D chord, F# is the lowest pitch,
+
+126
+00:06:00,890 --> 00:06:02,290
+so you'd have to put the F# in the bottom,
+
+127
+00:06:02,290 --> 00:06:04,260
+and a common way to do that is something like this.
+
+128
+00:06:08,610 --> 00:06:09,730
+So G with a B in the bass,
+
+129
+00:06:10,860 --> 00:06:12,100
+D with an F# in the bass,
+
+130
+00:06:13,650 --> 00:06:14,710
+would be something like that.
+
+131
+00:06:15,510 --> 00:06:18,070
+Now, sometimes the bass note is not necessarily part of the chord,
+
+132
+00:06:18,480 --> 00:06:20,500
+it's an alternate bass we call in the business,
+
+133
+00:06:20,850 --> 00:06:23,230
+okay, so you'll see like an F chord slash G,
+
+134
+00:06:23,610 --> 00:06:25,720
+well, that's an f chord with A G in the bass,
+
+135
+00:06:26,010 --> 00:06:27,580
+how I would play that is something like this,
+
+136
+00:06:29,090 --> 00:06:32,160
+here's my F chord, and then I added the G into the bass,
+
+137
+00:06:32,870 --> 00:06:36,700
+Okay, and again that diamond is telling you which root that you can use
+
+138
+00:06:36,700 --> 00:06:38,670
+and you can transpose that wherever you want it to.
+
+139
+00:06:39,330 --> 00:06:41,930
+Okay, another one is a D with an E in the bass,
+
+140
+00:06:41,930 --> 00:06:43,420
+let's do this on the fifth string,
+
+141
+00:06:44,980 --> 00:06:46,850
+wait a minute, right here,
+
+142
+00:06:47,320 --> 00:06:50,900
+we have a D triad with an E in the bass,
+
+143
+00:06:52,600 --> 00:06:54,050
+that would be a D with an E in the bass.
+
+144
+00:06:54,800 --> 00:06:57,580
+Here's some inversion chord forms that you may not be familiar with,
+
+145
+00:06:57,690 --> 00:06:58,985
+we already talked about a couple of them,
+
+146
+00:06:58,985 --> 00:07:00,520
+a D with an F# is like this,
+
+147
+00:07:02,400 --> 00:07:05,080
+and E with a G# a little bit of a stretch,
+
+148
+00:07:06,800 --> 00:07:07,620
+it was like that,
+
+149
+00:07:08,730 --> 00:07:13,120
+and open G with a B is like that,
+
+150
+00:07:14,370 --> 00:07:16,780
+what about a C a Bb chord with a C in the bass,
+
+151
+00:07:17,880 --> 00:07:18,920
+that's pretty easy chord,
+
+152
+00:07:18,920 --> 00:07:19,880
+one big barre here,
+
+153
+00:07:19,880 --> 00:07:22,420
+or you can play it up here as well.
+
+154
+00:07:23,150 --> 00:07:26,340
+Okay, now let's talk about some really cool chords,
+
+155
+00:07:26,420 --> 00:07:28,380
+that you can use and incorporate into your playing,
+
+156
+00:07:28,850 --> 00:07:30,325
+I don't have any other way to say it,
+
+157
+00:07:30,325 --> 00:07:32,070
+but they use the E and the B string
+
+158
+00:07:32,210 --> 00:07:34,680
+and they just kind of end up with this cool droning sound,
+
+159
+00:07:35,210 --> 00:07:38,830
+so guitar players can come up with these little tricks like this
+
+160
+00:07:38,830 --> 00:07:42,360
+and you end up with some very colorful chords without having to think too hard,
+
+161
+00:07:42,710 --> 00:07:45,960
+and you can use your fingers and patterns to come up with really cool chords,
+
+162
+00:07:46,460 --> 00:07:47,820
+this would be like an E5,
+
+163
+00:07:47,960 --> 00:07:49,890
+now if I take the same form
+
+164
+00:07:50,630 --> 00:07:52,440
+and I move it down to let's say C,
+
+165
+00:07:54,230 --> 00:07:56,280
+I end up with a Cmaj7,
+
+166
+00:07:56,450 --> 00:07:58,170
+if I counted all those notes up together,
+
+167
+00:07:58,640 --> 00:08:00,570
+okay, if I did it in D,
+
+168
+00:08:02,160 --> 00:08:03,950
+I end up with a D6/9,
+
+169
+00:08:05,010 --> 00:08:06,545
+now that may sound a little complex for you,
+
+170
+00:08:06,545 --> 00:08:07,295
+let me play it for you,
+
+171
+00:08:07,295 --> 00:08:09,400
+let me put a little [], little delay,
+
+172
+00:08:23,820 --> 00:08:26,320
+very common little progression that a lot of guitar players use,
+
+173
+00:08:26,610 --> 00:08:30,610
+if I take that similar pattern and run it all the way through,
+
+174
+00:08:30,840 --> 00:08:35,500
+I end up with an A2, a Bsus,
+
+175
+00:08:36,330 --> 00:08:41,620
+we already talked about a Cmaj7, D6/9, E5,
+
+176
+00:08:42,330 --> 00:08:45,365
+the last one would be maybe an F#sus right there,
+
+177
+00:08:45,365 --> 00:08:46,480
+that one doesn't sound too good.
+
+178
+00:08:47,230 --> 00:08:48,740
+Okay, so some of them work better than others.
+
+179
+00:09:00,490 --> 00:09:03,320
+Okay, now let's go through these F#m11 based ones,
+
+180
+00:09:03,550 --> 00:09:05,930
+okay, so F#m11 we learned is here,
+
+181
+00:09:08,020 --> 00:09:09,890
+okay, if I take this up a couple steps,
+
+182
+00:09:11,200 --> 00:09:13,790
+I end up with maybe an E2 with a G# in the bass,
+
+183
+00:09:15,130 --> 00:09:16,010
+I go up one more,
+
+184
+00:09:16,870 --> 00:09:19,220
+I end up with this really hip Am11 chord,
+
+185
+00:09:20,300 --> 00:09:24,630
+then we have a, maybe a Bmsus,
+
+186
+00:09:25,870 --> 00:09:28,395
+okay, C doesn't sound too good,
+
+187
+00:09:28,395 --> 00:09:29,660
+so we skip that and go to C#
+
+188
+00:09:31,870 --> 00:09:32,870
+and then Dm
+
+189
+00:09:34,210 --> 00:09:35,090
+and maybe Em,
+
+190
+00:09:36,670 --> 00:09:39,050
+so you can get a lot of good mileage out of chords like that.
+
+191
+00:09:53,890 --> 00:09:55,940
+Really gives you playing some character and some depth
+
+192
+00:09:56,200 --> 00:09:58,095
+and you don't need to understand all the theory behind it,
+
+193
+00:09:58,095 --> 00:09:59,030
+even though I hope you do,
+
+194
+00:09:59,260 --> 00:10:02,180
+you can just use those patterns to come up with some really hip chords.
+
+195
+00:10:02,350 --> 00:10:04,500
+Okay, two more forms we haven't touched on yet,
+
+196
+00:10:04,500 --> 00:10:05,270
+that you're gonna see,
+
+197
+00:10:05,530 --> 00:10:06,980
+one of them is a diminished chord,
+
+198
+00:10:07,240 --> 00:10:09,830
+okay, let me give you the six string form that I use all the time,
+
+199
+00:10:09,940 --> 00:10:11,300
+this would be like a G diminished,
+
+200
+00:10:13,760 --> 00:10:15,390
+you got a barre here on this first string,
+
+201
+00:10:15,800 --> 00:10:17,820
+second finger up here, third finger down there,
+
+202
+00:10:18,680 --> 00:10:20,220
+I'm muting that fifth string,
+
+203
+00:10:21,700 --> 00:10:24,770
+okay, if I want a five string version of, a fifth string version of it,
+
+204
+00:10:25,330 --> 00:10:26,840
+this would be like A C diminished,
+
+205
+00:10:28,090 --> 00:10:30,530
+okay, inside four strings only,
+
+206
+00:10:31,420 --> 00:10:33,380
+if I want the fourth string version of it,
+
+207
+00:10:35,740 --> 00:10:36,890
+E diminished like that
+
+208
+00:10:37,270 --> 00:10:39,440
+Now here's a great thing you can do with diminished chords,
+
+209
+00:10:39,490 --> 00:10:42,770
+diminished chords involve the same relationship between the notes,
+
+210
+00:10:43,610 --> 00:10:48,280
+C Eb and Gb and an A or Bbb
+
+211
+00:10:48,280 --> 00:10:50,140
+are all the same distance from each other,
+
+212
+00:10:50,140 --> 00:10:51,990
+so it allows you to do some pretty cool things on guitar,
+
+213
+00:10:52,580 --> 00:10:54,330
+if the cord is like a G diminished,
+
+214
+00:10:54,470 --> 00:10:55,590
+I could do something like this,
+
+215
+00:11:06,720 --> 00:11:08,000
+I can just keep building on those,
+
+216
+00:11:08,000 --> 00:11:11,260
+who can get a lot of good mileage out of your diminished towards using them that way,
+
+217
+00:11:11,740 --> 00:11:13,140
+you can also substitute them for,
+
+218
+00:11:13,140 --> 00:11:15,800
+like a dominant seventh with a b9,
+
+219
+00:11:16,560 --> 00:11:18,375
+okay, so if I have a C7(b9),
+
+220
+00:11:18,375 --> 00:11:20,700
+I can substitute an E diminished in there,
+
+221
+00:11:20,700 --> 00:11:22,130
+and that's just another little trick for you,
+
+222
+00:11:22,270 --> 00:11:23,510
+you can grab that if you want to.
+
+223
+00:11:24,170 --> 00:11:28,050
+Augmented chords, okay, involve raising that fifth up,
+
+224
+00:11:30,360 --> 00:11:32,620
+six string version that I use this like here,
+
+225
+00:11:35,520 --> 00:11:37,780
+fifth string version would be something like this.
+
+226
+00:11:42,250 --> 00:11:44,120
+Those are just some common forms that we use.
+
+227
+00:11:44,290 --> 00:11:45,570
+Folks come to me all the time
+
+228
+00:11:45,570 --> 00:11:47,570
+and they think, wow, you know, [] different forms,
+
+229
+00:11:48,070 --> 00:11:49,700
+well, I really don't know all that many,
+
+230
+00:11:50,020 --> 00:11:53,115
+I have what I have shown to you over these last twenty sessions
+
+231
+00:11:53,115 --> 00:11:56,360
+is a good eighty, ninety percent of the chords I'll ever use,
+
+232
+00:11:56,710 --> 00:11:57,900
+I wish when I was growing up,
+
+233
+00:11:57,900 --> 00:11:59,330
+somebody would show it, would have shown me,
+
+234
+00:11:59,620 --> 00:12:03,350
+here's all the chords that I use in my guitar playing lifetime or the majority of them
+
+235
+00:12:03,430 --> 00:12:04,380
+and I could grab them.
+
+236
+00:12:04,380 --> 00:12:06,680
+So yes, there is a few, but write them down in a notebook,
+
+237
+00:12:07,020 --> 00:12:08,810
+and learn them have underneath your fingers,
+
+238
+00:12:08,830 --> 00:12:11,300
+that's one of the things that's been a constant advantage for me,
+
+239
+00:12:11,470 --> 00:12:13,760
+just knowing a few more chords than the guy sitting next to me.
+
+240
+00:12:14,330 --> 00:12:18,490
+Okay, and it doesn't take many before folks think you're a guitar chord genius,
+
+241
+00:12:18,490 --> 00:12:20,395
+just you know all that means is,
+
+242
+00:12:20,395 --> 00:12:22,350
+you know, two more chords than a guy sitting next to you.
+
+243
+00:12:22,800 --> 00:12:23,120
+Okay.
+
+244
+00:12:24,590 --> 00:12:25,290
+When in doubt,
+
+245
+00:12:25,610 --> 00:12:26,820
+you don't know what the chord is,
+
+246
+00:12:27,380 --> 00:12:30,600
+build it, that's why we've done all this chord spelling exercises.
+
+247
+00:12:31,450 --> 00:12:33,300
+Okay, a chord is just a combination of notes,
+
+248
+00:12:33,300 --> 00:12:35,630
+all you have to do is get those three or four notes together
+
+249
+00:12:35,860 --> 00:12:36,800
+and you have a chord,
+
+250
+00:12:37,120 --> 00:12:41,660
+or you can also go into your Mel Bay's Guitar Bible big chord dictionary,
+
+251
+00:12:42,160 --> 00:12:43,485
+those are mildly helpful,
+
+252
+00:12:43,485 --> 00:12:46,815
+a lot of times, it's just the same twenty chords done in in a bunch of different keys
+
+253
+00:12:46,815 --> 00:12:48,150
+and they make a big, real thick book
+
+254
+00:12:48,150 --> 00:12:49,670
+and make you pay a bunch of money for them,
+
+255
+00:12:50,180 --> 00:12:52,180
+but sometimes if you need a quick chord fast,
+
+256
+00:12:52,180 --> 00:12:52,945
+you can look it up there,
+
+257
+00:12:52,945 --> 00:12:54,930
+you can always go online and look up chords as well.
+
+258
+00:12:57,540 --> 00:13:02,810
+Okay, now one more thing I want to talk about in our guitar tip section here is practicing,
+
+259
+00:13:02,810 --> 00:13:04,960
+practicing is something you're gonna be doing all of your life,
+
+260
+00:13:05,660 --> 00:13:08,855
+and it's something that we can practice in a smart way,
+
+261
+00:13:08,855 --> 00:13:11,200
+or we can just noodle around and waste a bunch of time,
+
+262
+00:13:12,010 --> 00:13:13,770
+and never get what we want to get done,
+
+263
+00:13:13,770 --> 00:13:14,690
+you always want to practice,
+
+264
+00:13:14,770 --> 00:13:15,920
+here's some practice keys,
+
+265
+00:13:16,060 --> 00:13:17,750
+practice with a purpose in mind,
+
+266
+00:13:18,470 --> 00:13:20,740
+practice, I I play guitar for a living,
+
+267
+00:13:20,740 --> 00:13:21,810
+when I have to practice something,
+
+268
+00:13:22,070 --> 00:13:24,325
+I practice it to learn that one particular part,
+
+269
+00:13:24,325 --> 00:13:26,910
+I don't go through the whole song versus choruses,
+
+270
+00:13:27,020 --> 00:13:29,250
+all that sort of stuff to get to that tricky guitar part,
+
+271
+00:13:29,820 --> 00:13:30,870
+that's not what helps me,
+
+272
+00:13:30,870 --> 00:13:33,170
+I go right to the tricky guitar part that I need to figure out
+
+273
+00:13:33,370 --> 00:13:34,515
+and I practice it,
+
+274
+00:13:34,515 --> 00:13:35,420
+you go slow,
+
+275
+00:13:35,650 --> 00:13:36,830
+how slow do you need to go,
+
+276
+00:13:36,850 --> 00:13:38,900
+you need to go as slow as you possibly can,
+
+277
+00:13:39,620 --> 00:13:40,330
+to get it right
+
+278
+00:13:40,330 --> 00:13:42,300
+and then slowly increase your speed,
+
+279
+00:13:42,350 --> 00:13:43,950
+so the first thing of practicing,
+
+280
+00:13:44,890 --> 00:13:47,480
+is go slow in practice with a purpose.
+
+281
+00:13:48,100 --> 00:13:49,280
+Next thing you want to do is
+
+282
+00:13:49,300 --> 00:13:51,140
+always practice a little bit each day,
+
+283
+00:13:51,720 --> 00:13:55,665
+guitar playing is not like some other hobbies or crafts,
+
+284
+00:13:55,665 --> 00:13:56,910
+it's something that you have to keep up,
+
+285
+00:13:56,910 --> 00:13:58,520
+there's a lot of physical things that we do
+
+286
+00:13:58,870 --> 00:14:00,530
+need to practice a little bit each day,
+
+287
+00:14:00,550 --> 00:14:01,200
+what's enough,
+
+288
+00:14:01,200 --> 00:14:02,850
+well, I don't know,
+
+289
+00:14:04,070 --> 00:14:07,110
+if you can spend twenty minutes, five out of seven days of the week with your guitar,
+
+290
+00:14:07,460 --> 00:14:08,790
+you're making good progress,
+
+291
+00:14:09,380 --> 00:14:11,290
+okay, I hear about these guys that,
+
+292
+00:14:11,290 --> 00:14:12,595
+oh yeah, when I was a teenager,
+
+293
+00:14:12,595 --> 00:14:14,730
+I spent eight, nine hours with my guitar,
+
+294
+00:14:14,780 --> 00:14:16,830
+well, great, that's fabulous,
+
+295
+00:14:17,120 --> 00:14:19,840
+for me, if I can grab 15, 20 minutes,
+
+296
+00:14:19,840 --> 00:14:20,670
+I think it's a success,
+
+297
+00:14:21,550 --> 00:14:24,170
+so see if you can grab, set aside some time to do that,
+
+298
+00:14:24,250 --> 00:14:25,125
+a little bit each day,
+
+299
+00:14:25,125 --> 00:14:26,600
+and you'll get some good progress done.
+
+300
+00:14:27,160 --> 00:14:27,560
+Okay.
+
+301
+00:14:28,740 --> 00:14:31,360
+There is no substitute for diligent practice,
+
+302
+00:14:31,830 --> 00:14:33,580
+just go after it a little bit,
+
+303
+00:14:33,780 --> 00:14:34,540
+is it fun,
+
+304
+00:14:34,650 --> 00:14:36,880
+no, I do it for a living and it's never fun,
+
+305
+00:14:37,580 --> 00:14:38,455
+so get over that,
+
+306
+00:14:38,455 --> 00:14:40,450
+it wasn't fun when I was a kid and it's not fun,
+
+307
+00:14:40,450 --> 00:14:42,280
+now, it's something that you have to do,
+
+308
+00:14:42,280 --> 00:14:45,940
+like lifting weights, to get where you want to be is the practicing.
+
+309
+00:14:46,540 --> 00:14:47,720
+Okay, let me tell you another secret,
+
+310
+00:14:47,860 --> 00:14:49,230
+it's the power of warming up,
+
+311
+00:14:49,230 --> 00:14:51,705
+and most musicians, we're in a hurry and we're lazy,
+
+312
+00:14:51,705 --> 00:14:53,580
+and we never get around to actually playing a few minutes
+
+313
+00:14:53,580 --> 00:14:56,375
+before we're actually supposed to get up and play,
+
+314
+00:14:56,375 --> 00:14:59,660
+whether you're playing at church or whether you're playing with friends or something like that,
+
+315
+00:14:59,660 --> 00:15:03,790
+it's a good idea to get a few minutes of practicing in before you play,
+
+316
+00:15:04,020 --> 00:15:05,350
+here's what I do when I warm up,
+
+317
+00:15:05,430 --> 00:15:06,890
+I usually go through a major scale,
+
+318
+00:15:06,890 --> 00:15:08,710
+I set my metronome on 60
+
+319
+00:15:09,210 --> 00:15:12,070
+and I just do sixteenth notes through a major major scale,
+
+320
+00:15:12,090 --> 00:15:12,940
+be something like this,
+
+321
+00:15:24,300 --> 00:15:25,480
+then I go to the next form
+
+322
+00:15:34,890 --> 00:15:36,410
+and I keep going through all of that form,
+
+323
+00:15:36,410 --> 00:15:38,410
+all the way up the entire neck of the instrument,
+
+324
+00:15:38,670 --> 00:15:40,000
+and then I go back down again.
+
+325
+00:15:40,360 --> 00:15:42,805
+Okay, I can get through that as I slowly,
+
+326
+00:15:42,805 --> 00:15:43,795
+and then I come all the way down,
+
+327
+00:15:43,795 --> 00:15:45,960
+then I crank my metronome up a click
+
+328
+00:15:46,040 --> 00:15:47,700
+and that gets me to like 64,
+
+329
+00:15:48,280 --> 00:15:49,170
+and then I do it again,
+
+330
+00:15:49,340 --> 00:15:50,830
+and usually by about twenty minutes,
+
+331
+00:15:50,830 --> 00:15:55,140
+I'm usually around 120 or so, when I'm able to do sixteenth notes at 120,
+
+332
+00:15:55,520 --> 00:15:58,020
+now that I've found, I found that,
+
+333
+00:15:58,020 --> 00:16:00,980
+if I don't do the slower steps and I skip those,
+
+334
+00:16:01,510 --> 00:16:06,080
+then I just don't get to where I could have gotten had I taken the time to go through it slow,
+
+335
+00:16:06,340 --> 00:16:07,790
+it's kind of like lifting weights,
+
+336
+00:16:08,170 --> 00:16:10,365
+you don't just walk into the gym and throw up your highest weight
+
+337
+00:16:10,365 --> 00:16:11,535
+and expect to bench press it
+
+338
+00:16:11,535 --> 00:16:12,980
+and you gotta work your way up to it,
+
+339
+00:16:13,380 --> 00:16:15,910
+musicians are athletes of small muscles
+
+340
+00:16:15,960 --> 00:16:17,320
+and so a lot of what we do is physical,
+
+341
+00:16:17,370 --> 00:16:19,540
+so a good time warming up is well worth it.
+
+342
+00:16:20,170 --> 00:16:22,575
+You can do major scales, you can do panatonic scales,
+
+343
+00:16:22,575 --> 00:16:25,100
+basically, it's just getting your blood flowing
+
+344
+00:16:25,150 --> 00:16:27,290
+and getting your fingers used to firing together.
+
+345
+00:16:27,860 --> 00:16:29,330
+Okay, you can do a chromatic scale,
+
+346
+00:16:29,330 --> 00:16:31,150
+here's a good example of a chromatic scale,
+
+347
+00:16:31,470 --> 00:16:33,370
+starting at the fifth fret on this A
+
+348
+00:16:35,520 --> 00:16:37,000
+and I slide down to the next string,
+
+349
+00:16:38,400 --> 00:16:40,000
+back of fret, next string,
+
+350
+00:16:41,250 --> 00:16:42,070
+back of fret,
+
+351
+00:16:43,890 --> 00:16:44,980
+now here I stay
+
+352
+00:16:46,680 --> 00:16:47,770
+and I go back of fret
+
+353
+00:16:50,670 --> 00:16:51,940
+and there A again,
+
+354
+00:17:01,230 --> 00:17:02,860
+good finger exercise to get you doing,
+
+355
+00:17:03,090 --> 00:17:05,200
+remember our finger exercises like this,
+
+356
+00:17:05,640 --> 00:17:07,580
+all these things are good to warm up on.
+
+357
+00:17:07,780 --> 00:17:10,640
+Okay, now let me share with you the key to playing fast,
+
+358
+00:17:11,480 --> 00:17:12,520
+we'd make a million dollars,
+
+359
+00:17:12,660 --> 00:17:16,360
+if I could tell you the key to playing fast is in some little trick,
+
+360
+00:17:17,020 --> 00:17:18,210
+I've been playing all my life,
+
+361
+00:17:18,410 --> 00:17:20,670
+here's the only trick I have found to playing fast,
+
+362
+00:17:20,780 --> 00:17:22,740
+despite all the books and videos that I've gotten,
+
+363
+00:17:23,430 --> 00:17:26,470
+the key to playing fast is slow down,
+
+364
+00:17:27,030 --> 00:17:29,020
+If I'm trying to play a lick super fast,
+
+365
+00:17:29,550 --> 00:17:31,000
+here's two ways I can do it,
+
+366
+00:17:31,540 --> 00:17:32,550
+if I just start,
+
+367
+00:17:33,730 --> 00:17:35,150
+here's what the average person does,
+
+368
+00:17:35,260 --> 00:17:37,580
+They take the look, let's say I'm gonna do the pentatonic scale,
+
+369
+00:17:37,660 --> 00:17:39,200
+and they just play it as fast as they can
+
+370
+00:17:43,510 --> 00:17:44,520
+and they do something like that
+
+371
+00:17:44,520 --> 00:17:46,125
+and they just kind of fake there and fluff their way through it,
+
+372
+00:17:46,125 --> 00:17:47,120
+and they think they're playing fast,
+
+373
+00:17:47,830 --> 00:17:49,280
+okay, that's not real effective,
+
+374
+00:17:49,810 --> 00:17:50,750
+here's what I found,
+
+375
+00:17:50,830 --> 00:17:52,580
+actually get some improvement in playing fast,
+
+376
+00:17:52,900 --> 00:17:55,400
+go slow until you can actually play it,
+
+377
+00:17:56,530 --> 00:17:57,590
+you're playing every note,
+
+378
+00:17:57,730 --> 00:17:58,700
+everything's in control,
+
+379
+00:18:03,310 --> 00:18:04,155
+you do it again,
+
+380
+00:18:04,155 --> 00:18:05,810
+you slowly kick up your metronome,
+
+381
+00:18:05,890 --> 00:18:07,070
+you slowly do it again,
+
+382
+00:18:07,240 --> 00:18:08,270
+slowly do it again,
+
+383
+00:18:08,500 --> 00:18:11,835
+eventually you'll get up high enough to where you're actually playing it fast,
+
+384
+00:18:11,835 --> 00:18:12,750
+but you're in control,
+
+385
+00:18:12,750 --> 00:18:14,870
+and that's the key to playing fast,
+
+386
+00:18:15,340 --> 00:18:16,050
+What is a way,
+
+387
+00:18:16,050 --> 00:18:19,700
+a humongous waste of your time as a player is to just keep hitting that wall,
+
+388
+00:18:21,040 --> 00:18:22,160
+oh, wait a minute I can do it better,
+
+389
+00:18:22,900 --> 00:18:25,760
+wait a minute, and just keep hitting that wall,
+
+390
+00:18:25,900 --> 00:18:27,750
+if I did five minutes of starting slow,
+
+391
+00:18:27,750 --> 00:18:31,730
+that's worth thirty minutes of me sitting there in my bed, hitting the wall every time
+
+392
+00:18:31,960 --> 00:18:33,860
+and, and trying to do that,
+
+393
+00:18:34,140 --> 00:18:35,780
+I hope that makes some sense to you,
+
+394
+00:18:36,360 --> 00:18:39,525
+your fingers will only do what you've trained them to do,
+
+395
+00:18:39,525 --> 00:18:44,930
+a wonderful quote by a fantastic guitarist, Chris Proctor, classical guitarist,
+
+396
+00:18:44,950 --> 00:18:45,570
+as he said,
+
+397
+00:18:45,570 --> 00:18:48,140
+in your head is every musical idea you've ever heard,
+
+398
+00:18:48,250 --> 00:18:50,870
+but your fingers will only do what they've been trained to do,
+
+399
+00:18:51,410 --> 00:18:52,620
+and that is so true,
+
+400
+00:18:52,760 --> 00:18:54,520
+if you want to be able to play those hot licks,
+
+401
+00:18:54,520 --> 00:18:56,190
+it's not just gonna come to you in the heat of battle,
+
+402
+00:18:56,570 --> 00:18:59,010
+you've got to go through and pay your dues
+
+403
+00:18:59,150 --> 00:19:00,550
+and do all these exercises
+
+404
+00:19:00,550 --> 00:19:01,740
+to get them underneath your fingers,
+
+405
+00:19:02,270 --> 00:19:04,450
+okay, that brings me to the last point of
+
+406
+00:19:04,450 --> 00:19:06,630
+being a good musician in practicing
+
+407
+00:19:06,800 --> 00:19:10,410
+the power of inspiration and perseverance,
+
+408
+00:19:11,050 --> 00:19:12,260
+if you're an average player,
+
+409
+00:19:12,430 --> 00:19:14,880
+you kind of get sick of hearing yourself for a while
+
+410
+00:19:14,880 --> 00:19:15,690
+and you go through seasons,
+
+411
+00:19:15,690 --> 00:19:16,740
+if I play a little bit better,
+
+412
+00:19:16,740 --> 00:19:18,470
+then I play don't play quite as well
+
+413
+00:19:18,790 --> 00:19:20,520
+and I'm not too interested in my playing,
+
+414
+00:19:20,520 --> 00:19:23,000
+if you find yourself in a dry season of playing,
+
+415
+00:19:23,380 --> 00:19:25,130
+you need to get inspired, buddy,
+
+416
+00:19:25,450 --> 00:19:29,510
+go down, buy yourself a CD, go out here some musicians,
+
+417
+00:19:30,240 --> 00:19:32,900
+and take an evening and go do that,
+
+418
+00:19:33,310 --> 00:19:36,050
+get some inspiration back into your musical mind,
+
+419
+00:19:36,160 --> 00:19:37,250
+that will help you,
+
+420
+00:19:37,840 --> 00:19:39,630
+go the distance and get some new ideas,
+
+421
+00:19:40,130 --> 00:19:41,550
+you know I've heard a quote that,
+
+422
+00:19:41,570 --> 00:19:43,855
+a fool just keeps doing the same thing over and over
+
+423
+00:19:43,855 --> 00:19:45,360
+and expects different results to happen,
+
+424
+00:19:45,680 --> 00:19:47,830
+if you want new things to happen when you're playing,
+
+425
+00:19:47,830 --> 00:19:49,470
+get some new ideas, new inspiration,
+
+426
+00:19:49,730 --> 00:19:51,360
+that's one thing get inspired,
+
+427
+00:19:51,560 --> 00:19:54,060
+watch some other players figure out what they're doing,
+
+428
+00:19:54,140 --> 00:19:55,060
+go up and ask them,
+
+429
+00:19:55,060 --> 00:19:56,110
+what gear are you using,
+
+430
+00:19:56,110 --> 00:19:57,120
+what are you playing there,
+
+431
+00:19:57,410 --> 00:19:59,100
+the other thing that I found that makes a difference,
+
+432
+00:19:59,390 --> 00:20:02,395
+and this is from someone who's played all of his life,
+
+433
+00:20:02,395 --> 00:20:05,520
+is perseverance, You need to keep doing it,
+
+434
+00:20:05,970 --> 00:20:08,285
+you need to keep doing it and work hard at it,
+
+435
+00:20:08,285 --> 00:20:10,430
+it's not just gonna come by watching a video series,
+
+436
+00:20:10,430 --> 00:20:11,315
+I wish it would,
+
+437
+00:20:11,315 --> 00:20:12,880
+I'd be a very rich man, if it would,
+
+438
+00:20:13,420 --> 00:20:13,975
+but it's not,
+
+439
+00:20:13,975 --> 00:20:15,805
+it comes by working hard at it,
+
+440
+00:20:15,805 --> 00:20:18,550
+a lot of these concepts we've given you take a lot of time,
+
+441
+00:20:18,550 --> 00:20:19,860
+it's easy for me to explain,
+
+442
+00:20:19,970 --> 00:20:21,720
+but it takes a lot of time for you to understand,
+
+443
+00:20:22,160 --> 00:20:23,290
+so I just encourage you,
+
+444
+00:20:23,290 --> 00:20:26,430
+persevere in it and you'll be able to get to the results that you're acting,
+
+445
+00:20:27,100 --> 00:20:28,940
+that you're wanting to get out of your own playing.
+
+446
+00:20:29,380 --> 00:20:33,020
+Okay, here's some last minute keys to being a good musician,
+
+447
+00:20:33,780 --> 00:20:34,760
+when you're in a band situation,
+
+448
+00:20:35,230 --> 00:20:37,310
+work to compliment what the other people are doing,
+
+449
+00:20:37,510 --> 00:20:39,315
+don't just play, don't just copy what they're doing,
+
+450
+00:20:39,315 --> 00:20:40,970
+if the piano player playing chords
+
+451
+00:20:41,080 --> 00:20:43,365
+and you got a keyboard player playing chords,
+
+452
+00:20:43,365 --> 00:20:46,790
+the last thing we need you as a as a guitar player is to be chunking out the chords too,
+
+453
+00:20:52,720 --> 00:20:55,095
+that's adding nothing to the band mix,
+
+454
+00:20:55,095 --> 00:20:57,140
+if you already have a keyboard player that is doing that,
+
+455
+00:20:57,280 --> 00:21:00,500
+you need to think of something interesting,
+
+456
+00:21:00,520 --> 00:21:01,905
+that compliments what they're doing,
+
+457
+00:21:01,905 --> 00:21:04,340
+if they're just chunking off the chords,
+
+458
+00:21:04,360 --> 00:21:05,480
+maybe you could do something,
+
+459
+00:21:06,340 --> 00:21:07,830
+and again, it doesn't have to be complex,
+
+460
+00:21:07,830 --> 00:21:08,690
+but you could do something like,
+
+461
+00:21:17,290 --> 00:21:19,610
+now, [], I have a really hooky little guitar part,
+
+462
+00:21:19,870 --> 00:21:21,225
+I'm not playing anything complex,
+
+463
+00:21:21,225 --> 00:21:22,430
+I'm using a couple of different notes,
+
+464
+00:21:22,750 --> 00:21:23,570
+so it's not hard,
+
+465
+00:21:23,800 --> 00:21:24,930
+it's just playing something [hooky],
+
+466
+00:21:24,930 --> 00:21:26,900
+and I'm listening to the other musicians around this,
+
+467
+00:21:26,980 --> 00:21:27,920
+that's your big key.
+
+468
+00:21:28,420 --> 00:21:30,200
+Okay, if everyone is playing high,
+
+469
+00:21:35,560 --> 00:21:38,630
+the last thing they need me doing is up there high with them,
+
+470
+00:21:40,360 --> 00:21:42,080
+then it just becomes this big garbled mess,
+
+471
+00:21:42,280 --> 00:21:43,730
+if they're high, I go low,
+
+472
+00:21:43,870 --> 00:21:46,830
+if they're low, I get I go to the higher [register],
+
+473
+00:21:46,830 --> 00:21:50,000
+If everybody's playing busy, I simplify and do something like that,
+
+474
+00:21:50,110 --> 00:21:53,070
+if everybody has open spaces, then I might get a little busier,
+
+475
+00:21:53,070 --> 00:21:54,500
+give it a little bit of a beat happening.
+
+476
+00:21:55,060 --> 00:21:57,390
+Okay, those are some secrets to coming up with good guitar parts,
+
+477
+00:21:57,530 --> 00:21:59,100
+that separates you from other players,
+
+478
+00:21:59,360 --> 00:22:00,870
+get out of your own playing,
+
+479
+00:22:01,580 --> 00:22:03,640
+don't just think when you're in a band situation,
+
+480
+00:22:04,080 --> 00:22:05,225
+it's all about me
+
+481
+00:22:05,225 --> 00:22:08,510
+and I'm so all concerned about these chords that I'm doing and stuff like that,
+
+482
+00:22:08,510 --> 00:22:10,090
+listen to what's going on around you,
+
+483
+00:22:10,110 --> 00:22:11,060
+that's what's going to make
+
+484
+00:22:11,060 --> 00:22:14,530
+give you the creative ideas to be able to make some good music
+
+485
+00:22:14,610 --> 00:22:16,145
+and remember the purpose and you're playing,
+
+486
+00:22:16,145 --> 00:22:17,735
+you want to play with a purpose,
+
+487
+00:22:17,735 --> 00:22:19,100
+I don't wanna just play just for fun,
+
+488
+00:22:19,100 --> 00:22:20,650
+even though it is a blast to play,
+
+489
+00:22:20,910 --> 00:22:22,805
+but play to get enjoyment out of your life
+
+490
+00:22:22,805 --> 00:22:24,670
+and also to enrich the lives of others.
+
+491
+00:22:27,030 --> 00:22:28,510
+Okay, here's your assignment for this week,
+
+492
+00:22:28,650 --> 00:22:31,925
+I want you to practice the alternate base chords and the chord progressions
+
+493
+00:22:31,925 --> 00:22:33,640
+that we have in the back of your book,
+
+494
+00:22:33,960 --> 00:22:35,585
+okay, those chord exercises are real helpful,
+
+495
+00:22:35,585 --> 00:22:39,700
+and you can get a lot of good working out of these chord forms underneath your fingers,
+
+496
+00:22:40,110 --> 00:22:41,020
+if you do them,
+
+497
+00:22:41,280 --> 00:22:42,820
+the idea is to be able to get them fast,
+
+498
+00:22:43,350 --> 00:22:45,040
+where you can grab them immediately,
+
+499
+00:22:45,270 --> 00:22:49,110
+that's where you're gonna get some good mileage out of these chords,
+
+500
+00:22:49,190 --> 00:22:52,500
+practice the open E\B kind of droning chords, like this,
+
+501
+00:22:55,190 --> 00:22:56,740
+play around with this very common sound,
+
+502
+00:22:56,740 --> 00:22:58,440
+these days everybody's using it,
+
+503
+00:22:58,490 --> 00:22:59,305
+mess around with it,
+
+504
+00:22:59,305 --> 00:23:02,250
+see if you can come up with some own progressions of your own,
+
+505
+00:23:02,630 --> 00:23:04,260
+that can lead you into some creative territory.
+
+506
+00:23:05,020 --> 00:23:06,670
+I also want you to learn these new chord forms,
+
+507
+00:23:06,670 --> 00:23:08,550
+we talked about diminished, augmented,
+
+508
+00:23:08,630 --> 00:23:10,050
+get a few of those underneath your fingers,
+
+509
+00:23:10,220 --> 00:23:12,415
+I don't know a ton of augmented or diminished chords,
+
+510
+00:23:12,415 --> 00:23:14,010
+I know one on each string,
+
+511
+00:23:14,210 --> 00:23:15,880
+I know three, yet,
+
+512
+00:23:16,620 --> 00:23:18,940
+you can, you'll be amazed how much you can impress people,
+
+513
+00:23:19,050 --> 00:23:21,280
+if you just know a couple of chords like that.
+
+514
+00:23:21,480 --> 00:23:23,975
+It's been an honor and a privilege being able to teach you,
+
+515
+00:23:23,975 --> 00:23:26,830
+and I hope that some of the concepts and ideas that I have been able to share,
+
+516
+00:23:27,360 --> 00:23:29,480
+really sink down deep into your playing
+
+517
+00:23:29,650 --> 00:23:32,090
+and will change the way you play for the rest of your life,
+
+518
+00:23:32,440 --> 00:23:33,080
+we'll see you.
+
+519
+00:23:35,920 --> 00:23:37,070
+Okay, welcome to the workshop,
+
+520
+00:23:37,270 --> 00:23:41,625
+we covered an awful lot of ground with our various chord forms that we learned,
+
+521
+00:23:41,625 --> 00:23:43,040
+the alternate bass chord forms,
+
+522
+00:23:43,120 --> 00:23:44,510
+let's just review a couple of those,
+
+523
+00:23:44,800 --> 00:23:47,565
+what is a D with an F# in the bass,
+
+524
+00:23:47,565 --> 00:23:51,390
+remember that, slash is telling you the note underneath the slash is what note is in the bass,
+
+525
+00:23:51,390 --> 00:23:52,670
+it's not two chords you're playing,
+
+526
+00:23:52,990 --> 00:23:55,400
+it's one chord with a certain note in the bass,
+
+527
+00:23:55,660 --> 00:23:57,410
+so a D with an F# in the bass,
+
+528
+00:23:57,580 --> 00:23:58,640
+remember that chord form,
+
+529
+00:24:02,190 --> 00:24:04,600
+what about an E with a G# in the bass,
+
+530
+00:24:08,790 --> 00:24:12,220
+what about a B, or excuse me, a G chord with a B in the bass.
+
+531
+00:24:15,950 --> 00:24:17,755
+Okay, so let's do a little chord progression,
+
+532
+00:24:17,755 --> 00:24:21,030
+let's say, let's do a G to a D with an F# in the bass
+
+533
+00:24:21,560 --> 00:24:25,720
+to maybe an Em7, to a Dsus,
+
+534
+00:24:26,460 --> 00:24:27,890
+okay, so let be something like this,
+
+535
+00:24:28,360 --> 00:24:30,920
+one two, G, go,
+
+536
+00:24:33,070 --> 00:24:39,650
+D with an F# in the bass, Em, Dsus,
+
+537
+00:24:41,860 --> 00:24:49,010
+one more time, G, D with an F# in the,
+
+538
+00:24:55,600 --> 00:25:07,550
+maybe we could go to a C, maybe C2, G with B in the bass,
+
+539
+00:25:09,520 --> 00:25:12,800
+C2, G with the B in the bass,
+
+540
+00:25:15,430 --> 00:25:21,680
+Dsus, maybe a D, D with F#, G.
+
+541
+00:25:25,090 --> 00:25:26,900
+Great, see how all those chords work together,
+
+542
+00:25:27,010 --> 00:25:28,250
+let's cover a couple of more,
+
+543
+00:25:29,560 --> 00:25:31,730
+remember our diminished forms that we talked about,
+
+544
+00:25:32,110 --> 00:25:34,980
+how do you do a diminished form on the sixth string on,
+
+545
+00:25:34,980 --> 00:25:36,200
+let's say a Bb,
+
+546
+00:25:36,250 --> 00:25:38,510
+What if you saw Bb diminished, where would you go,
+
+547
+00:25:40,010 --> 00:25:41,880
+well, here's the form
+
+548
+00:25:43,250 --> 00:25:45,810
+and I just here's my root, I go up to Bb
+
+549
+00:25:46,850 --> 00:25:48,420
+and there's my Bb diminished,
+
+550
+00:25:49,100 --> 00:25:51,300
+what if I wanted it on the fifth string form,
+
+551
+00:25:52,440 --> 00:25:53,860
+and I wanted an E diminished,
+
+552
+00:25:54,330 --> 00:25:56,650
+well, no problem, that be here,
+
+553
+00:25:57,890 --> 00:25:58,860
+fourth string here,
+
+554
+00:26:01,640 --> 00:26:02,400
+six string here,
+
+555
+00:26:02,930 --> 00:26:04,560
+remember repeats every step and a half,
+
+556
+00:26:05,390 --> 00:26:06,690
+so this is an E diminished,
+
+557
+00:26:07,160 --> 00:26:08,310
+this is an E diminished,
+
+558
+00:26:08,990 --> 00:26:10,105
+this is an E diminished,
+
+559
+00:26:10,105 --> 00:26:11,080
+they're all E diminished,
+
+560
+00:26:11,080 --> 00:26:13,380
+because all of the scale tones very conveniently,
+
+561
+00:26:13,900 --> 00:26:15,345
+or all the same distance from each other,
+
+562
+00:26:15,345 --> 00:26:16,220
+so we can move them around.
+
+563
+00:26:16,660 --> 00:26:18,660
+Augmented chords. Let's cover a couple of those,
+
+564
+00:26:18,660 --> 00:26:20,570
+remember our F augmented that we touched on,
+
+565
+00:26:22,780 --> 00:26:25,070
+okay, remember our C augmented,
+
+566
+00:26:27,800 --> 00:26:29,785
+okay, let's do a little exercise,
+
+567
+00:26:29,785 --> 00:26:31,680
+let's do like a Cm9,
+
+568
+00:26:33,820 --> 00:26:37,500
+to maybe an Fm, to a G augmented,
+
+569
+00:26:38,100 --> 00:26:41,500
+okay, one, two, Cm9, go,
+
+570
+00:26:46,350 --> 00:26:50,320
+Fm7, G+7.
+
+571
+00:27:06,250 --> 00:27:11,920
+Great, okay, now adding these chords to your chord vocabulary
+
+572
+00:27:11,920 --> 00:27:13,680
+will help you go a long way into,
+
+573
+00:27:15,030 --> 00:27:16,930
+just being creative in what you wanna do,
+
+574
+00:27:17,130 --> 00:27:18,290
+it's been a wonderful series,
+
+575
+00:27:18,290 --> 00:27:19,600
+that we've been able to go through,
+
+576
+00:27:19,740 --> 00:27:21,640
+I would encourage you to keep up this good work
+
+577
+00:27:21,990 --> 00:27:24,365
+and always strive to keep hitting the high notes
+
+578
+00:27:24,365 --> 00:27:25,720
+and keep striving for new things.
+
+579
+00:27:26,340 --> 00:27:26,870
+We'll see you.
+
