@@ -69,3 +69,4 @@ single coil 单线圈
 
 # Session 20
 inversion 转位
+chromatic scale 半音音阶
